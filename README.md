@@ -1,1 +1,1 @@
-# Prediction-of-epidemic-disease-dynamics-using-Machine-learning-model
+# Prediction of epidemic disease dynamics using Machine learning model

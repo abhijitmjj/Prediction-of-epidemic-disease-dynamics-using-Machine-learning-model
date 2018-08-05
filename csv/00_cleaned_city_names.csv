@@ -1,0 +1,1718 @@
+location,location_type,country,province,county,city
+Argentina-Buenos_Aires,province,Argentina,Buenos Aires,,
+Argentina-CABA,province,Argentina,Ciudad de Buenos Aires,,
+Argentina-Cordoba,province,Argentina,Cordoba,,
+Argentina-Entre_Rios,province,Argentina,Entre Rios,,
+Argentina-Santa_Fe,province,Argentina,Santa Fe,,
+Argentina-Chaco,province,Argentina,Chaco,,
+Argentina-Corrientes,province,Argentina,Corrientes,,
+Argentina-Formosa,province,Argentina,Formosa,,
+Argentina-Misiones,province,Argentina,Misiones,,
+Argentina-Catamarca,province,Argentina,Catamarca,,
+Argentina-Jujuy,province,Argentina,Jujuy,,
+Argentina-Salta,province,Argentina,Salta,,
+Argentina-Sgo_Del_Estero,province,Argentina,Santiago Del Estero,,
+Argentina-Tucuman,province,Argentina,Tucuman,,
+Argentina-La_Rioja,province,Argentina,La Rioja,,
+Argentina-San_Luis,province,Argentina,San Luis,,
+Argentina-Mendoza,province,Argentina,Mendoza,,
+Argentina-San_Juan,province,Argentina,San Juan,,
+Argentina-Chubut,province,Argentina,Chubut,,
+Argentina-La_Pampa,province,Argentina,La Pampa,,
+Argentina-Rio_Negro,province,Argentina,Rio Negro,,
+Argentina-Santa_Cruz,province,Argentina,Santa Cruz,,
+Argentina-Neuquen,province,Argentina,Neuquen,,
+Argentina-Tierra_del_Fuego,province,Argentina,Tierra del Fuego,,
+Brazil-Alagoas,province,Brazil,Alagoas,,
+Brazil-Bahia,province,Brazil,Bahia,,
+Brazil-Ceara,province,Brazil,Ceara,,
+Brazil-Maranhao,province,Brazil,Maranhao,,
+Brazil-Paraiba,province,Brazil,Paraiba,,
+Brazil-Pernambuco,province,Brazil,Pernambuco,,
+Brazil-Piaui,province,Brazil,Piaui,,
+Brazil-Rio_Grande_do_Norte,province,Brazil,Rio Grande do Norte,,
+Brazil-Sergipe,province,Brazil,Sergipe,,
+Brazil-Espirito_Santo,province,Brazil,Espirito Santo,,
+Brazil-Minas_Gerais,province,Brazil,Minas Gerais,,
+Brazil-Rio_de_Janeiro,province,Brazil,Rio de Janeiro,,
+Brazil-Sao_Paulo,province,Brazil,Sao Paulo,,
+Brazil-Acre,province,Brazil,Acre,,
+Brazil-Amapa,province,Brazil,Amapa,,
+Brazil-Amazonas,province,Brazil,Amazonas,,
+Brazil-Para,province,Brazil,Para,,
+Brazil-Rondonia,province,Brazil,Rondonia,,
+Brazil-Roraima,province,Brazil,Roraima,,
+Brazil-Tocantins,province,Brazil,Tocantins,,
+Brazil-Distrito_Federal,province,Brazil,Distrito Federal,,
+Brazil-Goias,province,Brazil,Goias,,
+Brazil-Mato_Grosso,province,Brazil,Mato Grosso,,
+Brazil-Mato_Grosso_do_Sul,province,Brazil,Mato Grosso do Sul,,
+Brazil-Parana,province,Brazil,Parana,,
+Brazil-Santa_Catarina,province,Brazil,Santa Catarina,,
+Brazil-Rio_Grande_do_Sul,province,Brazil,Rio Grande do Sul,,
+Colombia-Antioquia-Medellin,city,Colombia,Antioquia,Medellin,Medellin
+Colombia-Antioquia-Abejorral,city,Colombia,Antioquia,Abejorral,Abejorral
+Colombia-Antioquia-Abriaqui,city,Colombia,Antioquia,Abriaqui,Abriaqui
+Colombia-Antioquia-Alejandria,city,Colombia,Antioquia,Alejandria,Alejandria
+Colombia-Antioquia-Amaga,city,Colombia,Antioquia,Amaga,Amaga
+Colombia-Antioquia-Amalfi,city,Colombia,Antioquia,Amalfi,Amalfi
+Colombia-Antioquia-Andes,city,Colombia,Antioquia,Andes,Andes
+Colombia-Antioquia-Angelopolis,city,Colombia,Antioquia,Angelopolis,Angelopolis
+Colombia-Antioquia-Angostura,city,Colombia,Antioquia,Angostura,Angostura
+Colombia-Antioquia-Anori,city,Colombia,Antioquia,Anori,Anori
+Colombia-Antioquia-Santafe_De_Antioquia,city,Colombia,Antioquia,Santafe De Antioquia,Santafe De Antioquia
+Colombia-Antioquia-Anza,city,Colombia,Antioquia,Anza,Anza
+Colombia-Antioquia-Apartado,city,Colombia,Antioquia,Apartado,Apartado
+Colombia-Antioquia-Arboletes,city,Colombia,Antioquia,Arboletes,Arboletes
+Colombia-Antioquia-Argelia,city,Colombia,Antioquia,Argelia,Argelia
+Colombia-Antioquia-Armenia,city,Colombia,Antioquia,Armenia,Armenia
+Colombia-Antioquia-Barbosa,city,Colombia,Antioquia,Barbosa,Barbosa
+Colombia-Antioquia-Belmira,city,Colombia,Antioquia,Belmira,Belmira
+Colombia-Antioquia-Bello,city,Colombia,Antioquia,Bello,Bello
+Colombia-Antioquia-Betania,city,Colombia,Antioquia,Betania,Betania
+Colombia-Antioquia-Betulia,city,Colombia,Antioquia,Betulia,Betulia
+Colombia-Antioquia-Ciudad_Bolivar,city,Colombia,Antioquia,Ciudad Bolivar,Ciudad Bolivar
+Colombia-Antioquia-Briceno,city,Colombia,Antioquia,Briceno,Briceno
+Colombia-Antioquia-Buritica,city,Colombia,Antioquia,Buritica,Buritica
+Colombia-Antioquia-Caceres,city,Colombia,Antioquia,Caceres,Caceres
+Colombia-Antioquia-Caicedo,city,Colombia,Antioquia,Caicedo,Caicedo
+Colombia-Antioquia-Caldas,city,Colombia,Antioquia,Caldas,Caldas
+Colombia-Antioquia-Campamento,city,Colombia,Antioquia,Campamento,Campamento
+Colombia-Antioquia-Canasgordas,city,Colombia,Antioquia,Canasgordas,Canasgordas
+Colombia-Antioquia-Caracoli,city,Colombia,Antioquia,Caracoli,Caracoli
+Colombia-Antioquia-Caramanta,city,Colombia,Antioquia,Caramanta,Caramanta
+Colombia-Antioquia-Carepa,city,Colombia,Antioquia,Carepa,Carepa
+Colombia-Antioquia-El_Carmen_De_Viboral,city,Colombia,Antioquia,El Carmen De Viboral,El Carmen De Viboral
+Colombia-Antioquia-Carolina,city,Colombia,Antioquia,Carolina,Carolina
+Colombia-Antioquia-Caucasia,city,Colombia,Antioquia,Caucasia,Caucasia
+Colombia-Antioquia-Chigorodo,city,Colombia,Antioquia,Chigorodo,Chigorodo
+Colombia-Antioquia-Cisneros,city,Colombia,Antioquia,Cisneros,Cisneros
+Colombia-Antioquia-Cocorna,city,Colombia,Antioquia,Cocorna,Cocorna
+Colombia-Antioquia-Concepcion,city,Colombia,Antioquia,Concepcion,Concepcion
+Colombia-Antioquia-Concordia,city,Colombia,Antioquia,Concordia,Concordia
+Colombia-Antioquia-Copacabana,city,Colombia,Antioquia,Copacabana,Copacabana
+Colombia-Antioquia-Dabeiba,city,Colombia,Antioquia,Dabeiba,Dabeiba
+Colombia-Antioquia-Don_Matias,city,Colombia,Antioquia,Don Matias,Don Matias
+Colombia-Antioquia-Ebejico,city,Colombia,Antioquia,Ebejico,Ebejico
+Colombia-Antioquia-El_Bagre,city,Colombia,Antioquia,El Bagre,El Bagre
+Colombia-Antioquia-Entrerrios,city,Colombia,Antioquia,Entrerrios,Entrerrios
+Colombia-Antioquia-Envigado,city,Colombia,Antioquia,Envigado,Envigado
+Colombia-Antioquia-Fredonia,city,Colombia,Antioquia,Fredonia,Fredonia
+Colombia-Antioquia-Frontino,city,Colombia,Antioquia,Frontino,Frontino
+Colombia-Antioquia-Giraldo,city,Colombia,Antioquia,Giraldo,Giraldo
+Colombia-Antioquia-Girardota,city,Colombia,Antioquia,Girardota,Girardota
+Colombia-Antioquia-Gomez_Plata,city,Colombia,Antioquia,Gomez Plata,Gomez Plata
+Colombia-Antioquia-Granada,city,Colombia,Antioquia,Granada,Granada
+Colombia-Antioquia-Guadalupe,city,Colombia,Antioquia,Guadalupe,Guadalupe
+Colombia-Antioquia-Guarne,city,Colombia,Antioquia,Guarne,Guarne
+Colombia-Antioquia-Guatape,city,Colombia,Antioquia,Guatape,Guatape
+Colombia-Antioquia-Heliconia,city,Colombia,Antioquia,Heliconia,Heliconia
+Colombia-Antioquia-Hispania,city,Colombia,Antioquia,Hispania,Hispania
+Colombia-Antioquia-Itagui,city,Colombia,Antioquia,Itagui,Itagui
+Colombia-Antioquia-Ituango,city,Colombia,Antioquia,Ituango,Ituango
+Colombia-Antioquia-Jardin,city,Colombia,Antioquia,Jardin,Jardin
+Colombia-Antioquia-Jerico,city,Colombia,Antioquia,Jerico,Jerico
+Colombia-Antioquia-La_Ceja,city,Colombia,Antioquia,La Ceja,La Ceja
+Colombia-Antioquia-La_Estrella,city,Colombia,Antioquia,La Estrella,La Estrella
+Colombia-Antioquia-La_Pintada,city,Colombia,Antioquia,La Pintada,La Pintada
+Colombia-Antioquia-La_Union,city,Colombia,Antioquia,La Union,La Union
+Colombia-Antioquia-Liborina,city,Colombia,Antioquia,Liborina,Liborina
+Colombia-Antioquia-Maceo,city,Colombia,Antioquia,Maceo,Maceo
+Colombia-Antioquia-Marinilla,city,Colombia,Antioquia,Marinilla,Marinilla
+Colombia-Antioquia-Montebello,city,Colombia,Antioquia,Montebello,Montebello
+Colombia-Antioquia-Murindo,city,Colombia,Antioquia,Murindo,Murindo
+Colombia-Antioquia-Mutata,city,Colombia,Antioquia,Mutata,Mutata
+Colombia-Antioquia-Narino,city,Colombia,Antioquia,Narino,Narino
+Colombia-Antioquia-Necocli,city,Colombia,Antioquia,Necocli,Necocli
+Colombia-Antioquia-Nechi,city,Colombia,Antioquia,Nechi,Nechi
+Colombia-Antioquia-Olaya,city,Colombia,Antioquia,Olaya,Olaya
+Colombia-Antioquia-Peque,city,Colombia,Antioquia,Peque,Peque
+Colombia-Antioquia-Pueblorrico,city,Colombia,Antioquia,Pueblorrico,Pueblorrico
+Colombia-Antioquia-Puerto_Berrio,city,Colombia,Antioquia,Puerto Berrio,Puerto Berrio
+Colombia-Antioquia-Puerto_Nare,city,Colombia,Antioquia,Puerto Nare,Puerto Nare
+Colombia-Antioquia-Puerto_Triunfo,city,Colombia,Antioquia,Puerto Triunfo,Puerto Triunfo
+Colombia-Antioquia-Remedios,city,Colombia,Antioquia,Remedios,Remedios
+Colombia-Antioquia-Retiro,city,Colombia,Antioquia,Retiro,Retiro
+Colombia-Antioquia-Rionegro,city,Colombia,Antioquia,Rionegro,Rionegro
+Colombia-Antioquia-Sabanalarga,city,Colombia,Antioquia,Sabanalarga,Sabanalarga
+Colombia-Antioquia-Sabaneta,city,Colombia,Antioquia,Sabaneta,Sabaneta
+Colombia-Antioquia-Salgar,city,Colombia,Antioquia,Salgar,Salgar
+Colombia-Antioquia-San_Andres_De_Cuerquia,city,Colombia,Antioquia,San Andres De Cuerquia,San Andres De Cuerquia
+Colombia-Antioquia-San_Carlos,city,Colombia,Antioquia,San Carlos,San Carlos
+Colombia-Antioquia-San_Francisco,city,Colombia,Antioquia,San Francisco,San Francisco
+Colombia-Antioquia-San_Jeronimo,city,Colombia,Antioquia,San Jeronimo,San Jeronimo
+Colombia-Antioquia-San_Jose_De_La_Montana,city,Colombia,Antioquia,San Jose De La Montana,San Jose De La Montana
+Colombia-Antioquia-San_Juan_De_Uraba,city,Colombia,Antioquia,San Juan De Uraba,San Juan De Uraba
+Colombia-Antioquia-San_Luis,city,Colombia,Antioquia,San Luis,San Luis
+Colombia-Antioquia-San_Pedro,city,Colombia,Antioquia,San Pedro,San Pedro
+Colombia-Antioquia-San_Pedro_De_Uraba,city,Colombia,Antioquia,San Pedro De Uraba,San Pedro De Uraba
+Colombia-Antioquia-San_Rafael,city,Colombia,Antioquia,San Rafael,San Rafael
+Colombia-Antioquia-San_Roque,city,Colombia,Antioquia,San Roque,San Roque
+Colombia-Antioquia-San_Vicente,city,Colombia,Antioquia,San Vicente,San Vicente
+Colombia-Antioquia-Santa_Barbara,city,Colombia,Antioquia,Santa Barbara,Santa Barbara
+Colombia-Antioquia-Santa_Rosa_De_Osos,city,Colombia,Antioquia,Santa Rosa De Osos,Santa Rosa De Osos
+Colombia-Antioquia-Santo_Domingo,city,Colombia,Antioquia,Santo Domingo,Santo Domingo
+Colombia-Antioquia-El_Santuario,city,Colombia,Antioquia,El Santuario,El Santuario
+Colombia-Antioquia-Segovia,city,Colombia,Antioquia,Segovia,Segovia
+Colombia-Antioquia-Sonson,city,Colombia,Antioquia,Sonson,Sonson
+Colombia-Antioquia-Sopetran,city,Colombia,Antioquia,Sopetran,Sopetran
+Colombia-Antioquia-Tamesis,city,Colombia,Antioquia,Tamesis,Tamesis
+Colombia-Antioquia-Taraza,city,Colombia,Antioquia,Taraza,Taraza
+Colombia-Antioquia-Tarso,city,Colombia,Antioquia,Tarso,Tarso
+Colombia-Antioquia-Titiribi,city,Colombia,Antioquia,Titiribi,Titiribi
+Colombia-Antioquia-Toledo,city,Colombia,Antioquia,Toledo,Toledo
+Colombia-Antioquia-Turbo,city,Colombia,Antioquia,Turbo,Turbo
+Colombia-Antioquia-Uramita,city,Colombia,Antioquia,Uramita,Uramita
+Colombia-Antioquia-Urrao,city,Colombia,Antioquia,Urrao,Urrao
+Colombia-Antioquia-Valdivia,city,Colombia,Antioquia,Valdivia,Valdivia
+Colombia-Antioquia-Valparaiso,city,Colombia,Antioquia,Valparaiso,Valparaiso
+Colombia-Antioquia-Vegachi,city,Colombia,Antioquia,Vegachi,Vegachi
+Colombia-Antioquia-Venecia,city,Colombia,Antioquia,Venecia,Venecia
+Colombia-Antioquia-Vigia_Del_Fuerte,city,Colombia,Antioquia,Vigia Del Fuerte,Vigia Del Fuerte
+Colombia-Antioquia-Yali,city,Colombia,Antioquia,Yali,Yali
+Colombia-Antioquia-Yarumal,city,Colombia,Antioquia,Yarumal,Yarumal
+Colombia-Antioquia-Yolombo,city,Colombia,Antioquia,Yolombo,Yolombo
+Colombia-Antioquia-Yondo,city,Colombia,Antioquia,Yondo,Yondo
+Colombia-Antioquia-Zaragoza,city,Colombia,Antioquia,Zaragoza,Zaragoza
+Colombia-Barranquilla-Barranquilla,city,Colombia,Barranquilla,Barranquilla,Barranquilla
+Colombia-Atlantico-Baranoa,city,Colombia,Atlantico,Baranoa,Baranoa
+Colombia-Atlantico-Campo_De_La_Cruz,city,Colombia,Atlantico,Campo De La Cruz,Campo De La Cruz
+Colombia-Atlantico-Candelaria,city,Colombia,Atlantico,Candelaria,Candelaria
+Colombia-Atlantico-Galapa,city,Colombia,Atlantico,Galapa,Galapa
+Colombia-Atlantico-Juan_De_Acosta,city,Colombia,Atlantico,Juan De Acosta,Juan De Acosta
+Colombia-Atlantico-Luruaco,city,Colombia,Atlantico,Luruaco,Luruaco
+Colombia-Atlantico-Malambo,city,Colombia,Atlantico,Malambo,Malambo
+Colombia-Atlantico-Manati,city,Colombia,Atlantico,Manati,Manati
+Colombia-Atlantico-Palmar_De_Varela,city,Colombia,Atlantico,Palmar De Varela,Palmar De Varela
+Colombia-Atlantico-Piojo,city,Colombia,Atlantico,Piojo,Piojo
+Colombia-Atlantico-Polonuevo,city,Colombia,Atlantico,Polonuevo,Polonuevo
+Colombia-Atlantico-Ponedera,city,Colombia,Atlantico,Ponedera,Ponedera
+Colombia-Atlantico-Puerto_Colombia,city,Colombia,Atlantico,Puerto Colombia,Puerto Colombia
+Colombia-Atlantico-Repelon,city,Colombia,Atlantico,Repelon,Repelon
+Colombia-Atlantico-Sabanagrande,city,Colombia,Atlantico,Sabanagrande,Sabanagrande
+Colombia-Atlantico-Sabanalarga,city,Colombia,Atlantico,Sabanalarga,Sabanalarga
+Colombia-Atlantico-Santa_Lucia,city,Colombia,Atlantico,Santa Lucia,Santa Lucia
+Colombia-Atlantico-Santo_Tomas,city,Colombia,Atlantico,Santo Tomas,Santo Tomas
+Colombia-Atlantico-Soledad,city,Colombia,Atlantico,Soledad,Soledad
+Colombia-Atlantico-Suan,city,Colombia,Atlantico,Suan,Suan
+Colombia-Atlantico-Tubara,city,Colombia,Atlantico,Tubara,Tubara
+Colombia-Atlantico-Usiacuri,city,Colombia,Atlantico,Usiacuri,Usiacuri
+Colombia-Cartagena-Cartagena,city,Colombia,Cartagena,Cartagena,Cartagena
+Colombia-Bolivar-Achi,city,Colombia,Bolivar,Achi,Achi
+Colombia-Bolivar-Altos_Del_Rosario,city,Colombia,Bolivar,Altos Del Rosario,Altos Del Rosario
+Colombia-Bolivar-Arenal,city,Colombia,Bolivar,Arenal,Arenal
+Colombia-Bolivar-Arjona,city,Colombia,Bolivar,Arjona,Arjona
+Colombia-Bolivar-Arroyohondo,city,Colombia,Bolivar,Arroyohondo,Arroyohondo
+Colombia-Bolivar-Barranco_De_Loba,city,Colombia,Bolivar,Barranco De Loba,Barranco De Loba
+Colombia-Bolivar-Calamar,city,Colombia,Bolivar,Calamar,Calamar
+Colombia-Bolivar-Cantagallo,city,Colombia,Bolivar,Cantagallo,Cantagallo
+Colombia-Bolivar-Cicuco,city,Colombia,Bolivar,Cicuco,Cicuco
+Colombia-Bolivar-Cordoba,city,Colombia,Bolivar,Cordoba,Cordoba
+Colombia-Bolivar-Clemencia,city,Colombia,Bolivar,Clemencia,Clemencia
+Colombia-Bolivar-El_Carmen_De_Bolivar,city,Colombia,Bolivar,El Carmen De Bolivar,El Carmen De Bolivar
+Colombia-Bolivar-El_Guamo,city,Colombia,Bolivar,El Guamo,El Guamo
+Colombia-Bolivar-El_Penon,city,Colombia,Bolivar,El Penon,El Penon
+Colombia-Bolivar-Hatillo_De_Loba,city,Colombia,Bolivar,Hatillo De Loba,Hatillo De Loba
+Colombia-Bolivar-Magangue,city,Colombia,Bolivar,Magangue,Magangue
+Colombia-Bolivar-Mahates,city,Colombia,Bolivar,Mahates,Mahates
+Colombia-Bolivar-Margarita,city,Colombia,Bolivar,Margarita,Margarita
+Colombia-Bolivar-Maria_La_Baja,city,Colombia,Bolivar,Maria La Baja,Maria La Baja
+Colombia-Bolivar-Montecristo,city,Colombia,Bolivar,Montecristo,Montecristo
+Colombia-Bolivar-Mompos,city,Colombia,Bolivar,Mompos,Mompos
+Colombia-Bolivar-Norosi,city,Colombia,Bolivar,Norosi,Norosi
+Colombia-Bolivar-Morales,city,Colombia,Bolivar,Morales,Morales
+Colombia-Bolivar-Pinillos,city,Colombia,Bolivar,Pinillos,Pinillos
+Colombia-Bolivar-Regidor,city,Colombia,Bolivar,Regidor,Regidor
+Colombia-Bolivar-Rio_Viejo,city,Colombia,Bolivar,Rio Viejo,Rio Viejo
+Colombia-Bolivar-San_Cristobal,city,Colombia,Bolivar,San Cristobal,San Cristobal
+Colombia-Bolivar-San_Estanislao,city,Colombia,Bolivar,San Estanislao,San Estanislao
+Colombia-Bolivar-San_Fernando,city,Colombia,Bolivar,San Fernando,San Fernando
+Colombia-Bolivar-San_Jacinto,city,Colombia,Bolivar,San Jacinto,San Jacinto
+Colombia-Bolivar-San_Jacinto_Del_Cauca,city,Colombia,Bolivar,San Jacinto Del Cauca,San Jacinto Del Cauca
+Colombia-Bolivar-San_Juan_Nepomuceno,city,Colombia,Bolivar,San Juan Nepomuceno,San Juan Nepomuceno
+Colombia-Bolivar-San_Martin_De_Loba,city,Colombia,Bolivar,San Martin De Loba,San Martin De Loba
+Colombia-Bolivar-San_Pablo,city,Colombia,Bolivar,San Pablo,San Pablo
+Colombia-Bolivar-Santa_Catalina,city,Colombia,Bolivar,Santa Catalina,Santa Catalina
+Colombia-Bolivar-Santa_Rosa,city,Colombia,Bolivar,Santa Rosa,Santa Rosa
+Colombia-Bolivar-Santa_Rosa_Del_Sur,city,Colombia,Bolivar,Santa Rosa Del Sur,Santa Rosa Del Sur
+Colombia-Bolivar-Simiti,city,Colombia,Bolivar,Simiti,Simiti
+Colombia-Bolivar-Soplaviento,city,Colombia,Bolivar,Soplaviento,Soplaviento
+Colombia-Bolivar-Talaigua_Nuevo,city,Colombia,Bolivar,Talaigua Nuevo,Talaigua Nuevo
+Colombia-Bolivar-Tiquisio,city,Colombia,Bolivar,Tiquisio,Tiquisio
+Colombia-Bolivar-Turbaco,city,Colombia,Bolivar,Turbaco,Turbaco
+Colombia-Bolivar-Turbana,city,Colombia,Bolivar,Turbana,Turbana
+Colombia-Bolivar-Villanueva,city,Colombia,Bolivar,Villanueva,Villanueva
+Colombia-Bolivar-Zambrano,city,Colombia,Bolivar,Zambrano,Zambrano
+Colombia-Boyaca-Tunja,city,Colombia,Boyaca,Tunja,Tunja
+Colombia-Boyaca-Almeida,city,Colombia,Boyaca,Almeida,Almeida
+Colombia-Boyaca-Aquitania,city,Colombia,Boyaca,Aquitania,Aquitania
+Colombia-Boyaca-Arcabuco,city,Colombia,Boyaca,Arcabuco,Arcabuco
+Colombia-Boyaca-Belen,city,Colombia,Boyaca,Belen,Belen
+Colombia-Boyaca-Berbeo,city,Colombia,Boyaca,Berbeo,Berbeo
+Colombia-Boyaca-Beteitiva,city,Colombia,Boyaca,Beteitiva,Beteitiva
+Colombia-Boyaca-Boavita,city,Colombia,Boyaca,Boavita,Boavita
+Colombia-Boyaca-Boyaca,city,Colombia,Boyaca,Boyaca,Boyaca
+Colombia-Boyaca-Briceno,city,Colombia,Boyaca,Briceno,Briceno
+Colombia-Boyaca-Buenavista,city,Colombia,Boyaca,Buenavista,Buenavista
+Colombia-Boyaca-Busbanza,city,Colombia,Boyaca,Busbanza,Busbanza
+Colombia-Boyaca-Caldas,city,Colombia,Boyaca,Caldas,Caldas
+Colombia-Boyaca-Campohermoso,city,Colombia,Boyaca,Campohermoso,Campohermoso
+Colombia-Boyaca-Cerinza,city,Colombia,Boyaca,Cerinza,Cerinza
+Colombia-Boyaca-Chinavita,city,Colombia,Boyaca,Chinavita,Chinavita
+Colombia-Boyaca-Chiquinquira,city,Colombia,Boyaca,Chiquinquira,Chiquinquira
+Colombia-Boyaca-Chiscas,city,Colombia,Boyaca,Chiscas,Chiscas
+Colombia-Boyaca-Chita,city,Colombia,Boyaca,Chita,Chita
+Colombia-Boyaca-Chitaraque,city,Colombia,Boyaca,Chitaraque,Chitaraque
+Colombia-Boyaca-Chivata,city,Colombia,Boyaca,Chivata,Chivata
+Colombia-Boyaca-Cienega,city,Colombia,Boyaca,Cienega,Cienega
+Colombia-Boyaca-Combita,city,Colombia,Boyaca,Combita,Combita
+Colombia-Boyaca-Coper,city,Colombia,Boyaca,Coper,Coper
+Colombia-Boyaca-Corrales,city,Colombia,Boyaca,Corrales,Corrales
+Colombia-Boyaca-Covarachia,city,Colombia,Boyaca,Covarachia,Covarachia
+Colombia-Boyaca-Cubara,city,Colombia,Boyaca,Cubara,Cubara
+Colombia-Boyaca-Cucaita,city,Colombia,Boyaca,Cucaita,Cucaita
+Colombia-Boyaca-Cuitiva,city,Colombia,Boyaca,Cuitiva,Cuitiva
+Colombia-Boyaca-Chiquiza,city,Colombia,Boyaca,Chiquiza,Chiquiza
+Colombia-Boyaca-Chivor,city,Colombia,Boyaca,Chivor,Chivor
+Colombia-Boyaca-Duitama,city,Colombia,Boyaca,Duitama,Duitama
+Colombia-Boyaca-El_Cocuy,city,Colombia,Boyaca,El Cocuy,El Cocuy
+Colombia-Boyaca-El_Espino,city,Colombia,Boyaca,El Espino,El Espino
+Colombia-Boyaca-Firavitoba,city,Colombia,Boyaca,Firavitoba,Firavitoba
+Colombia-Boyaca-Floresta,city,Colombia,Boyaca,Floresta,Floresta
+Colombia-Boyaca-Gachantiva,city,Colombia,Boyaca,Gachantiva,Gachantiva
+Colombia-Boyaca-Gameza,city,Colombia,Boyaca,Gameza,Gameza
+Colombia-Boyaca-Garagoa,city,Colombia,Boyaca,Garagoa,Garagoa
+Colombia-Boyaca-Guacamayas,city,Colombia,Boyaca,Guacamayas,Guacamayas
+Colombia-Boyaca-Guateque,city,Colombia,Boyaca,Guateque,Guateque
+Colombia-Boyaca-Guayata,city,Colombia,Boyaca,Guayata,Guayata
+Colombia-Boyaca-Guican,city,Colombia,Boyaca,Guican,Guican
+Colombia-Boyaca-Iza,city,Colombia,Boyaca,Iza,Iza
+Colombia-Boyaca-Jenesano,city,Colombia,Boyaca,Jenesano,Jenesano
+Colombia-Boyaca-Jerico,city,Colombia,Boyaca,Jerico,Jerico
+Colombia-Boyaca-Labranzagrande,city,Colombia,Boyaca,Labranzagrande,Labranzagrande
+Colombia-Boyaca-La_Capilla,city,Colombia,Boyaca,La Capilla,La Capilla
+Colombia-Boyaca-La_Victoria,city,Colombia,Boyaca,La Victoria,La Victoria
+Colombia-Boyaca-La_Uvita,city,Colombia,Boyaca,La Uvita,La Uvita
+Colombia-Boyaca-Villa_De_Leyva,city,Colombia,Boyaca,Villa De Leyva,Villa De Leyva
+Colombia-Boyaca-Macanal,city,Colombia,Boyaca,Macanal,Macanal
+Colombia-Boyaca-Maripi,city,Colombia,Boyaca,Maripi,Maripi
+Colombia-Boyaca-Miraflores,city,Colombia,Boyaca,Miraflores,Miraflores
+Colombia-Boyaca-Mongua,city,Colombia,Boyaca,Mongua,Mongua
+Colombia-Boyaca-Mongui,city,Colombia,Boyaca,Mongui,Mongui
+Colombia-Boyaca-Moniquira,city,Colombia,Boyaca,Moniquira,Moniquira
+Colombia-Boyaca-Motavita,city,Colombia,Boyaca,Motavita,Motavita
+Colombia-Boyaca-Muzo,city,Colombia,Boyaca,Muzo,Muzo
+Colombia-Boyaca-Nobsa,city,Colombia,Boyaca,Nobsa,Nobsa
+Colombia-Boyaca-Nuevo_Colon,city,Colombia,Boyaca,Nuevo Colon,Nuevo Colon
+Colombia-Boyaca-Oicata,city,Colombia,Boyaca,Oicata,Oicata
+Colombia-Boyaca-Otanche,city,Colombia,Boyaca,Otanche,Otanche
+Colombia-Boyaca-Pachavita,city,Colombia,Boyaca,Pachavita,Pachavita
+Colombia-Boyaca-Paez,city,Colombia,Boyaca,Paez,Paez
+Colombia-Boyaca-Paipa,city,Colombia,Boyaca,Paipa,Paipa
+Colombia-Boyaca-Pajarito,city,Colombia,Boyaca,Pajarito,Pajarito
+Colombia-Boyaca-Panqueba,city,Colombia,Boyaca,Panqueba,Panqueba
+Colombia-Boyaca-Pauna,city,Colombia,Boyaca,Pauna,Pauna
+Colombia-Boyaca-Paya,city,Colombia,Boyaca,Paya,Paya
+Colombia-Boyaca-Paz_De_Rio,city,Colombia,Boyaca,Paz De Rio,Paz De Rio
+Colombia-Boyaca-Pesca,city,Colombia,Boyaca,Pesca,Pesca
+Colombia-Boyaca-Pisba,city,Colombia,Boyaca,Pisba,Pisba
+Colombia-Boyaca-Puerto_Boyaca,city,Colombia,Boyaca,Puerto Boyaca,Puerto Boyaca
+Colombia-Boyaca-Quipama,city,Colombia,Boyaca,Quipama,Quipama
+Colombia-Boyaca-Ramiriqui,city,Colombia,Boyaca,Ramiriqui,Ramiriqui
+Colombia-Boyaca-Raquira,city,Colombia,Boyaca,Raquira,Raquira
+Colombia-Boyaca-Rondon,city,Colombia,Boyaca,Rondon,Rondon
+Colombia-Boyaca-Saboya,city,Colombia,Boyaca,Saboya,Saboya
+Colombia-Boyaca-Sachica,city,Colombia,Boyaca,Sachica,Sachica
+Colombia-Boyaca-Samaca,city,Colombia,Boyaca,Samaca,Samaca
+Colombia-Boyaca-San_Eduardo,city,Colombia,Boyaca,San Eduardo,San Eduardo
+Colombia-Boyaca-San_Jose_De_Pare,city,Colombia,Boyaca,San Jose De Pare,San Jose De Pare
+Colombia-Boyaca-San_Luis_De_Gaceno,city,Colombia,Boyaca,San Luis De Gaceno,San Luis De Gaceno
+Colombia-Boyaca-San_Mateo,city,Colombia,Boyaca,San Mateo,San Mateo
+Colombia-Boyaca-San_Miguel_De_Sema,city,Colombia,Boyaca,San Miguel De Sema,San Miguel De Sema
+Colombia-Boyaca-San_Pablo_De_Borbur,city,Colombia,Boyaca,San Pablo De Borbur,San Pablo De Borbur
+Colombia-Boyaca-Santana,city,Colombia,Boyaca,Santana,Santana
+Colombia-Boyaca-Santa_Maria,city,Colombia,Boyaca,Santa Maria,Santa Maria
+Colombia-Boyaca-Santa_Rosa_De_Viterbo,city,Colombia,Boyaca,Santa Rosa De Viterbo,Santa Rosa De Viterbo
+Colombia-Boyaca-Santa_Sofia,city,Colombia,Boyaca,Santa Sofia,Santa Sofia
+Colombia-Boyaca-Sativanorte,city,Colombia,Boyaca,Sativanorte,Sativanorte
+Colombia-Boyaca-Sativasur,city,Colombia,Boyaca,Sativasur,Sativasur
+Colombia-Boyaca-Siachoque,city,Colombia,Boyaca,Siachoque,Siachoque
+Colombia-Boyaca-Soata,city,Colombia,Boyaca,Soata,Soata
+Colombia-Boyaca-Socota,city,Colombia,Boyaca,Socota,Socota
+Colombia-Boyaca-Socha,city,Colombia,Boyaca,Socha,Socha
+Colombia-Boyaca-Sogamoso,city,Colombia,Boyaca,Sogamoso,Sogamoso
+Colombia-Boyaca-Somondoco,city,Colombia,Boyaca,Somondoco,Somondoco
+Colombia-Boyaca-Sora,city,Colombia,Boyaca,Sora,Sora
+Colombia-Boyaca-Sotaquira,city,Colombia,Boyaca,Sotaquira,Sotaquira
+Colombia-Boyaca-Soraca,city,Colombia,Boyaca,Soraca,Soraca
+Colombia-Boyaca-Susacon,city,Colombia,Boyaca,Susacon,Susacon
+Colombia-Boyaca-Sutamarchan,city,Colombia,Boyaca,Sutamarchan,Sutamarchan
+Colombia-Boyaca-Sutatenza,city,Colombia,Boyaca,Sutatenza,Sutatenza
+Colombia-Boyaca-Tasco,city,Colombia,Boyaca,Tasco,Tasco
+Colombia-Boyaca-Tenza,city,Colombia,Boyaca,Tenza,Tenza
+Colombia-Boyaca-Tibana,city,Colombia,Boyaca,Tibana,Tibana
+Colombia-Boyaca-Tibasosa,city,Colombia,Boyaca,Tibasosa,Tibasosa
+Colombia-Boyaca-Tinjaca,city,Colombia,Boyaca,Tinjaca,Tinjaca
+Colombia-Boyaca-Tipacoque,city,Colombia,Boyaca,Tipacoque,Tipacoque
+Colombia-Boyaca-Toca,city,Colombia,Boyaca,Toca,Toca
+Colombia-Boyaca-Togui,city,Colombia,Boyaca,Togui,Togui
+Colombia-Boyaca-Topaga,city,Colombia,Boyaca,Topaga,Topaga
+Colombia-Boyaca-Tota,city,Colombia,Boyaca,Tota,Tota
+Colombia-Boyaca-Tunungua,city,Colombia,Boyaca,Tunungua,Tunungua
+Colombia-Boyaca-Turmeque,city,Colombia,Boyaca,Turmeque,Turmeque
+Colombia-Boyaca-Tuta,city,Colombia,Boyaca,Tuta,Tuta
+Colombia-Boyaca-Tutaza,city,Colombia,Boyaca,Tutaza,Tutaza
+Colombia-Boyaca-Umbita,city,Colombia,Boyaca,Umbita,Umbita
+Colombia-Boyaca-Ventaquemada,city,Colombia,Boyaca,Ventaquemada,Ventaquemada
+Colombia-Boyaca-Viracacha,city,Colombia,Boyaca,Viracacha,Viracacha
+Colombia-Boyaca-Zetaquira,city,Colombia,Boyaca,Zetaquira,Zetaquira
+Colombia-Caldas-Manizales,city,Colombia,Caldas,Manizales,Manizales
+Colombia-Caldas-Aguadas,city,Colombia,Caldas,Aguadas,Aguadas
+Colombia-Caldas-Anserma,city,Colombia,Caldas,Anserma,Anserma
+Colombia-Caldas-Aranzazu,city,Colombia,Caldas,Aranzazu,Aranzazu
+Colombia-Caldas-Belalcazar,city,Colombia,Caldas,Belalcazar,Belalcazar
+Colombia-Caldas-Chinchina,city,Colombia,Caldas,Chinchina,Chinchina
+Colombia-Caldas-Filadelfia,city,Colombia,Caldas,Filadelfia,Filadelfia
+Colombia-Caldas-La_Dorada,city,Colombia,Caldas,La Dorada,La Dorada
+Colombia-Caldas-La_Merced,city,Colombia,Caldas,La Merced,La Merced
+Colombia-Caldas-Manzanares,city,Colombia,Caldas,Manzanares,Manzanares
+Colombia-Caldas-Marmato,city,Colombia,Caldas,Marmato,Marmato
+Colombia-Caldas-Marquetalia,city,Colombia,Caldas,Marquetalia,Marquetalia
+Colombia-Caldas-Marulanda,city,Colombia,Caldas,Marulanda,Marulanda
+Colombia-Caldas-Neira,city,Colombia,Caldas,Neira,Neira
+Colombia-Caldas-Norcasia,city,Colombia,Caldas,Norcasia,Norcasia
+Colombia-Caldas-Pacora,city,Colombia,Caldas,Pacora,Pacora
+Colombia-Caldas-Palestina,city,Colombia,Caldas,Palestina,Palestina
+Colombia-Caldas-Pensilvania,city,Colombia,Caldas,Pensilvania,Pensilvania
+Colombia-Caldas-Riosucio,city,Colombia,Caldas,Riosucio,Riosucio
+Colombia-Caldas-Risaralda,city,Colombia,Caldas,Risaralda,Risaralda
+Colombia-Caldas-Salamina,city,Colombia,Caldas,Salamina,Salamina
+Colombia-Caldas-Samana,city,Colombia,Caldas,Samana,Samana
+Colombia-Caldas-San_Jose,city,Colombia,Caldas,San Jose,San Jose
+Colombia-Caldas-Supia,city,Colombia,Caldas,Supia,Supia
+Colombia-Caldas-Victoria,city,Colombia,Caldas,Victoria,Victoria
+Colombia-Caldas-Villamaria,city,Colombia,Caldas,Villamaria,Villamaria
+Colombia-Caldas-Viterbo,city,Colombia,Caldas,Viterbo,Viterbo
+Colombia-Caqueta-Florencia,city,Colombia,Caqueta,Florencia,Florencia
+Colombia-Caqueta-Albania,city,Colombia,Caqueta,Albania,Albania
+Colombia-Caqueta-Belen_De_Los_Andaquies,city,Colombia,Caqueta,Belen De Los Andaquies,Belen De Los Andaquies
+Colombia-Caqueta-Cartagena_Del_Chaira,city,Colombia,Caqueta,Cartagena Del Chaira,Cartagena Del Chaira
+Colombia-Caqueta-Curillo,city,Colombia,Caqueta,Curillo,Curillo
+Colombia-Caqueta-El_Doncello,city,Colombia,Caqueta,El Doncello,El Doncello
+Colombia-Caqueta-El_Paujil,city,Colombia,Caqueta,El Paujil,El Paujil
+Colombia-Caqueta-La_Montanita,city,Colombia,Caqueta,La Montanita,La Montanita
+Colombia-Caqueta-Milan,city,Colombia,Caqueta,Milan,Milan
+Colombia-Caqueta-Morelia,city,Colombia,Caqueta,Morelia,Morelia
+Colombia-Caqueta-Puerto_Rico,city,Colombia,Caqueta,Puerto Rico,Puerto Rico
+Colombia-Caqueta-San_Jose_Del_Fragua,city,Colombia,Caqueta,San Jose Del Fragua,San Jose Del Fragua
+Colombia-Caqueta-San_Vicente_Del_Caguan,city,Colombia,Caqueta,San Vicente Del Caguan,San Vicente Del Caguan
+Colombia-Caqueta-Solano,city,Colombia,Caqueta,Solano,Solano
+Colombia-Caqueta-Solita,city,Colombia,Caqueta,Solita,Solita
+Colombia-Caqueta-Valparaiso,city,Colombia,Caqueta,Valparaiso,Valparaiso
+Colombia-Cauca-Popayan,city,Colombia,Cauca,Popayan,Popayan
+Colombia-Cauca-Almaguer,city,Colombia,Cauca,Almaguer,Almaguer
+Colombia-Cauca-Argelia,city,Colombia,Cauca,Argelia,Argelia
+Colombia-Cauca-Balboa,city,Colombia,Cauca,Balboa,Balboa
+Colombia-Cauca-Bolivar,city,Colombia,Cauca,Bolivar,Bolivar
+Colombia-Cauca-Buenos_Aires,city,Colombia,Cauca,Buenos Aires,Buenos Aires
+Colombia-Cauca-Cajibio,city,Colombia,Cauca,Cajibio,Cajibio
+Colombia-Cauca-Caldono,city,Colombia,Cauca,Caldono,Caldono
+Colombia-Cauca-Caloto,city,Colombia,Cauca,Caloto,Caloto
+Colombia-Cauca-Corinto,city,Colombia,Cauca,Corinto,Corinto
+Colombia-Cauca-El_Tambo,city,Colombia,Cauca,El Tambo,El Tambo
+Colombia-Cauca-Florencia,city,Colombia,Cauca,Florencia,Florencia
+Colombia-Cauca-Guachene,city,Colombia,Cauca,Guachene,Guachene
+Colombia-Cauca-Guapi,city,Colombia,Cauca,Guapi,Guapi
+Colombia-Cauca-Inza,city,Colombia,Cauca,Inza,Inza
+Colombia-Cauca-Jambalo,city,Colombia,Cauca,Jambalo,Jambalo
+Colombia-Cauca-La_Sierra,city,Colombia,Cauca,La Sierra,La Sierra
+Colombia-Cauca-La_Vega,city,Colombia,Cauca,La Vega,La Vega
+Colombia-Cauca-Lopez,city,Colombia,Cauca,Lopez,Lopez
+Colombia-Cauca-Mercaderes,city,Colombia,Cauca,Mercaderes,Mercaderes
+Colombia-Cauca-Miranda,city,Colombia,Cauca,Miranda,Miranda
+Colombia-Cauca-Morales,city,Colombia,Cauca,Morales,Morales
+Colombia-Cauca-Padilla,city,Colombia,Cauca,Padilla,Padilla
+Colombia-Cauca-Paez,city,Colombia,Cauca,Paez,Paez
+Colombia-Cauca-Patia,city,Colombia,Cauca,Patia,Patia
+Colombia-Cauca-Piamonte,city,Colombia,Cauca,Piamonte,Piamonte
+Colombia-Cauca-Piendamo,city,Colombia,Cauca,Piendamo,Piendamo
+Colombia-Cauca-Puerto_Tejada,city,Colombia,Cauca,Puerto Tejada,Puerto Tejada
+Colombia-Cauca-Purace,city,Colombia,Cauca,Purace,Purace
+Colombia-Cauca-Rosas,city,Colombia,Cauca,Rosas,Rosas
+Colombia-Cauca-San_Sebastian,city,Colombia,Cauca,San Sebastian,San Sebastian
+Colombia-Cauca-Santander_De_Quilichao,city,Colombia,Cauca,Santander De Quilichao,Santander De Quilichao
+Colombia-Cauca-Santa_Rosa,city,Colombia,Cauca,Santa Rosa,Santa Rosa
+Colombia-Cauca-Silvia,city,Colombia,Cauca,Silvia,Silvia
+Colombia-Cauca-Sotara,city,Colombia,Cauca,Sotara,Sotara
+Colombia-Cauca-Suarez,city,Colombia,Cauca,Suarez,Suarez
+Colombia-Cauca-Sucre,city,Colombia,Cauca,Sucre,Sucre
+Colombia-Cauca-Timbio,city,Colombia,Cauca,Timbio,Timbio
+Colombia-Cauca-Timbiqui,city,Colombia,Cauca,Timbiqui,Timbiqui
+Colombia-Cauca-Toribio,city,Colombia,Cauca,Toribio,Toribio
+Colombia-Cauca-Totoro,city,Colombia,Cauca,Totoro,Totoro
+Colombia-Cauca-Villa_Rica,city,Colombia,Cauca,Villa Rica,Villa Rica
+Colombia-Cesar-Valledupar,city,Colombia,Cesar,Valledupar,Valledupar
+Colombia-Cesar-Aguachica,city,Colombia,Cesar,Aguachica,Aguachica
+Colombia-Cesar-Agustin_Codazzi,city,Colombia,Cesar,Agustin Codazzi,Agustin Codazzi
+Colombia-Cesar-Astrea,city,Colombia,Cesar,Astrea,Astrea
+Colombia-Cesar-Becerril,city,Colombia,Cesar,Becerril,Becerril
+Colombia-Cesar-Bosconia,city,Colombia,Cesar,Bosconia,Bosconia
+Colombia-Cesar-Chimichagua,city,Colombia,Cesar,Chimichagua,Chimichagua
+Colombia-Cesar-Chiriguana,city,Colombia,Cesar,Chiriguana,Chiriguana
+Colombia-Cesar-Curumani,city,Colombia,Cesar,Curumani,Curumani
+Colombia-Cesar-El_Copey,city,Colombia,Cesar,El Copey,El Copey
+Colombia-Cesar-El_Paso,city,Colombia,Cesar,El Paso,El Paso
+Colombia-Cesar-Gamarra,city,Colombia,Cesar,Gamarra,Gamarra
+Colombia-Cesar-Gonzalez,city,Colombia,Cesar,Gonzalez,Gonzalez
+Colombia-Cesar-La_Gloria,city,Colombia,Cesar,La Gloria,La Gloria
+Colombia-Cesar-La_Jagua_De_Ibirico,city,Colombia,Cesar,La Jagua De Ibirico,La Jagua De Ibirico
+Colombia-Cesar-Manaure,city,Colombia,Cesar,Manaure,Manaure
+Colombia-Cesar-Pailitas,city,Colombia,Cesar,Pailitas,Pailitas
+Colombia-Cesar-Pelaya,city,Colombia,Cesar,Pelaya,Pelaya
+Colombia-Cesar-Pueblo_Bello,city,Colombia,Cesar,Pueblo Bello,Pueblo Bello
+Colombia-Cesar-Rio_De_Oro,city,Colombia,Cesar,Rio De Oro,Rio De Oro
+Colombia-Cesar-La_Paz,city,Colombia,Cesar,La Paz,La Paz
+Colombia-Cesar-San_Alberto,city,Colombia,Cesar,San Alberto,San Alberto
+Colombia-Cesar-San_Diego,city,Colombia,Cesar,San Diego,San Diego
+Colombia-Cesar-San_Martin,city,Colombia,Cesar,San Martin,San Martin
+Colombia-Cesar-Tamalameque,city,Colombia,Cesar,Tamalameque,Tamalameque
+Colombia-Cordoba-Monteria,city,Colombia,Cordoba,Monteria,Monteria
+Colombia-Cordoba-Ayapel,city,Colombia,Cordoba,Ayapel,Ayapel
+Colombia-Cordoba-Buenavista,city,Colombia,Cordoba,Buenavista,Buenavista
+Colombia-Cordoba-Canalete,city,Colombia,Cordoba,Canalete,Canalete
+Colombia-Cordoba-Cerete,city,Colombia,Cordoba,Cerete,Cerete
+Colombia-Cordoba-Chima,city,Colombia,Cordoba,Chima,Chima
+Colombia-Cordoba-Chinu,city,Colombia,Cordoba,Chinu,Chinu
+Colombia-Cordoba-Cienaga_De_Oro,city,Colombia,Cordoba,Cienaga De Oro,Cienaga De Oro
+Colombia-Cordoba-Cotorra,city,Colombia,Cordoba,Cotorra,Cotorra
+Colombia-Cordoba-La_Apartada,city,Colombia,Cordoba,La Apartada,La Apartada
+Colombia-Cordoba-Lorica,city,Colombia,Cordoba,Lorica,Lorica
+Colombia-Cordoba-Los_Cordobas,city,Colombia,Cordoba,Los Cordobas,Los Cordobas
+Colombia-Cordoba-Momil,city,Colombia,Cordoba,Momil,Momil
+Colombia-Cordoba-Montelibano,city,Colombia,Cordoba,Montelibano,Montelibano
+Colombia-Cordoba-Monitos,city,Colombia,Cordoba,Monitos,Monitos
+Colombia-Cordoba-Planeta_Rica,city,Colombia,Cordoba,Planeta Rica,Planeta Rica
+Colombia-Cordoba-Pueblo_Nuevo,city,Colombia,Cordoba,Pueblo Nuevo,Pueblo Nuevo
+Colombia-Cordoba-Puerto_Escondido,city,Colombia,Cordoba,Puerto Escondido,Puerto Escondido
+Colombia-Cordoba-Puerto_Libertador,city,Colombia,Cordoba,Puerto Libertador,Puerto Libertador
+Colombia-Cordoba-Purisima,city,Colombia,Cordoba,Purisima,Purisima
+Colombia-Cordoba-Sahagun,city,Colombia,Cordoba,Sahagun,Sahagun
+Colombia-Cordoba-San_Andres_Sotavento,city,Colombia,Cordoba,San Andres Sotavento,San Andres Sotavento
+Colombia-Cordoba-San_Antero,city,Colombia,Cordoba,San Antero,San Antero
+Colombia-Cordoba-San_Bernardo_Del_Viento,city,Colombia,Cordoba,San Bernardo Del Viento,San Bernardo Del Viento
+Colombia-Cordoba-San_Carlos,city,Colombia,Cordoba,San Carlos,San Carlos
+Colombia-Cordoba-San_Jose_De_Ure,city,Colombia,Cordoba,San Jose De Ure,San Jose De Ure
+Colombia-Cordoba-San_Pelayo,city,Colombia,Cordoba,San Pelayo,San Pelayo
+Colombia-Cordoba-Tierralta,city,Colombia,Cordoba,Tierralta,Tierralta
+Colombia-Cordoba-Tuchin,city,Colombia,Cordoba,Tuchin,Tuchin
+Colombia-Cordoba-Valencia,city,Colombia,Cordoba,Valencia,Valencia
+Colombia-Cundinamarca-Agua_De_Dios,city,Colombia,Cundinamarca,Agua De Dios,Agua De Dios
+Colombia-Cundinamarca-Alban,city,Colombia,Cundinamarca,Alban,Alban
+Colombia-Cundinamarca-Anapoima,city,Colombia,Cundinamarca,Anapoima,Anapoima
+Colombia-Cundinamarca-Anolaima,city,Colombia,Cundinamarca,Anolaima,Anolaima
+Colombia-Cundinamarca-Arbelaez,city,Colombia,Cundinamarca,Arbelaez,Arbelaez
+Colombia-Cundinamarca-Beltran,city,Colombia,Cundinamarca,Beltran,Beltran
+Colombia-Cundinamarca-Bituima,city,Colombia,Cundinamarca,Bituima,Bituima
+Colombia-Cundinamarca-Bojaca,city,Colombia,Cundinamarca,Bojaca,Bojaca
+Colombia-Cundinamarca-Cabrera,city,Colombia,Cundinamarca,Cabrera,Cabrera
+Colombia-Cundinamarca-Cachipay,city,Colombia,Cundinamarca,Cachipay,Cachipay
+Colombia-Cundinamarca-Cajica,city,Colombia,Cundinamarca,Cajica,Cajica
+Colombia-Cundinamarca-Caparrapi,city,Colombia,Cundinamarca,Caparrapi,Caparrapi
+Colombia-Cundinamarca-Caqueza,city,Colombia,Cundinamarca,Caqueza,Caqueza
+Colombia-Cundinamarca-Carmen_De_Carupa,city,Colombia,Cundinamarca,Carmen De Carupa,Carmen De Carupa
+Colombia-Cundinamarca-Chaguani,city,Colombia,Cundinamarca,Chaguani,Chaguani
+Colombia-Cundinamarca-Chia,city,Colombia,Cundinamarca,Chia,Chia
+Colombia-Cundinamarca-Chipaque,city,Colombia,Cundinamarca,Chipaque,Chipaque
+Colombia-Cundinamarca-Choachi,city,Colombia,Cundinamarca,Choachi,Choachi
+Colombia-Cundinamarca-Choconta,city,Colombia,Cundinamarca,Choconta,Choconta
+Colombia-Cundinamarca-Cogua,city,Colombia,Cundinamarca,Cogua,Cogua
+Colombia-Cundinamarca-Cota,city,Colombia,Cundinamarca,Cota,Cota
+Colombia-Cundinamarca-Cucunuba,city,Colombia,Cundinamarca,Cucunuba,Cucunuba
+Colombia-Cundinamarca-El_Colegio,city,Colombia,Cundinamarca,El Colegio,El Colegio
+Colombia-Cundinamarca-El_Penon,city,Colombia,Cundinamarca,El Penon,El Penon
+Colombia-Cundinamarca-El_Rosal,city,Colombia,Cundinamarca,El Rosal,El Rosal
+Colombia-Cundinamarca-Facatativa,city,Colombia,Cundinamarca,Facatativa,Facatativa
+Colombia-Cundinamarca-Fomeque,city,Colombia,Cundinamarca,Fomeque,Fomeque
+Colombia-Cundinamarca-Fosca,city,Colombia,Cundinamarca,Fosca,Fosca
+Colombia-Cundinamarca-Funza,city,Colombia,Cundinamarca,Funza,Funza
+Colombia-Cundinamarca-Fuquene,city,Colombia,Cundinamarca,Fuquene,Fuquene
+Colombia-Cundinamarca-Fusagasuga,city,Colombia,Cundinamarca,Fusagasuga,Fusagasuga
+Colombia-Cundinamarca-Gachala,city,Colombia,Cundinamarca,Gachala,Gachala
+Colombia-Cundinamarca-Gachancipa,city,Colombia,Cundinamarca,Gachancipa,Gachancipa
+Colombia-Cundinamarca-Gacheta,city,Colombia,Cundinamarca,Gacheta,Gacheta
+Colombia-Cundinamarca-Gama,city,Colombia,Cundinamarca,Gama,Gama
+Colombia-Cundinamarca-Girardot,city,Colombia,Cundinamarca,Girardot,Girardot
+Colombia-Cundinamarca-Granada,city,Colombia,Cundinamarca,Granada,Granada
+Colombia-Cundinamarca-Guacheta,city,Colombia,Cundinamarca,Guacheta,Guacheta
+Colombia-Cundinamarca-Guaduas,city,Colombia,Cundinamarca,Guaduas,Guaduas
+Colombia-Cundinamarca-Guasca,city,Colombia,Cundinamarca,Guasca,Guasca
+Colombia-Cundinamarca-Guataqui,city,Colombia,Cundinamarca,Guataqui,Guataqui
+Colombia-Cundinamarca-Guatavita,city,Colombia,Cundinamarca,Guatavita,Guatavita
+Colombia-Cundinamarca-Guayabal_De_Siquima,city,Colombia,Cundinamarca,Guayabal De Siquima,Guayabal De Siquima
+Colombia-Cundinamarca-Guayabetal,city,Colombia,Cundinamarca,Guayabetal,Guayabetal
+Colombia-Cundinamarca-Gutierrez,city,Colombia,Cundinamarca,Gutierrez,Gutierrez
+Colombia-Cundinamarca-Jerusalen,city,Colombia,Cundinamarca,Jerusalen,Jerusalen
+Colombia-Cundinamarca-Junin,city,Colombia,Cundinamarca,Junin,Junin
+Colombia-Cundinamarca-La_Calera,city,Colombia,Cundinamarca,La Calera,La Calera
+Colombia-Cundinamarca-La_Mesa,city,Colombia,Cundinamarca,La Mesa,La Mesa
+Colombia-Cundinamarca-La_Palma,city,Colombia,Cundinamarca,La Palma,La Palma
+Colombia-Cundinamarca-La_Pena,city,Colombia,Cundinamarca,La Pena,La Pena
+Colombia-Cundinamarca-La_Vega,city,Colombia,Cundinamarca,La Vega,La Vega
+Colombia-Cundinamarca-Lenguazaque,city,Colombia,Cundinamarca,Lenguazaque,Lenguazaque
+Colombia-Cundinamarca-Macheta,city,Colombia,Cundinamarca,Macheta,Macheta
+Colombia-Cundinamarca-Madrid,city,Colombia,Cundinamarca,Madrid,Madrid
+Colombia-Cundinamarca-Manta,city,Colombia,Cundinamarca,Manta,Manta
+Colombia-Cundinamarca-Medina,city,Colombia,Cundinamarca,Medina,Medina
+Colombia-Cundinamarca-Mosquera,city,Colombia,Cundinamarca,Mosquera,Mosquera
+Colombia-Cundinamarca-Narino,city,Colombia,Cundinamarca,Narino,Narino
+Colombia-Cundinamarca-Nemocon,city,Colombia,Cundinamarca,Nemocon,Nemocon
+Colombia-Cundinamarca-Nilo,city,Colombia,Cundinamarca,Nilo,Nilo
+Colombia-Cundinamarca-Nimaima,city,Colombia,Cundinamarca,Nimaima,Nimaima
+Colombia-Cundinamarca-Nocaima,city,Colombia,Cundinamarca,Nocaima,Nocaima
+Colombia-Cundinamarca-Venecia,city,Colombia,Cundinamarca,Venecia,Venecia
+Colombia-Cundinamarca-Pacho,city,Colombia,Cundinamarca,Pacho,Pacho
+Colombia-Cundinamarca-Paime,city,Colombia,Cundinamarca,Paime,Paime
+Colombia-Cundinamarca-Pandi,city,Colombia,Cundinamarca,Pandi,Pandi
+Colombia-Cundinamarca-Paratebueno,city,Colombia,Cundinamarca,Paratebueno,Paratebueno
+Colombia-Cundinamarca-Pasca,city,Colombia,Cundinamarca,Pasca,Pasca
+Colombia-Cundinamarca-Puerto_Salgar,city,Colombia,Cundinamarca,Puerto Salgar,Puerto Salgar
+Colombia-Cundinamarca-Puli,city,Colombia,Cundinamarca,Puli,Puli
+Colombia-Cundinamarca-Quebradanegra,city,Colombia,Cundinamarca,Quebradanegra,Quebradanegra
+Colombia-Cundinamarca-Quetame,city,Colombia,Cundinamarca,Quetame,Quetame
+Colombia-Cundinamarca-Quipile,city,Colombia,Cundinamarca,Quipile,Quipile
+Colombia-Cundinamarca-Apulo,city,Colombia,Cundinamarca,Apulo,Apulo
+Colombia-Cundinamarca-Rafael_Reyes_Apulo,city,Colombia,Cundinamarca,Rafael Reyes Apulo,Rafael Reyes Apulo
+Colombia-Cundinamarca-Ricaurte,city,Colombia,Cundinamarca,Ricaurte,Ricaurte
+Colombia-Cundinamarca-San_Antonio_Del_Tequendama,city,Colombia,Cundinamarca,San Antonio Del Tequendama,San Antonio Del Tequendama
+Colombia-Cundinamarca-San_Bernardo,city,Colombia,Cundinamarca,San Bernardo,San Bernardo
+Colombia-Cundinamarca-San_Cayetano,city,Colombia,Cundinamarca,San Cayetano,San Cayetano
+Colombia-Cundinamarca-San_Francisco,city,Colombia,Cundinamarca,San Francisco,San Francisco
+Colombia-Cundinamarca-San_Juan_De_Rio_Seco,city,Colombia,Cundinamarca,San Juan De Rio Seco,San Juan De Rio Seco
+Colombia-Cundinamarca-Sasaima,city,Colombia,Cundinamarca,Sasaima,Sasaima
+Colombia-Cundinamarca-Sesquile,city,Colombia,Cundinamarca,Sesquile,Sesquile
+Colombia-Cundinamarca-Sibate,city,Colombia,Cundinamarca,Sibate,Sibate
+Colombia-Cundinamarca-Silvania,city,Colombia,Cundinamarca,Silvania,Silvania
+Colombia-Cundinamarca-Simijaca,city,Colombia,Cundinamarca,Simijaca,Simijaca
+Colombia-Cundinamarca-Soacha,city,Colombia,Cundinamarca,Soacha,Soacha
+Colombia-Cundinamarca-Sopo,city,Colombia,Cundinamarca,Sopo,Sopo
+Colombia-Cundinamarca-Subachoque,city,Colombia,Cundinamarca,Subachoque,Subachoque
+Colombia-Cundinamarca-Suesca,city,Colombia,Cundinamarca,Suesca,Suesca
+Colombia-Cundinamarca-Supata,city,Colombia,Cundinamarca,Supata,Supata
+Colombia-Cundinamarca-Susa,city,Colombia,Cundinamarca,Susa,Susa
+Colombia-Cundinamarca-Sutatausa,city,Colombia,Cundinamarca,Sutatausa,Sutatausa
+Colombia-Cundinamarca-Tabio,city,Colombia,Cundinamarca,Tabio,Tabio
+Colombia-Cundinamarca-Tausa,city,Colombia,Cundinamarca,Tausa,Tausa
+Colombia-Cundinamarca-Tena,city,Colombia,Cundinamarca,Tena,Tena
+Colombia-Cundinamarca-Tenjo,city,Colombia,Cundinamarca,Tenjo,Tenjo
+Colombia-Cundinamarca-Tibacuy,city,Colombia,Cundinamarca,Tibacuy,Tibacuy
+Colombia-Cundinamarca-Tibirita,city,Colombia,Cundinamarca,Tibirita,Tibirita
+Colombia-Cundinamarca-Tocaima,city,Colombia,Cundinamarca,Tocaima,Tocaima
+Colombia-Cundinamarca-Tocancipa,city,Colombia,Cundinamarca,Tocancipa,Tocancipa
+Colombia-Cundinamarca-Topaipi,city,Colombia,Cundinamarca,Topaipi,Topaipi
+Colombia-Cundinamarca-Ubala,city,Colombia,Cundinamarca,Ubala,Ubala
+Colombia-Cundinamarca-Ubaque,city,Colombia,Cundinamarca,Ubaque,Ubaque
+Colombia-Cundinamarca-Villa_De_San_Diego_De_Ubate,city,Colombia,Cundinamarca,Villa De San Diego De Ubate,Villa De San Diego De Ubate
+Colombia-Cundinamarca-Une,city,Colombia,Cundinamarca,Une,Une
+Colombia-Cundinamarca-Utica,city,Colombia,Cundinamarca,Utica,Utica
+Colombia-Cundinamarca-Vergara,city,Colombia,Cundinamarca,Vergara,Vergara
+Colombia-Cundinamarca-Viani,city,Colombia,Cundinamarca,Viani,Viani
+Colombia-Cundinamarca-Villagomez,city,Colombia,Cundinamarca,Villagomez,Villagomez
+Colombia-Cundinamarca-Villapinzon,city,Colombia,Cundinamarca,Villapinzon,Villapinzon
+Colombia-Cundinamarca-Villeta,city,Colombia,Cundinamarca,Villeta,Villeta
+Colombia-Cundinamarca-Viota,city,Colombia,Cundinamarca,Viota,Viota
+Colombia-Cundinamarca-Yacopi,city,Colombia,Cundinamarca,Yacopi,Yacopi
+Colombia-Cundinamarca-Zipacon,city,Colombia,Cundinamarca,Zipacon,Zipacon
+Colombia-Cundinamarca-Zipaquira,city,Colombia,Cundinamarca,Zipaquira,Zipaquira
+Colombia-Choco-Quibdo,city,Colombia,Choco,Quibdo,Quibdo
+Colombia-Choco-Acandi,city,Colombia,Choco,Acandi,Acandi
+Colombia-Choco-Alto_Baudo,city,Colombia,Choco,Alto Baudo,Alto Baudo
+Colombia-Choco-Atrato,city,Colombia,Choco,Atrato,Atrato
+Colombia-Choco-Bagado,city,Colombia,Choco,Bagado,Bagado
+Colombia-Choco-Bahia_Solano,city,Colombia,Choco,Bahia Solano,Bahia Solano
+Colombia-Choco-Bajo_Baudo,city,Colombia,Choco,Bajo Baudo,Bajo Baudo
+Colombia-Choco-Belen_De_Bajira,city,Colombia,Choco,Belen De Bajira,Belen De Bajira
+Colombia-Choco-Bojaya,city,Colombia,Choco,Bojaya,Bojaya
+Colombia-Choco-El_Canton_Del_San_Pablo,city,Colombia,Choco,El Canton Del San Pablo,El Canton Del San Pablo
+Colombia-Choco-Carmen_Del_Darien,city,Colombia,Choco,Carmen Del Darien,Carmen Del Darien
+Colombia-Choco-Certegui,city,Colombia,Choco,Certegui,Certegui
+Colombia-Choco-Condoto,city,Colombia,Choco,Condoto,Condoto
+Colombia-Choco-El_Carmen_De_Atrato,city,Colombia,Choco,El Carmen De Atrato,El Carmen De Atrato
+Colombia-Choco-El_Litoral_Del_San_Juan,city,Colombia,Choco,El Litoral Del San Juan,El Litoral Del San Juan
+Colombia-Choco-Istmina,city,Colombia,Choco,Istmina,Istmina
+Colombia-Choco-Jurado,city,Colombia,Choco,Jurado,Jurado
+Colombia-Choco-Lloro,city,Colombia,Choco,Lloro,Lloro
+Colombia-Choco-Medio_Atrato,city,Colombia,Choco,Medio Atrato,Medio Atrato
+Colombia-Choco-Medio_Baudo,city,Colombia,Choco,Medio Baudo,Medio Baudo
+Colombia-Choco-Medio_San_Juan,city,Colombia,Choco,Medio San Juan,Medio San Juan
+Colombia-Choco-Novita,city,Colombia,Choco,Novita,Novita
+Colombia-Choco-Nuqui,city,Colombia,Choco,Nuqui,Nuqui
+Colombia-Choco-Rio_Iro,city,Colombia,Choco,Rio Iro,Rio Iro
+Colombia-Choco-Rio_Quito,city,Colombia,Choco,Rio Quito,Rio Quito
+Colombia-Choco-Riosucio,city,Colombia,Choco,Riosucio,Riosucio
+Colombia-Choco-San_Jose_Del_Palmar,city,Colombia,Choco,San Jose Del Palmar,San Jose Del Palmar
+Colombia-Choco-Sipi,city,Colombia,Choco,Sipi,Sipi
+Colombia-Choco-Tado,city,Colombia,Choco,Tado,Tado
+Colombia-Choco-Unguia,city,Colombia,Choco,Unguia,Unguia
+Colombia-Choco-Union_Panamericana,city,Colombia,Choco,Union Panamericana,Union Panamericana
+Colombia-Huila-Neiva,city,Colombia,Huila,Neiva,Neiva
+Colombia-Huila-Acevedo,city,Colombia,Huila,Acevedo,Acevedo
+Colombia-Huila-Agrado,city,Colombia,Huila,Agrado,Agrado
+Colombia-Huila-Aipe,city,Colombia,Huila,Aipe,Aipe
+Colombia-Huila-Algeciras,city,Colombia,Huila,Algeciras,Algeciras
+Colombia-Huila-Altamira,city,Colombia,Huila,Altamira,Altamira
+Colombia-Huila-Baraya,city,Colombia,Huila,Baraya,Baraya
+Colombia-Huila-Campoalegre,city,Colombia,Huila,Campoalegre,Campoalegre
+Colombia-Huila-Colombia,city,Colombia,Huila,Colombia,Colombia
+Colombia-Huila-Elias,city,Colombia,Huila,Elias,Elias
+Colombia-Huila-Garzon,city,Colombia,Huila,Garzon,Garzon
+Colombia-Huila-Gigante,city,Colombia,Huila,Gigante,Gigante
+Colombia-Huila-Guadalupe,city,Colombia,Huila,Guadalupe,Guadalupe
+Colombia-Huila-Hobo,city,Colombia,Huila,Hobo,Hobo
+Colombia-Huila-Iquira,city,Colombia,Huila,Iquira,Iquira
+Colombia-Huila-Isnos,city,Colombia,Huila,Isnos,Isnos
+Colombia-Huila-La_Argentina,city,Colombia,Huila,La Argentina,La Argentina
+Colombia-Huila-La_Plata,city,Colombia,Huila,La Plata,La Plata
+Colombia-Huila-Nataga,city,Colombia,Huila,Nataga,Nataga
+Colombia-Huila-Oporapa,city,Colombia,Huila,Oporapa,Oporapa
+Colombia-Huila-Paicol,city,Colombia,Huila,Paicol,Paicol
+Colombia-Huila-Palermo,city,Colombia,Huila,Palermo,Palermo
+Colombia-Huila-Palestina,city,Colombia,Huila,Palestina,Palestina
+Colombia-Huila-Pital,city,Colombia,Huila,Pital,Pital
+Colombia-Huila-Pitalito,city,Colombia,Huila,Pitalito,Pitalito
+Colombia-Huila-Rivera,city,Colombia,Huila,Rivera,Rivera
+Colombia-Huila-Saladoblanco,city,Colombia,Huila,Saladoblanco,Saladoblanco
+Colombia-Huila-San_Agustin,city,Colombia,Huila,San Agustin,San Agustin
+Colombia-Huila-Santa_Maria,city,Colombia,Huila,Santa Maria,Santa Maria
+Colombia-Huila-Suaza,city,Colombia,Huila,Suaza,Suaza
+Colombia-Huila-Tarqui,city,Colombia,Huila,Tarqui,Tarqui
+Colombia-Huila-Tesalia,city,Colombia,Huila,Tesalia,Tesalia
+Colombia-Huila-Tello,city,Colombia,Huila,Tello,Tello
+Colombia-Huila-Teruel,city,Colombia,Huila,Teruel,Teruel
+Colombia-Huila-Timana,city,Colombia,Huila,Timana,Timana
+Colombia-Huila-Villavieja,city,Colombia,Huila,Villavieja,Villavieja
+Colombia-Huila-Yaguara,city,Colombia,Huila,Yaguara,Yaguara
+Colombia-Guajira-Riohacha,city,Colombia,Guajira,Riohacha,Riohacha
+Colombia-Guajira-Albania,city,Colombia,Guajira,Albania,Albania
+Colombia-Guajira-Barrancas,city,Colombia,Guajira,Barrancas,Barrancas
+Colombia-Guajira-Dibulla,city,Colombia,Guajira,Dibulla,Dibulla
+Colombia-Guajira-Distraccion,city,Colombia,Guajira,Distraccion,Distraccion
+Colombia-Guajira-El_Molino,city,Colombia,Guajira,El Molino,El Molino
+Colombia-Guajira-Fonseca,city,Colombia,Guajira,Fonseca,Fonseca
+Colombia-Guajira-Hatonuevo,city,Colombia,Guajira,Hatonuevo,Hatonuevo
+Colombia-Guajira-La_Jagua_Del_Pilar,city,Colombia,Guajira,La Jagua Del Pilar,La Jagua Del Pilar
+Colombia-Guajira-Maicao,city,Colombia,Guajira,Maicao,Maicao
+Colombia-Guajira-Manaure,city,Colombia,Guajira,Manaure,Manaure
+Colombia-Guajira-San_Juan_Del_Cesar,city,Colombia,Guajira,San Juan Del Cesar,San Juan Del Cesar
+Colombia-Guajira-Uribia,city,Colombia,Guajira,Uribia,Uribia
+Colombia-Guajira-Urumita,city,Colombia,Guajira,Urumita,Urumita
+Colombia-Guajira-Villanueva,city,Colombia,Guajira,Villanueva,Villanueva
+Colombia-Sta_Marta_DE-Santa_Marta,city,Colombia,Sta Marta DE,Santa Marta,Santa Marta
+Colombia-Magdalena-Sitio_Nuevo,city,Colombia,Magdalena,Sitio Nuevo,Sitio Nuevo
+Colombia-Magdalena-Algarrobo,city,Colombia,Magdalena,Algarrobo,Algarrobo
+Colombia-Magdalena-Aracataca,city,Colombia,Magdalena,Aracataca,Aracataca
+Colombia-Magdalena-Ariguani,city,Colombia,Magdalena,Ariguani,Ariguani
+Colombia-Magdalena-Cerro_San_Antonio,city,Colombia,Magdalena,Cerro San Antonio,Cerro San Antonio
+Colombia-Magdalena-Chibolo,city,Colombia,Magdalena,Chibolo,Chibolo
+Colombia-Magdalena-Cienaga,city,Colombia,Magdalena,Cienaga,Cienaga
+Colombia-Magdalena-Concordia,city,Colombia,Magdalena,Concordia,Concordia
+Colombia-Magdalena-El_Banco,city,Colombia,Magdalena,El Banco,El Banco
+Colombia-Magdalena-El_Pinon,city,Colombia,Magdalena,El Pinon,El Pinon
+Colombia-Magdalena-El_Reten,city,Colombia,Magdalena,El Reten,El Reten
+Colombia-Magdalena-Fundacion,city,Colombia,Magdalena,Fundacion,Fundacion
+Colombia-Magdalena-Guamal,city,Colombia,Magdalena,Guamal,Guamal
+Colombia-Magdalena-Nueva_Granada,city,Colombia,Magdalena,Nueva Granada,Nueva Granada
+Colombia-Magdalena-Pedraza,city,Colombia,Magdalena,Pedraza,Pedraza
+Colombia-Magdalena-Pijino_Del_Carmen,city,Colombia,Magdalena,Pijino Del Carmen,Pijino Del Carmen
+Colombia-Magdalena-Pivijay,city,Colombia,Magdalena,Pivijay,Pivijay
+Colombia-Magdalena-Plato,city,Colombia,Magdalena,Plato,Plato
+Colombia-Magdalena-Puebloviejo,city,Colombia,Magdalena,Puebloviejo,Puebloviejo
+Colombia-Magdalena-Remolino,city,Colombia,Magdalena,Remolino,Remolino
+Colombia-Magdalena-Sabanas_De_San_Angel,city,Colombia,Magdalena,Sabanas De San Angel,Sabanas De San Angel
+Colombia-Magdalena-Salamina,city,Colombia,Magdalena,Salamina,Salamina
+Colombia-Magdalena-San_Sebastian_De_Buenavista,city,Colombia,Magdalena,San Sebastian De Buenavista,San Sebastian De Buenavista
+Colombia-Magdalena-San_Zenon,city,Colombia,Magdalena,San Zenon,San Zenon
+Colombia-Magdalena-Santa_Ana,city,Colombia,Magdalena,Santa Ana,Santa Ana
+Colombia-Magdalena-Santa_Barbara_De_Pinto,city,Colombia,Magdalena,Santa Barbara De Pinto,Santa Barbara De Pinto
+Colombia-Magdalena-Sitionuevo,city,Colombia,Magdalena,Sitionuevo,Sitionuevo
+Colombia-Magdalena-Tenerife,city,Colombia,Magdalena,Tenerife,Tenerife
+Colombia-Magdalena-Zapayan,city,Colombia,Magdalena,Zapayan,Zapayan
+Colombia-Magdalena-Zona_Bananera,city,Colombia,Magdalena,Zona Bananera,Zona Bananera
+Colombia-Meta-Villavicencio,city,Colombia,Meta,Villavicencio,Villavicencio
+Colombia-Meta-Acacias,city,Colombia,Meta,Acacias,Acacias
+Colombia-Meta-Barranca_De_Upia,city,Colombia,Meta,Barranca De Upia,Barranca De Upia
+Colombia-Meta-Cabuyaro,city,Colombia,Meta,Cabuyaro,Cabuyaro
+Colombia-Meta-Castilla_La_Nueva,city,Colombia,Meta,Castilla La Nueva,Castilla La Nueva
+Colombia-Meta-Cubarral,city,Colombia,Meta,Cubarral,Cubarral
+Colombia-Meta-Cumaral,city,Colombia,Meta,Cumaral,Cumaral
+Colombia-Meta-El_Calvario,city,Colombia,Meta,El Calvario,El Calvario
+Colombia-Meta-El_Castillo,city,Colombia,Meta,El Castillo,El Castillo
+Colombia-Meta-El_Dorado,city,Colombia,Meta,El Dorado,El Dorado
+Colombia-Meta-Fuente_De_Oro,city,Colombia,Meta,Fuente De Oro,Fuente De Oro
+Colombia-Meta-Granada,city,Colombia,Meta,Granada,Granada
+Colombia-Meta-Guamal,city,Colombia,Meta,Guamal,Guamal
+Colombia-Meta-Mapiripan,city,Colombia,Meta,Mapiripan,Mapiripan
+Colombia-Meta-Mesetas,city,Colombia,Meta,Mesetas,Mesetas
+Colombia-Meta-La_Macarena,city,Colombia,Meta,La Macarena,La Macarena
+Colombia-Meta-Uribe,city,Colombia,Meta,Uribe,Uribe
+Colombia-Meta-Lejanias,city,Colombia,Meta,Lejanias,Lejanias
+Colombia-Meta-Puerto_Concordia,city,Colombia,Meta,Puerto Concordia,Puerto Concordia
+Colombia-Meta-Puerto_Gaitan,city,Colombia,Meta,Puerto Gaitan,Puerto Gaitan
+Colombia-Meta-Puerto_Lopez,city,Colombia,Meta,Puerto Lopez,Puerto Lopez
+Colombia-Meta-Puerto_Lleras,city,Colombia,Meta,Puerto Lleras,Puerto Lleras
+Colombia-Meta-Puerto_Rico,city,Colombia,Meta,Puerto Rico,Puerto Rico
+Colombia-Meta-Restrepo,city,Colombia,Meta,Restrepo,Restrepo
+Colombia-Meta-San_Carlos_De_Guaroa,city,Colombia,Meta,San Carlos De Guaroa,San Carlos De Guaroa
+Colombia-Meta-San_Juan_De_Arama,city,Colombia,Meta,San Juan De Arama,San Juan De Arama
+Colombia-Meta-San_Juanito,city,Colombia,Meta,San Juanito,San Juanito
+Colombia-Meta-San_Martin,city,Colombia,Meta,San Martin,San Martin
+Colombia-Meta-Vistahermosa,city,Colombia,Meta,Vistahermosa,Vistahermosa
+Colombia-Narino-Pasto,city,Colombia,Narino,Pasto,Pasto
+Colombia-Narino-Alban,city,Colombia,Narino,Alban,Alban
+Colombia-Narino-Aldana,city,Colombia,Narino,Aldana,Aldana
+Colombia-Narino-Ancuya,city,Colombia,Narino,Ancuya,Ancuya
+Colombia-Narino-Arboleda,city,Colombia,Narino,Arboleda,Arboleda
+Colombia-Narino-Barbacoas,city,Colombia,Narino,Barbacoas,Barbacoas
+Colombia-Narino-Belen,city,Colombia,Narino,Belen,Belen
+Colombia-Narino-Buesaco,city,Colombia,Narino,Buesaco,Buesaco
+Colombia-Narino-Colon,city,Colombia,Narino,Colon,Colon
+Colombia-Narino-Consaca,city,Colombia,Narino,Consaca,Consaca
+Colombia-Narino-Contadero,city,Colombia,Narino,Contadero,Contadero
+Colombia-Narino-Cordoba,city,Colombia,Narino,Cordoba,Cordoba
+Colombia-Narino-Cuaspud,city,Colombia,Narino,Cuaspud,Cuaspud
+Colombia-Narino-Cumbal,city,Colombia,Narino,Cumbal,Cumbal
+Colombia-Narino-Cumbitara,city,Colombia,Narino,Cumbitara,Cumbitara
+Colombia-Narino-Chachagui,city,Colombia,Narino,Chachagui,Chachagui
+Colombia-Narino-El_Charco,city,Colombia,Narino,El Charco,El Charco
+Colombia-Narino-El_Penol,city,Colombia,Narino,El Penol,El Penol
+Colombia-Narino-El_Rosario,city,Colombia,Narino,El Rosario,El Rosario
+Colombia-Narino-El_Tablon_De_Gomez,city,Colombia,Narino,El Tablon De Gomez,El Tablon De Gomez
+Colombia-Narino-El_Tambo,city,Colombia,Narino,El Tambo,El Tambo
+Colombia-Narino-Funes,city,Colombia,Narino,Funes,Funes
+Colombia-Narino-Guachucal,city,Colombia,Narino,Guachucal,Guachucal
+Colombia-Narino-Guaitarilla,city,Colombia,Narino,Guaitarilla,Guaitarilla
+Colombia-Narino-Gualmatan,city,Colombia,Narino,Gualmatan,Gualmatan
+Colombia-Narino-Iles,city,Colombia,Narino,Iles,Iles
+Colombia-Narino-Imues,city,Colombia,Narino,Imues,Imues
+Colombia-Narino-Ipiales,city,Colombia,Narino,Ipiales,Ipiales
+Colombia-Narino-La_Cruz,city,Colombia,Narino,La Cruz,La Cruz
+Colombia-Narino-La_Florida,city,Colombia,Narino,La Florida,La Florida
+Colombia-Narino-La_Llanada,city,Colombia,Narino,La Llanada,La Llanada
+Colombia-Narino-La_Tola,city,Colombia,Narino,La Tola,La Tola
+Colombia-Narino-La_Union,city,Colombia,Narino,La Union,La Union
+Colombia-Narino-Leiva,city,Colombia,Narino,Leiva,Leiva
+Colombia-Narino-Linares,city,Colombia,Narino,Linares,Linares
+Colombia-Narino-Los_Andes,city,Colombia,Narino,Los Andes,Los Andes
+Colombia-Narino-Magsi,city,Colombia,Narino,Magsi,Magsi
+Colombia-Narino-Mallama,city,Colombia,Narino,Mallama,Mallama
+Colombia-Narino-Mosquera,city,Colombia,Narino,Mosquera,Mosquera
+Colombia-Narino-Narino,city,Colombia,Narino,Narino,Narino
+Colombia-Narino-Olaya_Herrera,city,Colombia,Narino,Olaya Herrera,Olaya Herrera
+Colombia-Narino-Ospina,city,Colombia,Narino,Ospina,Ospina
+Colombia-Narino-Francisco_Pizarro,city,Colombia,Narino,Francisco Pizarro,Francisco Pizarro
+Colombia-Narino-Policarpa,city,Colombia,Narino,Policarpa,Policarpa
+Colombia-Narino-Potosi,city,Colombia,Narino,Potosi,Potosi
+Colombia-Narino-Providencia,city,Colombia,Narino,Providencia,Providencia
+Colombia-Narino-Puerres,city,Colombia,Narino,Puerres,Puerres
+Colombia-Narino-Pupiales,city,Colombia,Narino,Pupiales,Pupiales
+Colombia-Narino-Ricaurte,city,Colombia,Narino,Ricaurte,Ricaurte
+Colombia-Narino-Roberto_Payan,city,Colombia,Narino,Roberto Payan,Roberto Payan
+Colombia-Narino-Samaniego,city,Colombia,Narino,Samaniego,Samaniego
+Colombia-Narino-Sandona,city,Colombia,Narino,Sandona,Sandona
+Colombia-Narino-San_Bernardo,city,Colombia,Narino,San Bernardo,San Bernardo
+Colombia-Narino-San_Lorenzo,city,Colombia,Narino,San Lorenzo,San Lorenzo
+Colombia-Narino-San_Pablo,city,Colombia,Narino,San Pablo,San Pablo
+Colombia-Narino-San_Pedro_De_Cartago,city,Colombia,Narino,San Pedro De Cartago,San Pedro De Cartago
+Colombia-Narino-Santa_Barbara,city,Colombia,Narino,Santa Barbara,Santa Barbara
+Colombia-Narino-Santacruz,city,Colombia,Narino,Santacruz,Santacruz
+Colombia-Narino-Sapuyes,city,Colombia,Narino,Sapuyes,Sapuyes
+Colombia-Narino-Taminango,city,Colombia,Narino,Taminango,Taminango
+Colombia-Narino-Tangua,city,Colombia,Narino,Tangua,Tangua
+Colombia-Narino-San_Andres_De_Tumaco,city,Colombia,Narino,San Andres De Tumaco,San Andres De Tumaco
+Colombia-Narino-Tuquerres,city,Colombia,Narino,Tuquerres,Tuquerres
+Colombia-Narino-Yacuanquer,city,Colombia,Narino,Yacuanquer,Yacuanquer
+Colombia-Norte_Santander-Cucuta,city,Colombia,Norte Santander,Cucuta,Cucuta
+Colombia-Norte_Santander-Abrego,city,Colombia,Norte Santander,Abrego,Abrego
+Colombia-Norte_Santander-Arboledas,city,Colombia,Norte Santander,Arboledas,Arboledas
+Colombia-Norte_Santander-Bochalema,city,Colombia,Norte Santander,Bochalema,Bochalema
+Colombia-Norte_Santander-Bucarasica,city,Colombia,Norte Santander,Bucarasica,Bucarasica
+Colombia-Norte_Santander-Cacota,city,Colombia,Norte Santander,Cacota,Cacota
+Colombia-Norte_Santander-Cachira,city,Colombia,Norte Santander,Cachira,Cachira
+Colombia-Norte_Santander-Chinacota,city,Colombia,Norte Santander,Chinacota,Chinacota
+Colombia-Norte_Santander-Chitaga,city,Colombia,Norte Santander,Chitaga,Chitaga
+Colombia-Norte_Santander-Convencion,city,Colombia,Norte Santander,Convencion,Convencion
+Colombia-Norte_Santander-Cucutilla,city,Colombia,Norte Santander,Cucutilla,Cucutilla
+Colombia-Norte_Santander-Durania,city,Colombia,Norte Santander,Durania,Durania
+Colombia-Norte_Santander-El_Carmen,city,Colombia,Norte Santander,El Carmen,El Carmen
+Colombia-Norte_Santander-El_Tarra,city,Colombia,Norte Santander,El Tarra,El Tarra
+Colombia-Norte_Santander-El_Zulia,city,Colombia,Norte Santander,El Zulia,El Zulia
+Colombia-Norte_Santander-Gramalote,city,Colombia,Norte Santander,Gramalote,Gramalote
+Colombia-Norte_Santander-Hacari,city,Colombia,Norte Santander,Hacari,Hacari
+Colombia-Norte_Santander-Herran,city,Colombia,Norte Santander,Herran,Herran
+Colombia-Norte_Santander-Labateca,city,Colombia,Norte Santander,Labateca,Labateca
+Colombia-Norte_Santander-La_Esperanza,city,Colombia,Norte Santander,La Esperanza,La Esperanza
+Colombia-Norte_Santander-La_Playa,city,Colombia,Norte Santander,La Playa,La Playa
+Colombia-Norte_Santander-Los_Patios,city,Colombia,Norte Santander,Los Patios,Los Patios
+Colombia-Norte_Santander-Lourdes,city,Colombia,Norte Santander,Lourdes,Lourdes
+Colombia-Norte_Santander-Mutiscua,city,Colombia,Norte Santander,Mutiscua,Mutiscua
+Colombia-Norte_Santander-Ocana,city,Colombia,Norte Santander,Ocana,Ocana
+Colombia-Norte_Santander-Pamplona,city,Colombia,Norte Santander,Pamplona,Pamplona
+Colombia-Norte_Santander-Pamplonita,city,Colombia,Norte Santander,Pamplonita,Pamplonita
+Colombia-Norte_Santander-Puerto_Santander,city,Colombia,Norte Santander,Puerto Santander,Puerto Santander
+Colombia-Norte_Santander-Ragonvalia,city,Colombia,Norte Santander,Ragonvalia,Ragonvalia
+Colombia-Norte_Santander-Salazar,city,Colombia,Norte Santander,Salazar,Salazar
+Colombia-Norte_Santander-San_Calixto,city,Colombia,Norte Santander,San Calixto,San Calixto
+Colombia-Norte_Santander-San_Cayetano,city,Colombia,Norte Santander,San Cayetano,San Cayetano
+Colombia-Norte_Santander-Santiago,city,Colombia,Norte Santander,Santiago,Santiago
+Colombia-Norte_Santander-Sardinata,city,Colombia,Norte Santander,Sardinata,Sardinata
+Colombia-Norte_Santander-Silos,city,Colombia,Norte Santander,Silos,Silos
+Colombia-Norte_Santander-Teorama,city,Colombia,Norte Santander,Teorama,Teorama
+Colombia-Norte_Santander-Tibu,city,Colombia,Norte Santander,Tibu,Tibu
+Colombia-Norte_Santander-Toledo,city,Colombia,Norte Santander,Toledo,Toledo
+Colombia-Norte_Santander-Villa_Caro,city,Colombia,Norte Santander,Villa Caro,Villa Caro
+Colombia-Norte_Santander-Villa_Del_Rosario,city,Colombia,Norte Santander,Villa Del Rosario,Villa Del Rosario
+Colombia-Quindio-Armenia,city,Colombia,Quindio,Armenia,Armenia
+Colombia-Quindio-Buenavista,city,Colombia,Quindio,Buenavista,Buenavista
+Colombia-Quindio-Calarca,city,Colombia,Quindio,Calarca,Calarca
+Colombia-Quindio-Circasia,city,Colombia,Quindio,Circasia,Circasia
+Colombia-Quindio-Cordoba,city,Colombia,Quindio,Cordoba,Cordoba
+Colombia-Quindio-Filandia,city,Colombia,Quindio,Filandia,Filandia
+Colombia-Quindio-Genova,city,Colombia,Quindio,Genova,Genova
+Colombia-Quindio-La_Tebaida,city,Colombia,Quindio,La Tebaida,La Tebaida
+Colombia-Quindio-Montenegro,city,Colombia,Quindio,Montenegro,Montenegro
+Colombia-Quindio-Pijao,city,Colombia,Quindio,Pijao,Pijao
+Colombia-Quindio-Quimbaya,city,Colombia,Quindio,Quimbaya,Quimbaya
+Colombia-Quindio-Salento,city,Colombia,Quindio,Salento,Salento
+Colombia-Risaralda-Pereira,city,Colombia,Risaralda,Pereira,Pereira
+Colombia-Risaralda-Apia,city,Colombia,Risaralda,Apia,Apia
+Colombia-Risaralda-Balboa,city,Colombia,Risaralda,Balboa,Balboa
+Colombia-Risaralda-Belen_De_Umbria,city,Colombia,Risaralda,Belen De Umbria,Belen De Umbria
+Colombia-Risaralda-Dosquebradas,city,Colombia,Risaralda,Dosquebradas,Dosquebradas
+Colombia-Risaralda-Guatica,city,Colombia,Risaralda,Guatica,Guatica
+Colombia-Risaralda-La_Celia,city,Colombia,Risaralda,La Celia,La Celia
+Colombia-Risaralda-La_Virginia,city,Colombia,Risaralda,La Virginia,La Virginia
+Colombia-Risaralda-Marsella,city,Colombia,Risaralda,Marsella,Marsella
+Colombia-Risaralda-Mistrato,city,Colombia,Risaralda,Mistrato,Mistrato
+Colombia-Risaralda-Pueblo_Rico,city,Colombia,Risaralda,Pueblo Rico,Pueblo Rico
+Colombia-Risaralda-Quinchia,city,Colombia,Risaralda,Quinchia,Quinchia
+Colombia-Risaralda-Santa_Rosa_De_Cabal,city,Colombia,Risaralda,Santa Rosa De Cabal,Santa Rosa De Cabal
+Colombia-Risaralda-Santuario,city,Colombia,Risaralda,Santuario,Santuario
+Colombia-Santander-Bucaramanga,city,Colombia,Santander,Bucaramanga,Bucaramanga
+Colombia-Santander-Aguada,city,Colombia,Santander,Aguada,Aguada
+Colombia-Santander-Albania,city,Colombia,Santander,Albania,Albania
+Colombia-Santander-Aratoca,city,Colombia,Santander,Aratoca,Aratoca
+Colombia-Santander-Barbosa,city,Colombia,Santander,Barbosa,Barbosa
+Colombia-Santander-Barichara,city,Colombia,Santander,Barichara,Barichara
+Colombia-Santander-Barrancabermeja,city,Colombia,Santander,Barrancabermeja,Barrancabermeja
+Colombia-Santander-Betulia,city,Colombia,Santander,Betulia,Betulia
+Colombia-Santander-Bolivar,city,Colombia,Santander,Bolivar,Bolivar
+Colombia-Santander-Cabrera,city,Colombia,Santander,Cabrera,Cabrera
+Colombia-Santander-California,city,Colombia,Santander,California,California
+Colombia-Santander-Capitanejo,city,Colombia,Santander,Capitanejo,Capitanejo
+Colombia-Santander-Carcasi,city,Colombia,Santander,Carcasi,Carcasi
+Colombia-Santander-Cepita,city,Colombia,Santander,Cepita,Cepita
+Colombia-Santander-Cerrito,city,Colombia,Santander,Cerrito,Cerrito
+Colombia-Santander-Charala,city,Colombia,Santander,Charala,Charala
+Colombia-Santander-Charta,city,Colombia,Santander,Charta,Charta
+Colombia-Santander-Chima,city,Colombia,Santander,Chima,Chima
+Colombia-Santander-Chipata,city,Colombia,Santander,Chipata,Chipata
+Colombia-Santander-Cimitarra,city,Colombia,Santander,Cimitarra,Cimitarra
+Colombia-Santander-Concepcion,city,Colombia,Santander,Concepcion,Concepcion
+Colombia-Santander-Confines,city,Colombia,Santander,Confines,Confines
+Colombia-Santander-Contratacion,city,Colombia,Santander,Contratacion,Contratacion
+Colombia-Santander-Coromoro,city,Colombia,Santander,Coromoro,Coromoro
+Colombia-Santander-Curiti,city,Colombia,Santander,Curiti,Curiti
+Colombia-Santander-El_Carmen_De_Chucuri,city,Colombia,Santander,El Carmen De Chucuri,El Carmen De Chucuri
+Colombia-Santander-El_Guacamayo,city,Colombia,Santander,El Guacamayo,El Guacamayo
+Colombia-Santander-El_Penon,city,Colombia,Santander,El Penon,El Penon
+Colombia-Santander-El_Playon,city,Colombia,Santander,El Playon,El Playon
+Colombia-Santander-Encino,city,Colombia,Santander,Encino,Encino
+Colombia-Santander-Enciso,city,Colombia,Santander,Enciso,Enciso
+Colombia-Santander-Florian,city,Colombia,Santander,Florian,Florian
+Colombia-Santander-Floridablanca,city,Colombia,Santander,Floridablanca,Floridablanca
+Colombia-Santander-Galan,city,Colombia,Santander,Galan,Galan
+Colombia-Santander-Gambita,city,Colombia,Santander,Gambita,Gambita
+Colombia-Santander-Giron,city,Colombia,Santander,Giron,Giron
+Colombia-Santander-Guaca,city,Colombia,Santander,Guaca,Guaca
+Colombia-Santander-Guadalupe,city,Colombia,Santander,Guadalupe,Guadalupe
+Colombia-Santander-Guapota,city,Colombia,Santander,Guapota,Guapota
+Colombia-Santander-Guavata,city,Colombia,Santander,Guavata,Guavata
+Colombia-Santander-Gsepsa,city,Colombia,Santander,Gsepsa,Gsepsa
+Colombia-Santander-Hato,city,Colombia,Santander,Hato,Hato
+Colombia-Santander-Jesus_Maria,city,Colombia,Santander,Jesus Maria,Jesus Maria
+Colombia-Santander-Jordan,city,Colombia,Santander,Jordan,Jordan
+Colombia-Santander-La_Belleza,city,Colombia,Santander,La Belleza,La Belleza
+Colombia-Santander-Landazuri,city,Colombia,Santander,Landazuri,Landazuri
+Colombia-Santander-La_Paz,city,Colombia,Santander,La Paz,La Paz
+Colombia-Santander-Lebrija,city,Colombia,Santander,Lebrija,Lebrija
+Colombia-Santander-Los_Santos,city,Colombia,Santander,Los Santos,Los Santos
+Colombia-Santander-Macaravita,city,Colombia,Santander,Macaravita,Macaravita
+Colombia-Santander-Malaga,city,Colombia,Santander,Malaga,Malaga
+Colombia-Santander-Matanza,city,Colombia,Santander,Matanza,Matanza
+Colombia-Santander-Mogotes,city,Colombia,Santander,Mogotes,Mogotes
+Colombia-Santander-Molagavita,city,Colombia,Santander,Molagavita,Molagavita
+Colombia-Santander-Ocamonte,city,Colombia,Santander,Ocamonte,Ocamonte
+Colombia-Santander-Oiba,city,Colombia,Santander,Oiba,Oiba
+Colombia-Santander-Onzaga,city,Colombia,Santander,Onzaga,Onzaga
+Colombia-Santander-Palmar,city,Colombia,Santander,Palmar,Palmar
+Colombia-Santander-Palmas_Del_Socorro,city,Colombia,Santander,Palmas Del Socorro,Palmas Del Socorro
+Colombia-Santander-Paramo,city,Colombia,Santander,Paramo,Paramo
+Colombia-Santander-Piedecuesta,city,Colombia,Santander,Piedecuesta,Piedecuesta
+Colombia-Santander-Pinchote,city,Colombia,Santander,Pinchote,Pinchote
+Colombia-Santander-Puente_Nacional,city,Colombia,Santander,Puente Nacional,Puente Nacional
+Colombia-Santander-Puerto_Parra,city,Colombia,Santander,Puerto Parra,Puerto Parra
+Colombia-Santander-Puerto_Wilches,city,Colombia,Santander,Puerto Wilches,Puerto Wilches
+Colombia-Santander-Rionegro,city,Colombia,Santander,Rionegro,Rionegro
+Colombia-Santander-Sabana_De_Torres,city,Colombia,Santander,Sabana De Torres,Sabana De Torres
+Colombia-Santander-San_Andres,city,Colombia,Santander,San Andres,San Andres
+Colombia-Santander-San_Benito,city,Colombia,Santander,San Benito,San Benito
+Colombia-Santander-San_Gil,city,Colombia,Santander,San Gil,San Gil
+Colombia-Santander-San_Joaquin,city,Colombia,Santander,San Joaquin,San Joaquin
+Colombia-Santander-San_Jose_De_Miranda,city,Colombia,Santander,San Jose De Miranda,San Jose De Miranda
+Colombia-Santander-San_Miguel,city,Colombia,Santander,San Miguel,San Miguel
+Colombia-Santander-San_Vicente_De_Chucuri,city,Colombia,Santander,San Vicente De Chucuri,San Vicente De Chucuri
+Colombia-Santander-Santa_Barbara,city,Colombia,Santander,Santa Barbara,Santa Barbara
+Colombia-Santander-Santa_Helena_Del_Opon,city,Colombia,Santander,Santa Helena Del Opon,Santa Helena Del Opon
+Colombia-Santander-Simacota,city,Colombia,Santander,Simacota,Simacota
+Colombia-Santander-Socorro,city,Colombia,Santander,Socorro,Socorro
+Colombia-Santander-Suaita,city,Colombia,Santander,Suaita,Suaita
+Colombia-Santander-Sucre,city,Colombia,Santander,Sucre,Sucre
+Colombia-Santander-Surata,city,Colombia,Santander,Surata,Surata
+Colombia-Santander-Tona,city,Colombia,Santander,Tona,Tona
+Colombia-Santander-Valle_De_San_Jose,city,Colombia,Santander,Valle De San Jose,Valle De San Jose
+Colombia-Santander-Velez,city,Colombia,Santander,Velez,Velez
+Colombia-Santander-Vetas,city,Colombia,Santander,Vetas,Vetas
+Colombia-Santander-Villanueva,city,Colombia,Santander,Villanueva,Villanueva
+Colombia-Santander-Zapatoca,city,Colombia,Santander,Zapatoca,Zapatoca
+Colombia-Sucre-Sincelejo,city,Colombia,Sucre,Sincelejo,Sincelejo
+Colombia-Sucre-Buenavista,city,Colombia,Sucre,Buenavista,Buenavista
+Colombia-Sucre-Caimito,city,Colombia,Sucre,Caimito,Caimito
+Colombia-Sucre-Coloso,city,Colombia,Sucre,Coloso,Coloso
+Colombia-Sucre-Corozal,city,Colombia,Sucre,Corozal,Corozal
+Colombia-Sucre-Covenas,city,Colombia,Sucre,Covenas,Covenas
+Colombia-Sucre-Chalan,city,Colombia,Sucre,Chalan,Chalan
+Colombia-Sucre-El_Roble,city,Colombia,Sucre,El Roble,El Roble
+Colombia-Sucre-Galeras,city,Colombia,Sucre,Galeras,Galeras
+Colombia-Sucre-Guaranda,city,Colombia,Sucre,Guaranda,Guaranda
+Colombia-Sucre-La_Union,city,Colombia,Sucre,La Union,La Union
+Colombia-Sucre-Los_Palmitos,city,Colombia,Sucre,Los Palmitos,Los Palmitos
+Colombia-Sucre-Majagual,city,Colombia,Sucre,Majagual,Majagual
+Colombia-Sucre-Morroa,city,Colombia,Sucre,Morroa,Morroa
+Colombia-Sucre-Ovejas,city,Colombia,Sucre,Ovejas,Ovejas
+Colombia-Sucre-Palmito,city,Colombia,Sucre,Palmito,Palmito
+Colombia-Sucre-Sampues,city,Colombia,Sucre,Sampues,Sampues
+Colombia-Sucre-San_Benito_Abad,city,Colombia,Sucre,San Benito Abad,San Benito Abad
+Colombia-Sucre-San_Juan_De_Betulia,city,Colombia,Sucre,San Juan De Betulia,San Juan De Betulia
+Colombia-Sucre-San_Marcos,city,Colombia,Sucre,San Marcos,San Marcos
+Colombia-Sucre-San_Onofre,city,Colombia,Sucre,San Onofre,San Onofre
+Colombia-Sucre-San_Pedro,city,Colombia,Sucre,San Pedro,San Pedro
+Colombia-Sucre-San_Luis_De_Since,city,Colombia,Sucre,San Luis De Since,San Luis De Since
+Colombia-Sucre-Sucre,city,Colombia,Sucre,Sucre,Sucre
+Colombia-Sucre-Santiago_De_Tolu,city,Colombia,Sucre,Santiago De Tolu,Santiago De Tolu
+Colombia-Sucre-Tolu_Viejo,city,Colombia,Sucre,Tolu Viejo,Tolu Viejo
+Colombia-Tolima-Ibague,city,Colombia,Tolima,Ibague,Ibague
+Colombia-Tolima-Alpujarra,city,Colombia,Tolima,Alpujarra,Alpujarra
+Colombia-Tolima-Alvarado,city,Colombia,Tolima,Alvarado,Alvarado
+Colombia-Tolima-Ambalema,city,Colombia,Tolima,Ambalema,Ambalema
+Colombia-Tolima-Anzoategui,city,Colombia,Tolima,Anzoategui,Anzoategui
+Colombia-Tolima-Armero,city,Colombia,Tolima,Armero,Armero
+Colombia-Tolima-Ataco,city,Colombia,Tolima,Ataco,Ataco
+Colombia-Tolima-Cajamarca,city,Colombia,Tolima,Cajamarca,Cajamarca
+Colombia-Tolima-Carmen_De_Apicala,city,Colombia,Tolima,Carmen De Apicala,Carmen De Apicala
+Colombia-Tolima-Casabianca,city,Colombia,Tolima,Casabianca,Casabianca
+Colombia-Tolima-Chaparral,city,Colombia,Tolima,Chaparral,Chaparral
+Colombia-Tolima-Coello,city,Colombia,Tolima,Coello,Coello
+Colombia-Tolima-Coyaima,city,Colombia,Tolima,Coyaima,Coyaima
+Colombia-Tolima-Cunday,city,Colombia,Tolima,Cunday,Cunday
+Colombia-Tolima-Dolores,city,Colombia,Tolima,Dolores,Dolores
+Colombia-Tolima-Espinal,city,Colombia,Tolima,Espinal,Espinal
+Colombia-Tolima-Falan,city,Colombia,Tolima,Falan,Falan
+Colombia-Tolima-Flandes,city,Colombia,Tolima,Flandes,Flandes
+Colombia-Tolima-Fresno,city,Colombia,Tolima,Fresno,Fresno
+Colombia-Tolima-Guamo,city,Colombia,Tolima,Guamo,Guamo
+Colombia-Tolima-Herveo,city,Colombia,Tolima,Herveo,Herveo
+Colombia-Tolima-Honda,city,Colombia,Tolima,Honda,Honda
+Colombia-Tolima-Icononzo,city,Colombia,Tolima,Icononzo,Icononzo
+Colombia-Tolima-Lerida,city,Colombia,Tolima,Lerida,Lerida
+Colombia-Tolima-Libano,city,Colombia,Tolima,Libano,Libano
+Colombia-Tolima-Mariquita,city,Colombia,Tolima,Mariquita,Mariquita
+Colombia-Tolima-Melgar,city,Colombia,Tolima,Melgar,Melgar
+Colombia-Tolima-Murillo,city,Colombia,Tolima,Murillo,Murillo
+Colombia-Tolima-Natagaima,city,Colombia,Tolima,Natagaima,Natagaima
+Colombia-Tolima-Ortega,city,Colombia,Tolima,Ortega,Ortega
+Colombia-Tolima-Palocabildo,city,Colombia,Tolima,Palocabildo,Palocabildo
+Colombia-Tolima-Piedras,city,Colombia,Tolima,Piedras,Piedras
+Colombia-Tolima-Planadas,city,Colombia,Tolima,Planadas,Planadas
+Colombia-Tolima-Prado,city,Colombia,Tolima,Prado,Prado
+Colombia-Tolima-Purificacion,city,Colombia,Tolima,Purificacion,Purificacion
+Colombia-Tolima-Rioblanco,city,Colombia,Tolima,Rioblanco,Rioblanco
+Colombia-Tolima-Roncesvalles,city,Colombia,Tolima,Roncesvalles,Roncesvalles
+Colombia-Tolima-Rovira,city,Colombia,Tolima,Rovira,Rovira
+Colombia-Tolima-Saldana,city,Colombia,Tolima,Saldana,Saldana
+Colombia-Tolima-San_Antonio,city,Colombia,Tolima,San Antonio,San Antonio
+Colombia-Tolima-San_Luis,city,Colombia,Tolima,San Luis,San Luis
+Colombia-Tolima-Santa_Isabel,city,Colombia,Tolima,Santa Isabel,Santa Isabel
+Colombia-Tolima-Suarez,city,Colombia,Tolima,Suarez,Suarez
+Colombia-Tolima-Valle_De_San_Juan,city,Colombia,Tolima,Valle De San Juan,Valle De San Juan
+Colombia-Tolima-Venadillo,city,Colombia,Tolima,Venadillo,Venadillo
+Colombia-Tolima-Villahermosa,city,Colombia,Tolima,Villahermosa,Villahermosa
+Colombia-Tolima-Villarrica,city,Colombia,Tolima,Villarrica,Villarrica
+Colombia-Valle_Del_Cauca-Cali,city,Colombia,Valle Del Cauca,Cali,Cali
+Colombia-Valle_Del_Cauca-Alcala,city,Colombia,Valle Del Cauca,Alcala,Alcala
+Colombia-Valle_Del_Cauca-Andalucia,city,Colombia,Valle Del Cauca,Andalucia,Andalucia
+Colombia-Valle_Del_Cauca-Ansermanuevo,city,Colombia,Valle Del Cauca,Ansermanuevo,Ansermanuevo
+Colombia-Valle_Del_Cauca-Argelia,city,Colombia,Valle Del Cauca,Argelia,Argelia
+Colombia-Valle_Del_Cauca-Bolivar,city,Colombia,Valle Del Cauca,Bolivar,Bolivar
+Colombia-Valle_Del_Cauca-Buenaventura,city,Colombia,Valle Del Cauca,Buenaventura,Buenaventura
+Colombia-Valle_Del_Cauca-Guadalajara_De_Buga,city,Colombia,Valle Del Cauca,Guadalajara De Buga,Guadalajara De Buga
+Colombia-Valle_Del_Cauca-Bugalagrande,city,Colombia,Valle Del Cauca,Bugalagrande,Bugalagrande
+Colombia-Valle_Del_Cauca-Caicedonia,city,Colombia,Valle Del Cauca,Caicedonia,Caicedonia
+Colombia-Valle_Del_Cauca-Calima,city,Colombia,Valle Del Cauca,Calima,Calima
+Colombia-Valle_Del_Cauca-Candelaria,city,Colombia,Valle Del Cauca,Candelaria,Candelaria
+Colombia-Valle_Del_Cauca-Cartago,city,Colombia,Valle Del Cauca,Cartago,Cartago
+Colombia-Valle_Del_Cauca-Dagua,city,Colombia,Valle Del Cauca,Dagua,Dagua
+Colombia-Valle_Del_Cauca-El_Aguila,city,Colombia,Valle Del Cauca,El Aguila,El Aguila
+Colombia-Valle_Del_Cauca-El_Cairo,city,Colombia,Valle Del Cauca,El Cairo,El Cairo
+Colombia-Valle_Del_Cauca-El_Cerrito,city,Colombia,Valle Del Cauca,El Cerrito,El Cerrito
+Colombia-Valle_Del_Cauca-El_Dovio,city,Colombia,Valle Del Cauca,El Dovio,El Dovio
+Colombia-Valle_Del_Cauca-Florida,city,Colombia,Valle Del Cauca,Florida,Florida
+Colombia-Valle_Del_Cauca-Ginebra,city,Colombia,Valle Del Cauca,Ginebra,Ginebra
+Colombia-Valle_Del_Cauca-Guacari,city,Colombia,Valle Del Cauca,Guacari,Guacari
+Colombia-Valle_Del_Cauca-Jamundi,city,Colombia,Valle Del Cauca,Jamundi,Jamundi
+Colombia-Valle_Del_Cauca-La_Cumbre,city,Colombia,Valle Del Cauca,La Cumbre,La Cumbre
+Colombia-Valle_Del_Cauca-La_Union,city,Colombia,Valle Del Cauca,La Union,La Union
+Colombia-Valle_Del_Cauca-La_Victoria,city,Colombia,Valle Del Cauca,La Victoria,La Victoria
+Colombia-Valle_Del_Cauca-Obando,city,Colombia,Valle Del Cauca,Obando,Obando
+Colombia-Valle_Del_Cauca-Palmira,city,Colombia,Valle Del Cauca,Palmira,Palmira
+Colombia-Valle_Del_Cauca-Pradera,city,Colombia,Valle Del Cauca,Pradera,Pradera
+Colombia-Valle_Del_Cauca-Restrepo,city,Colombia,Valle Del Cauca,Restrepo,Restrepo
+Colombia-Valle_Del_Cauca-Riofrio,city,Colombia,Valle Del Cauca,Riofrio,Riofrio
+Colombia-Valle_Del_Cauca-Roldanillo,city,Colombia,Valle Del Cauca,Roldanillo,Roldanillo
+Colombia-Valle_Del_Cauca-San_Pedro,city,Colombia,Valle Del Cauca,San Pedro,San Pedro
+Colombia-Valle_Del_Cauca-Sevilla,city,Colombia,Valle Del Cauca,Sevilla,Sevilla
+Colombia-Valle_Del_Cauca-Toro,city,Colombia,Valle Del Cauca,Toro,Toro
+Colombia-Valle_Del_Cauca-Trujillo,city,Colombia,Valle Del Cauca,Trujillo,Trujillo
+Colombia-Valle_Del_Cauca-Tulua,city,Colombia,Valle Del Cauca,Tulua,Tulua
+Colombia-Valle_Del_Cauca-Ulloa,city,Colombia,Valle Del Cauca,Ulloa,Ulloa
+Colombia-Valle_Del_Cauca-Versalles,city,Colombia,Valle Del Cauca,Versalles,Versalles
+Colombia-Valle_Del_Cauca-Vijes,city,Colombia,Valle Del Cauca,Vijes,Vijes
+Colombia-Valle_Del_Cauca-Yotoco,city,Colombia,Valle Del Cauca,Yotoco,Yotoco
+Colombia-Valle_Del_Cauca-Yumbo,city,Colombia,Valle Del Cauca,Yumbo,Yumbo
+Colombia-Valle_Del_Cauca-Zarzal,city,Colombia,Valle Del Cauca,Zarzal,Zarzal
+Colombia-Arauca-Arauca,city,Colombia,Arauca,Arauca,Arauca
+Colombia-Arauca-Arauquita,city,Colombia,Arauca,Arauquita,Arauquita
+Colombia-Arauca-Cravo_Norte,city,Colombia,Arauca,Cravo Norte,Cravo Norte
+Colombia-Arauca-Fortul,city,Colombia,Arauca,Fortul,Fortul
+Colombia-Arauca-Puerto_Rondon,city,Colombia,Arauca,Puerto Rondon,Puerto Rondon
+Colombia-Arauca-Saravena,city,Colombia,Arauca,Saravena,Saravena
+Colombia-Arauca-Tame,city,Colombia,Arauca,Tame,Tame
+Colombia-Casanare-Yopal,city,Colombia,Casanare,Yopal,Yopal
+Colombia-Casanare-Aguazul,city,Colombia,Casanare,Aguazul,Aguazul
+Colombia-Casanare-Chameza,city,Colombia,Casanare,Chameza,Chameza
+Colombia-Casanare-Hato_Corozal,city,Colombia,Casanare,Hato Corozal,Hato Corozal
+Colombia-Casanare-La_Salina,city,Colombia,Casanare,La Salina,La Salina
+Colombia-Casanare-Mani,city,Colombia,Casanare,Mani,Mani
+Colombia-Casanare-Monterrey,city,Colombia,Casanare,Monterrey,Monterrey
+Colombia-Casanare-Nunchia,city,Colombia,Casanare,Nunchia,Nunchia
+Colombia-Casanare-Orocue,city,Colombia,Casanare,Orocue,Orocue
+Colombia-Casanare-Paz_De_Ariporo,city,Colombia,Casanare,Paz De Ariporo,Paz De Ariporo
+Colombia-Casanare-Pore,city,Colombia,Casanare,Pore,Pore
+Colombia-Casanare-Recetor,city,Colombia,Casanare,Recetor,Recetor
+Colombia-Casanare-Sabanalarga,city,Colombia,Casanare,Sabanalarga,Sabanalarga
+Colombia-Casanare-Sacama,city,Colombia,Casanare,Sacama,Sacama
+Colombia-Casanare-San_Luis_De_Palenque,city,Colombia,Casanare,San Luis De Palenque,San Luis De Palenque
+Colombia-Casanare-Tamara,city,Colombia,Casanare,Tamara,Tamara
+Colombia-Casanare-Tauramena,city,Colombia,Casanare,Tauramena,Tauramena
+Colombia-Casanare-Trinidad,city,Colombia,Casanare,Trinidad,Trinidad
+Colombia-Casanare-Villanueva,city,Colombia,Casanare,Villanueva,Villanueva
+Colombia-Putumayo-Mocoa,city,Colombia,Putumayo,Mocoa,Mocoa
+Colombia-Putumayo-Colon,city,Colombia,Putumayo,Colon,Colon
+Colombia-Putumayo-Orito,city,Colombia,Putumayo,Orito,Orito
+Colombia-Putumayo-Puerto_Asis,city,Colombia,Putumayo,Puerto Asis,Puerto Asis
+Colombia-Putumayo-Puerto_Caicedo,city,Colombia,Putumayo,Puerto Caicedo,Puerto Caicedo
+Colombia-Putumayo-Puerto_Guzman,city,Colombia,Putumayo,Puerto Guzman,Puerto Guzman
+Colombia-Putumayo-Leguizamo,city,Colombia,Putumayo,Leguizamo,Leguizamo
+Colombia-Putumayo-Sibundoy,city,Colombia,Putumayo,Sibundoy,Sibundoy
+Colombia-Putumayo-San_Francisco,city,Colombia,Putumayo,San Francisco,San Francisco
+Colombia-Putumayo-San_Miguel,city,Colombia,Putumayo,San Miguel,San Miguel
+Colombia-Putumayo-Santiago,city,Colombia,Putumayo,Santiago,Santiago
+Colombia-Putumayo-Valle_Del_Guamuez,city,Colombia,Putumayo,Valle Del Guamuez,Valle Del Guamuez
+Colombia-Putumayo-Villagarzon,city,Colombia,Putumayo,Villagarzon,Villagarzon
+Colombia-San_Andres-San_Andres,city,Colombia,San Andres,San Andres,San Andres
+Colombia-San_Andres-Providencia,city,Colombia,San Andres,Providencia,Providencia
+Colombia-Amazonas-Leticia,city,Colombia,Amazonas,Leticia,Leticia
+Colombia-Amazonas-El_Encanto,city,Colombia,Amazonas,El Encanto,El Encanto
+Colombia-Amazonas-La_Chorrera,city,Colombia,Amazonas,La Chorrera,La Chorrera
+Colombia-Amazonas-La_Pedrera,city,Colombia,Amazonas,La Pedrera,La Pedrera
+Colombia-Amazonas-La_Victoria,city,Colombia,Amazonas,La Victoria,La Victoria
+Colombia-Amazonas-Miriti_Parana,city,Colombia,Amazonas,Miriti Parana,Miriti Parana
+Colombia-Amazonas-Puerto_Alegria,city,Colombia,Amazonas,Puerto Alegria,Puerto Alegria
+Colombia-Amazonas-Puerto_Arica,city,Colombia,Amazonas,Puerto Arica,Puerto Arica
+Colombia-Amazonas-Puerto_Narino,city,Colombia,Amazonas,Puerto Narino,Puerto Narino
+Colombia-Amazonas-Puerto_Santander,city,Colombia,Amazonas,Puerto Santander,Puerto Santander
+Colombia-Amazonas-Tarapaca,city,Colombia,Amazonas,Tarapaca,Tarapaca
+Colombia-Guainia-Inirida,city,Colombia,Guainia,Inirida,Inirida
+Colombia-Guainia-Barranco_Minas,city,Colombia,Guainia,Barranco Minas,Barranco Minas
+Colombia-Guainia-Mapiripana,city,Colombia,Guainia,Mapiripana,Mapiripana
+Colombia-Guainia-San_Felipe,city,Colombia,Guainia,San Felipe,San Felipe
+Colombia-Guainia-Puerto_Colombia,city,Colombia,Guainia,Puerto Colombia,Puerto Colombia
+Colombia-Guainia-La_Guadalupe,city,Colombia,Guainia,La Guadalupe,La Guadalupe
+Colombia-Guainia-Cacahual,city,Colombia,Guainia,Cacahual,Cacahual
+Colombia-Guainia-Pana_Pana,city,Colombia,Guainia,Pana Pana,Pana Pana
+Colombia-Guainia-Morichal,city,Colombia,Guainia,Morichal,Morichal
+Colombia-Guaviare-San_Jose_Del_Guaviare,city,Colombia,Guaviare,San Jose Del Guaviare,San Jose Del Guaviare
+Colombia-Guaviare-Calamar,city,Colombia,Guaviare,Calamar,Calamar
+Colombia-Guaviare-El_Retorno,city,Colombia,Guaviare,El Retorno,El Retorno
+Colombia-Guaviare-Miraflores,city,Colombia,Guaviare,Miraflores,Miraflores
+Colombia-Vaupes-Mitu,city,Colombia,Vaupes,Mitu,Mitu
+Colombia-Vaupes-Caruru,city,Colombia,Vaupes,Caruru,Caruru
+Colombia-Vaupes-Pacoa,city,Colombia,Vaupes,Pacoa,Pacoa
+Colombia-Vaupes-Taraira,city,Colombia,Vaupes,Taraira,Taraira
+Colombia-Vaupes-Papunaua,city,Colombia,Vaupes,Papunaua,Papunaua
+Colombia-Vaupes-Yavarate,city,Colombia,Vaupes,Yavarate,Yavarate
+Colombia-Vichada-Puerto_Carreno,city,Colombia,Vichada,Puerto Carreno,Puerto Carreno
+Colombia-Vichada-La_Primavera,city,Colombia,Vichada,La Primavera,La Primavera
+Colombia-Vichada-Santa_Rosalia,city,Colombia,Vichada,Santa Rosalia,Santa Rosalia
+Colombia-Vichada-Cumaribo,city,Colombia,Vichada,Cumaribo,Cumaribo
+Colombia-Desconocido-Desconocido,city,Colombia,Desconocido,Desconocido,Desconocido
+Colombia-Bogota-Bogota,city,Colombia,Bogota,Bogota,Bogota
+Colombia-Bogota-Usaquen_Los_Cedros,city,Colombia,Bogota,Usaquen Los Cedros,Usaquen Los Cedros
+Colombia-Bogota-Usaquen_Santa_Barbara,city,Colombia,Bogota,Usaquen Santa Barbara,Usaquen Santa Barbara
+Colombia-Bogota-Barrios_Unidos_Los_Andes,city,Colombia,Bogota,Barrios Unidos Los Andes,Barrios Unidos Los Andes
+Colombia-Bogota-Barrios_Unidos_12_De_Octubre,city,Colombia,Bogota,Barrios Unidos 12 De Octubre,Barrios Unidos 12 De Octubre
+Colombia-Bogota-San_Cristobal_Sociego,city,Colombia,Bogota,San Cristobal Sociego,San Cristobal Sociego
+Colombia-Bogota-Tunjuelito_Venecia,city,Colombia,Bogota,Tunjuelito Venecia,Tunjuelito Venecia
+Colombia-Bogota-Puente_Aranda_San_Rafael,city,Colombia,Bogota,Puente Aranda San Rafael,Puente Aranda San Rafael
+Colombia-Bogota-Kennedy_Americas,city,Colombia,Bogota,Kennedy Americas,Kennedy Americas
+Colombia-Bogota-Kennedy_Kennedy_Central,city,Colombia,Bogota,Kennedy Kennedy Central,Kennedy Kennedy Central
+Colombia-Bogota-Tunjuelito_Tunjuelito,city,Colombia,Bogota,Tunjuelito Tunjuelito,Tunjuelito Tunjuelito
+Colombia-Bogota-Ciudad_Bolivar_San_Francisco,city,Colombia,Bogota,Ciudad Bolivar San Francisco,Ciudad Bolivar San Francisco
+Colombia-Bogota-Engativa_Engativa,city,Colombia,Bogota,Engativa Engativa,Engativa Engativa
+Colombia-Bogota-Fontibon_Fontibon,city,Colombia,Bogota,Fontibon Fontibon,Fontibon Fontibon
+Colombia-Bogota-Bosa_Bosa_Central,city,Colombia,Bogota,Bosa Bosa Central,Bosa Bosa Central
+Colombia-Bogota-Bosa_Tintal_Sur,city,Colombia,Bogota,Bosa Tintal Sur,Bosa Tintal Sur
+Colombia-Bogota-La_Candelaria_La_Candelaria,city,Colombia,Bogota,La Candelaria La Candelaria,La Candelaria La Candelaria
+Colombia-Bogota-Chapinero_Chico_Lago,city,Colombia,Bogota,Chapinero Chico Lago,Chapinero Chico Lago
+Colombia-Bogota-Chapinero_Chapinero,city,Colombia,Bogota,Chapinero Chapinero,Chapinero Chapinero
+Colombia-Bogota-Teusaquillo_Teusaquillo,city,Colombia,Bogota,Teusaquillo Teusaquillo,Teusaquillo Teusaquillo
+Colombia-Bogota-Teusaquillo_La_Esmeralda,city,Colombia,Bogota,Teusaquillo La Esmeralda,Teusaquillo La Esmeralda
+Colombia-Bogota-Teusaquillo_Quinta_Paredes,city,Colombia,Bogota,Teusaquillo Quinta Paredes,Teusaquillo Quinta Paredes
+Colombia-Bogota-Teusaquillo_Ciudad_Salitre_Oriental,city,Colombia,Bogota,Teusaquillo Ciudad Salitre Oriental,Teusaquillo Ciudad Salitre Oriental
+Colombia-Sucre-Tolu,city,Colombia,Sucre,Tolu,Tolu
+Colombia-Sucre-Toluviejo,city,Colombia,Sucre,Toluviejo,Toluviejo
+Colombia-Tolima-Armero_Guayabal,city,Colombia,Tolima,Armero Guayabal,Armero Guayabal
+Colombia-Valle,province,Colombia,Valle,,
+Colombia-Bolivar,province,Colombia,Bolivar,,
+Colombia-Norte_Santander,province,Colombia,Norte Santander,,
+Colombia-Barranquilla,province,Colombia,Barranquilla,,
+Colombia-Huila,province,Colombia,Huila,,
+Colombia-Santander,province,Colombia,Santander,,
+Colombia-Cordoba,province,Colombia,Cordoba,,
+Colombia-Meta,province,Colombia,Meta,,
+Colombia-Tolima,province,Colombia,Tolima,,
+Colombia-Atlantico,province,Colombia,Atlantico,,
+Colombia-Cesar,province,Colombia,Cesar,,
+Colombia-Antioquia,province,Colombia,Antioquia,,
+Colombia-Casanare,province,Colombia,Casanare,,
+Colombia-Santa_Marta,province,Colombia,Santa Marta,,
+Colombia-Sucre,province,Colombia,Sucre,,
+Colombia-Magdalena,province,Colombia,Magdalena,,
+Colombia-Bogota,province,Colombia,Bogota,,
+Colombia-Caqueta,province,Colombia,Caqueta,,
+Colombia-Cundinamarca,province,Colombia,Cundinamarca,,
+Colombia-Arauca,province,Colombia,Arauca,,
+Colombia-Guajira,province,Colombia,Guajira,,
+Colombia-Risaralda,province,Colombia,Risaralda,,
+Colombia-Putumayo,province,Colombia,Putumayo,,
+Colombia-Cartagena,province,Colombia,Cartagena,,
+Colombia-Cauca,province,Colombia,Cauca,,
+Colombia-Quindio,province,Colombia,Quindio,,
+Colombia-Caldas,province,Colombia,Caldas,,
+Colombia-Amazonas,province,Colombia,Amazonas,,
+Colombia-Boyaca,province,Colombia,Boyaca,,
+Colombia-San_Andres,province,Colombia,San Andres,,
+Colombia-Buenaventura,province,Colombia,Buenaventura,,
+Colombia-Narino,province,Colombia,Narino,,
+Colombia-Guaviare,province,Colombia,Guaviare,,
+Colombia-Vichada,province,Colombia,Vichada,,
+Colombia-Choco,province,Colombia,Choco,,
+Colombia-Vaupes,province,Colombia,Vaupes,,
+Colombia-Guainia,province,Colombia,Guainia,,
+Colombia-Exterior,province,Colombia,Exterior,,
+Colombia-unknown,province,Colombia,unknown,,
+Colombia-desconocido,province,Colombia,desconocido,,
+Dominican_Republic-Azua-Compostela,city,Dominican Republic,Azua,Compostela,Compostela
+Dominican_Republic-Barahona,province,Dominican Republic,Barahona,,
+Dominican_Republic-Distrito_Nacional,city,Dominican Republic,,,Distrito Nacional
+Dominican_Republic-Independencia,province,Dominican Republic,Independencia,,
+Dominican_Republic-Jimani_de_Independencia,city,Dominican Republic,,,Jimani de Independencia
+Dominican_Republic-Luperon-Puerto_Plata,city,Dominican Republic,Luperon,Puerto Plata,Puerto Plata
+Dominican_Republic-Santa_Cruz-Barahona,city,Dominican Republic,Santa Cruz,Barahona,Barahona
+Dominican_Republic-Santiago-Caballeros,city,Dominican Republic,Santiago,Caballeros,Caballeros
+Dominican_Republic-Santo_Domingo,city,Dominican Republic,,,Santo Domingo
+Dominican_Republic-Santo_Domingo_Norte,city,Dominican Republic,,,Santo Domingo Norte
+Dominican_Republic-Santo_Domingo_Este,city,Dominican Republic,,,Santo Domingo Este
+Dominican_Republic-Santo_Domingo_Oeste,city,Dominican Republic,,,Santo Domingo Oeste
+Dominican_Republic-Distrito_Nacional,province,Dominican Republic,Distrito Nacional,,
+Dominican_Republic-Azua,province,Dominican Republic,Azua,,
+Dominican_Republic-Baoruco,province,Dominican Republic,Baoruco,,
+Dominican_Republic-Barahona,province,Dominican Republic,Barahona,,
+Dominican_Republic-Dajabon,province,Dominican Republic,Dajabon,,
+Dominican_Republic-Duarte,province,Dominican Republic,Duarte,,
+Dominican_Republic-Elias_Pina,province,Dominican Republic,Elias Pina,,
+Dominican_Republic-El_Seibo,province,Dominican Republic,El Seibo,,
+Dominican_Republic-Espaillat,province,Dominican Republic,Espaillat,,
+Dominican_Republic-Independencia,province,Dominican Republic,Independencia,,
+Dominican_Republic-La_Altagracia,province,Dominican Republic,La Altagracia,,
+Dominican_Republic-La_Romana,province,Dominican Republic,La Romana,,
+Dominican_Republic-La_Vega,province,Dominican Republic,La Vega,,
+Dominican_Republic-Maria_Trinidad_Sanchez,province,Dominican Republic,Maria Trinidad Sanchez,,
+Dominican_Republic-Monte_Cristi,province,Dominican Republic,Monte Cristi,,
+Dominican_Republic-Pedernales,province,Dominican Republic,Pedernales,,
+Dominican_Republic-Peravia,province,Dominican Republic,Peravia,,
+Dominican_Republic-Puerto_Plata,province,Dominican Republic,Puerto Plata,,
+Dominican_Republic-Hermanas_Mirabal,province,Dominican Republic,Hermanas Mirabal,,
+Dominican_Republic-Samana,province,Dominican Republic,Samana,,
+Dominican_Republic-San_Cristobal,province,Dominican Republic,San Cristobal,,
+Dominican_Republic-San_Juan,province,Dominican Republic,San Juan,,
+Dominican_Republic-San_Pedro_de_Macoris,province,Dominican Republic,San Pedro de Macoris,,
+Dominican_Republic-Sanchez_Ramirez,province,Dominican Republic,Sanchez Ramirez,,
+Dominican_Republic-Santiago,province,Dominican Republic,Santiago,,
+Dominican_Republic-Santiago-Rodriguez,city,Dominican Republic,Santiago,Rodriguez,Rodriguez
+Dominican_Republic-Valverde,province,Dominican Republic,Valverde,,
+Dominican_Republic-Monsenor_Nouel,province,Dominican Republic,Monsenor Nouel,,
+Dominican_Republic-Monte_Plata,province,Dominican Republic,Monte Plata,,
+Dominican_Republic-Hato_Mayor,province,Dominican Republic,Hato Mayor,,
+Dominican_Republic-San_Jose_de_Ocoa,province,Dominican Republic,San Jose de Ocoa,,
+Dominican_Republic-Santo_Domingo,province,Dominican Republic,Santo Domingo,,
+Dominican_Republic-Extranjera,province,Dominican Republic,Extranjera,,
+Dominican_Republic-Other,province,Dominican Republic,Other,,
+Ecuador-Azuay-Cuenca,county,Ecuador,Azuay,Cuenca,Cuenca
+Ecuador-Bolivar,province,Ecuador,Bolivar,,
+Ecuador-Chimborazo-Chunchi,county,Ecuador,Chimborazo,Chunchi,Chunchi
+Ecuador-Cotopaxi,province,Ecuador,Cotopaxi,,
+Ecuador-El_Oro-Huaquillas,county,Ecuador,El Oro,Huaquillas,Huaquillas
+Ecuador-El_Oro-Machala,county,Ecuador,El Oro,Machala,Machala
+Ecuador-El_Oro-Pasaje,county,Ecuador,El Oro,Pasaje,Pasaje
+Ecuador-El_Oro-Santa_Rosa,county,Ecuador,El Oro,Santa Rosa,Santa Rosa
+Ecuador-Esmeraldas-Esmeraldas,county,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas
+Ecuador-Esmeraldas-Atacames,county,Ecuador,Esmeraldas,Atacames,Atacames
+Ecuador-Esmeraldas-Muisne,county,Ecuador,Esmeraldas,Muisne,Muisne
+Ecuador-Esmeraldas-Quininde,county,Ecuador,Esmeraldas,Quininde,Quininde
+Ecuador-Esmeraldas-San_Lorenzo,county,Ecuador,Esmeraldas,San Lorenzo,San Lorenzo
+Ecuador-Esmeraldas-Rioverde,county,Ecuador,Esmeraldas,Rioverde,Rioverde
+Ecuador-Galapagos-Santa_Cruz,county,Ecuador,Galapagos,Santa Cruz,Santa Cruz
+Ecuador-Imbabura-Otavalo,county,Ecuador,Imbabura,Otavalo,Otavalo
+Ecuador-Guayas-Daule,county,Ecuador,Guayas,Daule,Daule
+Ecuador-Guayas-General_Antonio_Elizalde,county,Ecuador,Guayas,General Antonio Elizalde,General Antonio Elizalde
+Ecuador-Guayas-Guayaquil,county,Ecuador,Guayas,Guayaquil,Guayaquil
+Ecuador-Guayas-Playas,county,Ecuador,Guayas,Playas,Playas
+Ecuador-Guayas-Balzar,county,Ecuador,Guayas,Balzar,Balzar
+Ecuador-Los_Rios-Buena_Fe,county,Ecuador,Los Rios,Buena Fe,Buena Fe
+Ecuador-Los_Rios-Quevedo,county,Ecuador,Los Rios,Quevedo,Quevedo
+Ecuador-Los_Rios-Ventanas,county,Ecuador,Los Rios,Ventanas,Ventanas
+Ecuador-Los_Rios-Vinces,county,Ecuador,Los Rios,Vinces,Vinces
+Ecuador-Manabi-Jipijapa,county,Ecuador,Manabi,Jipijapa,Jipijapa
+Ecuador-Los_Rios-Jaramijo,county,Ecuador,Los Rios,Jaramijo,Jaramijo
+Ecuador-Manabi-Chone,county,Ecuador,Manabi,Chone,Chone
+Ecuador-Manabi-Manta,county,Ecuador,Manabi,Manta,Manta
+Ecuador-Manabi-Pajan,county,Ecuador,Manabi,Pajan,Pajan
+Ecuador-Manabi-Pedernales,county,Ecuador,Manabi,Pedernales,Pedernales
+Ecuador-Manabi-Portoviejo,county,Ecuador,Manabi,Portoviejo,Portoviejo
+Ecuador-Manabi-Puerto_Lopez,county,Ecuador,Manabi,Puerto Lopez,Puerto Lopez
+Ecuador-Manabi-Rocafuerte,county,Ecuador,Manabi,Rocafuerte,Rocafuerte
+Ecuador-Manabi-Santa_Ana,county,Ecuador,Manabi,Santa Ana,Santa Ana
+Ecuador-Manabi-San_Vicente,county,Ecuador,Manabi,San Vicente,San Vicente
+Ecuador-Manabi-24_de_Mayo,county,Ecuador,Manabi,24 de Mayo,24 de Mayo
+Ecuador-Manabi-Tosagua,county,Ecuador,Manabi,Tosagua,Tosagua
+Ecuador-Manabi-Sucre,county,Ecuador,Manabi,Sucre,Sucre
+Ecuador-Orellana_Joya_de_los_Sachas,county,Ecuador,,Orellana Joya de los Sachas,
+Ecuador-Pichincha-Mejia,county,Ecuador,Pichincha,Mejia,Mejia
+Ecuador-Pichincha-Quito,county,Ecuador,Pichincha,Quito,Quito
+Ecuador-Pichincha-Cayambe,county,Ecuador,Pichincha,Cayambe,Cayambe
+Ecuador-Santa_Elena,province,Ecuador,Santa Elena,,
+Ecuador-Santo_Domingo_de_los_Tsachilas-La_Concordia,county,Ecuador,Santo Domingo de los Tsachilas,La Concordia,La Concordia
+Ecuador-Santo_Domingo_de_los_Tsachilas-Santo_Domingo,county,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo
+Ecuador-Sucumbios-Shushufindi,county,Ecuador,Sucumbios,Shushufindi,Shushufindi
+Ecuador-Sucumbios-Lago_Agrio,county,Ecuador,Sucumbios,Lago Agrio,Lago Agrio
+Ecuador-Azuay,province,Ecuador,Azuay,,
+Ecuador-Esmeraldas,province,Ecuador,Esmeraldas,,
+Ecuador-Chimborazo,province,Ecuador,Chimborazo,,
+Ecuador-Galapagos,province,Ecuador,Galapagos,,
+Ecuador-Orellana,province,Ecuador,Orellana,,
+Ecuador-Guayas,province,Ecuador,Guayas,,
+Ecuador-Pichincha,province,Ecuador,Pichincha,,
+Ecuador-Los_Rios,province,Ecuador,Los Rios,,
+Ecuador-Santo_Domingo_de_los_Tsachilas,province,Ecuador,Santo Domingo de los Tsachilas,,
+Ecuador-Sucumbios,province,Ecuador,Sucumbios,,
+Ecuador-El_Oro,province,Ecuador,El Oro,,
+Ecuador-Manabi,province,Ecuador,Manabi,,
+Ecuador-Loja,province,Ecuador,Loja,,
+Ecuador-Napo,province,Ecuador,Napo,,
+Ecuador-Canar,province,Ecuador,Canar,,
+Ecuador-Imbabura,province,Ecuador,Imbabura,,
+Ecuador-Carchi,province,Ecuador,Carchi,,
+Ecuador-Manabi-Montecristi,county,Ecuador,Manabi,Montecristi,Montecristi
+Ecuador-Tungurahua,province,Ecuador,Tungurahua,,
+El_Salvador-Ahuachapan,province,El Salvador,Ahuachapan,,
+El_Salvador-Cabanas,province,El Salvador,Cabanas,,
+El_Salvador-Chalatenango,province,El Salvador,Chalatenango,,
+El_Salvador-Cuscatlan,province,El Salvador,Cuscatlan,,
+El_Salvador-La_Libertad,province,El Salvador,La Libertad,,
+El_Salvador-La_Paz,province,El Salvador,La Paz,,
+El_Salvador-La_Union,province,El Salvador,La Union,,
+El_Salvador-Morazan,province,El Salvador,Morazan,,
+El_Salvador-San_Miguel,province,El Salvador,San Miguel,,
+El_Salvador-San_Salvador,province,El Salvador,San Salvador,,
+El_Salvador-San_Vicente,province,El Salvador,San Vicente,,
+El_Salvador-Santa_Ana,province,El Salvador,Santa Ana,,
+El_Salvador-Sonsonate,province,El Salvador,Sonsonate,,
+El_Salvador-Usulutan,province,El Salvador,Usulutan,,
+El_Salvador-Guatemala,province,El Salvador,Guatemala,,
+El_Salvador-Honduras,province,El Salvador,Honduras,,
+Guatemala-Chiquimula,city,Guatemala,,,Chiquimula
+Guatemala-Chimaltenango,city,Guatemala,,,Chimaltenango
+Guatemala-Escuintla,city,Guatemala,,,Escuintla
+Guatemala-Suchitepequez,city,Guatemala,,,Suchitepequez
+Guatemala-Zacapa,city,Guatemala,,,Zacapa
+Guatemala-Jutiapa,city,Guatemala,,,Jutiapa
+Guatemala-Nor_Oriente,city,Guatemala,,,Nor Oriente
+Guatemala-Alta_Verapaz,city,Guatemala,,,Alta Verapaz
+Guatemala-Baja_Verapaz,city,Guatemala,,,Baja Verapaz
+Guatemala-Izabal,city,Guatemala,,,Izabal
+Guatemala-Ixcan,city,Guatemala,,,Ixcan
+Guatemala-Jalapa,city,Guatemala,,,Jalapa
+Guatemala-Peten_Norte,city,Guatemala,,,Peten Norte
+Guatemala-Quetzaltenango,city,Guatemala,,,Quetzaltenango
+Guatemala-San_Marcos,city,Guatemala,,,San Marcos
+Guatemala-Sur,city,Guatemala,,,Sur
+Guatemala-Nor_Occidente,city,Guatemala,,,Nor Occidente
+Guatemala-Peten_Sur_Oriental,city,Guatemala,,,Peten Sur Oriental
+Guatemala-El_Progreso,city,Guatemala,,,El Progreso
+Guatemala-Santa_Rosa,city,Guatemala,,,Santa Rosa
+Guatemala-Retalhuleu,city,Guatemala,,,Retalhuleu
+Guatemala-Sacatepequez,city,Guatemala,,,Sacatepequez
+Guatemala-Solola,city,Guatemala,,,Solola
+Guatemala-El_Quiche,city,Guatemala,,,El Quiche
+Guatemala-Peten_Sur_Occidental,city,Guatemala,,,Peten Sur Occidental
+Guatemala-Central,city,Guatemala,,,Central
+Guatemala-Ixil,city,Guatemala,,,Ixil
+Guatemala-Huehuetenango,city,Guatemala,,,Huehuetenango
+Guatemala-Totonicapan,city,Guatemala,,,Totonicapan
+Guatemala-Quiche,city,Guatemala,,,Quiche
+Haiti-Artibonite-Desssalines_Marchand,city,Haiti,Artibonite,Desssalines Marchand,Desssalines Marchand
+Haiti-Artibonite-Ennery,city,Haiti,Artibonite,Ennery,Ennery
+Haiti-Artibonite-Gonaives,city,Haiti,Artibonite,Gonaives,Gonaives
+Haiti-Artibonite-Verrettes,city,Haiti,Artibonite,Verrettes,Verrettes
+Haiti-Artibonite,province,Haiti,Artibonite,,
+Haiti-Centre-Hinche,city,Haiti,Centre,Hinche,Hinche
+Haiti-Centre-Maissade,city,Haiti,Centre,Maissade,Maissade
+Haiti-Centre-Mirebalais,city,Haiti,Centre,Mirebalais,Mirebalais
+Haiti-Centre,province,Haiti,Centre,,
+Haiti-Grande_Anse-Corail,city,Haiti,Grande Anse,Corail,Corail
+Haiti-Grande_Anse-Dame_Marie,city,Haiti,Grande Anse,Dame Marie,Dame Marie
+Haiti-Grande_Anse-Roseaux,city,Haiti,Grande Anse,Roseaux,Roseaux
+Haiti-Grande_Anse,province,Haiti,Grande Anse,,
+Haiti-Nippes-Fond_Des_Negres,city,Haiti,Nippes,Fond Des Negres,Fond Des Negres
+Haiti-Nippes-Miragoane,city,Haiti,Nippes,Miragoane,Miragoane
+Haiti-Nippes,province,Haiti,Nippes,,
+Haiti-Nord-Cap_Haitien,city,Haiti,Nord,Cap Haitien,Cap Haitien
+Haiti-Nord-Limbe,city,Haiti,Nord,Limbe,Limbe
+Haiti-Nord-Milot,city,Haiti,Nord,Milot,Milot
+Haiti-Nord-Pignon,city,Haiti,Nord,Pignon,Pignon
+Haiti-Nord-Plaine_du_Nord,city,Haiti,Nord,Plaine du Nord,Plaine du Nord
+Haiti-Nord-Plaisance,city,Haiti,Nord,Plaisance,Plaisance
+Haiti-Nord,province,Haiti,Nord,,
+Haiti-Nord_Est-Ouanaminthe,city,Haiti,Nord Est,Ouanaminthe,Ouanaminthe
+Haiti-Nord_Est,province,Haiti,Nord Est,,
+Haiti-Nord_Ouest-La_Tortue,city,Haiti,Nord Ouest,La Tortue,La Tortue
+Haiti-Nord_Ouest-Saint_Louis_du_Nord,city,Haiti,Nord Ouest,Saint Louis du Nord,Saint Louis du Nord
+Haiti-Nord_Ouest,province,Haiti,Nord Ouest,,
+Haiti-Ouest-Carrefour,city,Haiti,Ouest,Carrefour,Carrefour
+Haiti-Ouest-Croix_des_Bouquets,city,Haiti,Ouest,Croix des Bouquets,Croix des Bouquets
+Haiti-Ouest-Delmas,city,Haiti,Ouest,Delmas,Delmas
+Haiti-Ouest-Petion_Ville,city,Haiti,Ouest,Petion Ville,Petion Ville
+Haiti-Ouest-Petit_Goave,city,Haiti,Ouest,Petit Goave,Petit Goave
+Haiti-Ouest-Port_au_Prince,city,Haiti,Ouest,Port au Prince,Port au Prince
+Haiti-Ouest,province,Haiti,Ouest,,
+Haiti-Sud-Aquin,city,Haiti,Sud,Aquin,Aquin
+Haiti-Sud,province,Haiti,Sud,,
+Haiti-Sud_Est-Anse_A_Pitres,city,Haiti,Sud Est,Anse A Pitres,Anse A Pitres
+Haiti-Sud_Est-Cotes_de_Fer,city,Haiti,Sud Est,Cotes de Fer,Cotes de Fer
+Haiti-Sud_Est-Marigot,city,Haiti,Sud Est,Marigot,Marigot
+Haiti-Sud_Est,province,Haiti,Sud Est,,
+Mexico-Aguascalientes,province,Mexico,Aguascalientes,,
+Mexico-Baja_California,province,Mexico,Baja California,,
+Mexico-Baja_California_Sur,province,Mexico,Baja California Sur,,
+Mexico-Campeche,province,Mexico,Campeche,,
+Mexico-Chiapas,province,Mexico,Chiapas,,
+Mexico-Chihuahua,province,Mexico,Chihuahua,,
+Mexico-Coahuila_de_Zaragoza,province,Mexico,Coahuila de Zaragoza,,
+Mexico-Colima,province,Mexico,Colima,,
+Mexico-Distrito_Federal,province,Mexico,Distrito Federal,,
+Mexico-Durango,province,Mexico,Durango,,
+Mexico-Guanajuato,province,Mexico,Guanajuato,,
+Mexico-Guerrero,province,Mexico,Guerrero,,
+Mexico-Hidalgo,province,Mexico,Hidalgo,,
+Mexico-Jalisco,province,Mexico,Jalisco,,
+Mexico-Mexico,province,Mexico,Mexico,,
+Mexico-Michoacan_de_Ocampo,province,Mexico,Michoacan de Ocampo,,
+Mexico-Morelos,province,Mexico,Morelos,,
+Mexico-Nayarit,province,Mexico,Nayarit,,
+Mexico-Nuevo_Leon,province,Mexico,Nuevo Leon,,
+Mexico-Oaxaca,province,Mexico,Oaxaca,,
+Mexico-Puebla,province,Mexico,Puebla,,
+Mexico-Queretaro_de_Arteaga,province,Mexico,Queretaro de Arteaga,,
+Mexico-Quintana_Roo,province,Mexico,Quintana Roo,,
+Mexico-San_Luis_Potosi,province,Mexico,San Luis Potosi,,
+Mexico-Sinaloa,province,Mexico,Sinaloa,,
+Mexico-Sonora,province,Mexico,Sonora,,
+Mexico-Tabasco,province,Mexico,Tabasco,,
+Mexico-Tamaulipas,province,Mexico,Tamaulipas,,
+Mexico-Tlaxcala,province,Mexico,Tlaxcala,,
+Mexico-Veracruz_de_Ignacio_de_la_Llave,province,Mexico,Veracruz de Ignacio de la Llave,,
+Mexico-Yucatan,province,Mexico,Yucatan,,
+Mexico-Zacatecas,province,Mexico,Zacatecas,,
+Nicaragua-Chinandega,city,Nicaragua,,,Chinandega
+Nicaragua-Chinandega-San_Pedro_del_Norte,city,Nicaragua,Chinandega,San Pedro del Norte,San Pedro del Norte
+Nicaragua-Leon,city,Nicaragua,,,Leon
+Nicaragua-Leon-Quetzalguaque,city,Nicaragua,Leon,Quetzalguaque,Quetzalguaque
+Nicaragua-Leon-Telica,city,Nicaragua,Leon,Telica,Telica
+Nicaragua-Managua,city,Nicaragua,,,Managua
+Nicaragua-Managua-Ciudad_Sandino,city,Nicaragua,Managua,Ciudad Sandino,Ciudad Sandino
+Nicaragua-Masaya-Masatepe,city,Nicaragua,Masaya,Masatepe,Masatepe
+Nicaragua-Masaya-Nindiri,city,Nicaragua,Masaya,Nindiri,Nindiri
+Nicaragua-Masaya-San_Juan_de_Oriente,city,Nicaragua,Masaya,San Juan de Oriente,San Juan de Oriente
+Nicaragua-Matagalpa,city,Nicaragua,,,Matagalpa
+Nicaragua-Nueva_Segovia-Ocotal,city,Nicaragua,Nueva Segovia,Ocotal,Ocotal
+Nicaragua-Rivas-Cardenas,city,Nicaragua,Rivas,Cardenas,Cardenas
+Nicaragua-Other,city,Nicaragua,,,Other
+Nicaragua-Rivas,city,Nicaragua,,,Rivas
+Nicaragua-Masaya,city,Nicaragua,,,Masaya
+Nicaragua-Carazo,city,Nicaragua,,,Carazo
+Nicaragua-Granada,city,Nicaragua,,,Granada
+Nicaragua-Nueva_Segovia,city,Nicaragua,,,Nueva Segovia
+Nicaragua-Jinotega,city,Nicaragua,,,Jinotega
+Panama-Kuna_Yala-Acuatupu,county,Panama,Kuna Yala,Acuatupu,Acuatupu
+Panama-Kuna_Yala-Mulatupu,county,Panama,Kuna Yala,Mulatupu,Mulatupu
+Panama-Kuna_Yala-Ogobsucum,county,Panama,Kuna Yala,Ogobsucum,Ogobsucum
+Panama-Kuna_Yala-Ustupu,county,Panama,Kuna Yala,Ustupu,Ustupu
+Panama-Kuna_Yala-Achutupu,county,Panama,Kuna Yala,Achutupu,Achutupu
+Panama-Kuna_Yala-Pto_Obaldia,county,Panama,Kuna Yala,Pto Obaldia,Pto Obaldia
+Panama-Kuna_Yala-Playon_Chico,county,Panama,Kuna Yala,Playon Chico,Playon Chico
+Panama-Kuna_Yala-Nargana,county,Panama,Kuna Yala,Nargana,Nargana
+Panama-Kuna_Yala-Corazon_de_Jesus,county,Panama,Kuna Yala,Corazon de Jesus,Corazon de Jesus
+Panama-Kuna_Yala-Rio_Azucar,county,Panama,Kuna Yala,Rio Azucar,Rio Azucar
+Panama-Kuna_Yala-Rio_Sidra,county,Panama,Kuna Yala,Rio Sidra,Rio Sidra
+Panama-Kuna_Yala-Carti_Sugdup,county,Panama,Kuna Yala,Carti Sugdup,Carti Sugdup
+Panama-Kuna_Yala-Ailigandi,county,Panama,Kuna Yala,Ailigandi,Ailigandi
+Panama-Kuna_Yala-Ailitupu,county,Panama,Kuna Yala,Ailitupu,Ailitupu
+Panama-Kuna_Yala-Nalugena,county,Panama,Kuna Yala,Nalugena,Nalugena
+Panama-Kuna_Yala-Mamitupu,county,Panama,Kuna Yala,Mamitupu,Mamitupu
+Panama-Kuna_Yala-Wichubhula,county,Panama,Kuna Yala,Wichubhula,Wichubhula
+Panama-Kuna_Yala-Soledad_Miria,county,Panama,Kuna Yala,Soledad Miria,Soledad Miria
+Panama-Kuna_Yala-Soledad_Miriam,county,Panama,Kuna Yala,Soledad Miriam,Soledad Miriam
+Panama-Kuna_Yala-Naranjo_Chico,county,Panama,Kuna Yala,Naranjo Chico,Naranjo Chico
+Panama-Metro-Tocumen,county,Panama,Metro,Tocumen,Tocumen
+Panama-Metro-SanFrancisco,county,Panama,Metro,SanFrancisco,SanFrancisco
+Panama-Metro-Man_anitas,county,Panama,Metro,Man anitas,Man anitas
+Panama-Metro-Calidonia,county,Panama,Metro,Calidonia,Calidonia
+Panama-Metro-Juan_Diaz,county,Panama,Metro,Juan Diaz,Juan Diaz
+Panama-Metro-Parque_Lefevre,county,Panama,Metro,Parque Lefevre,Parque Lefevre
+Panama-Metro-Santa_Ana,county,Panama,Metro,Santa Ana,Santa Ana
+Panama-Metro-Rio_Abajo,county,Panama,Metro,Rio Abajo,Rio Abajo
+Panama-Metro-Pueblo_Nuevo,county,Panama,Metro,Pueblo Nuevo,Pueblo Nuevo
+Panama-Metro-Chorrillo,county,Panama,Metro,Chorrillo,Chorrillo
+Panama-Metro-Bella_Vista,county,Panama,Metro,Bella Vista,Bella Vista
+Panama-Metro-Bethania,county,Panama,Metro,Bethania,Bethania
+Panama-Metro-Ancon,county,Panama,Metro,Ancon,Ancon
+Panama-Metro-San_Felipe,county,Panama,Metro,San Felipe,San Felipe
+Panama-Metro-Pedregal,county,Panama,Metro,Pedregal,Pedregal
+Panama-Metro-24_de_Diciembre,county,Panama,Metro,24 de Diciembre,24 de Diciembre
+Panama-Metro-Clayton,county,Panama,Metro,Clayton,Clayton
+Panama-Metro-Costa_del_Este,county,Panama,Metro,Costa del Este,Costa del Este
+Panama-Metro-Taboga,county,Panama,Metro,Taboga,Taboga
+Panama-Metro-Las_Garzas,county,Panama,Metro,Las Garzas,Las Garzas
+Panama-Metro-Arnulfo_Arias,county,Panama,Metro,Arnulfo Arias,Arnulfo Arias
+Panama-Metro-Gamboa,county,Panama,Metro,Gamboa,Gamboa
+Panama-Metro-Veracruz,county,Panama,Metro,Veracruz,Veracruz
+Panama-Panama_Oeste-Gorgona,county,Panama,Panama Oeste,Gorgona,Gorgona
+Panama-Panama_Oeste-Guadalupe,county,Panama,Panama Oeste,Guadalupe,Guadalupe
+Panama-Panama_Oeste-Arraija_n,county,Panama,Panama Oeste,Arraija n,Arraija n
+Panama-Panama_Oeste-La_Chorrera,county,Panama,Panama Oeste,La Chorrera,La Chorrera
+Panama-Panama_Oeste-Playa_Leona,county,Panama,Panama Oeste,Playa Leona,Playa Leona
+Panama-Panama_Oeste-El_Coco,county,Panama,Panama Oeste,El Coco,El Coco
+Panama-Panama_Oeste-La_Mitra,county,Panama,Panama Oeste,La Mitra,La Mitra
+Panama-Panama_Oeste-Vista_Alegre,county,Panama,Panama Oeste,Vista Alegre,Vista Alegre
+Panama-Panama_Norte-las_cumbres,county,Panama,Panama Norte,las cumbres,las cumbres
+Panama-Panama_Norte-Chilibre,county,Panama,Panama Norte,Chilibre,Chilibre
+Panama-Panama_Norte-Ernesto_Cordoba,county,Panama,Panama Norte,Ernesto Cordoba,Ernesto Cordoba
+Panama-Colon-Salamanca,county,Panama,Colon,Salamanca,Salamanca
+Panama-Colon-San_Juan,county,Panama,Colon,San Juan,San Juan
+Panama-San_Miguelito-Villas_del_Golf,county,Panama,San Miguelito,Villas del Golf,Villas del Golf
+Panama-San_Miguelito-San_Jose,county,Panama,San Miguelito,San Jose,San Jose
+Panama-San_Miguelito-Quintas_de_Montichello,county,Panama,San Miguelito,Quintas de Montichello,Quintas de Montichello
+Panama-San_Miguelito-Mano_de_Piedra,county,Panama,San Miguelito,Mano de Piedra,Mano de Piedra
+Panama-San_Miguelito-Samaria,county,Panama,San Miguelito,Samaria,Samaria
+Panama-San_Miguelito-Altos_de_Panama,county,Panama,San Miguelito,Altos de Panama,Altos de Panama
+Panama-San_Miguelito-Camino_Real,county,Panama,San Miguelito,Camino Real,Camino Real
+Panama-San_Miguelito-Condado_del_Rey,county,Panama,San Miguelito,Condado del Rey,Condado del Rey
+Panama-San_Miguelito-Villa_Lucre,county,Panama,San Miguelito,Villa Lucre,Villa Lucre
+Panama-San_Miguelito-Brisas_del_Golf,county,Panama,San Miguelito,Brisas del Golf,Brisas del Golf
+Panama-San_Miguelito-Victoriano_Lorenzo,county,Panama,San Miguelito,Victoriano Lorenzo,Victoriano Lorenzo
+Panama-San_Miguelito-Omar_Torrijos,county,Panama,San Miguelito,Omar Torrijos,Omar Torrijos
+Panama-San_Miguelito-Ojo_de_Agua,county,Panama,San Miguelito,Ojo de Agua,Ojo de Agua
+Panama-San_Miguelito-Villa_Guadalupe,county,Panama,San Miguelito,Villa Guadalupe,Villa Guadalupe
+Panama-San_Los_Santos-La_Villa,county,Panama,San Los Santos,La Villa,La Villa
+Panama-Darien-Rio_Congo,county,Panama,Darien,Rio Congo,Rio Congo
+Panama-Herrera-Chitre,county,Panama,Herrera,Chitre,Chitre
+Panama-Sin_Especificar,county,Panama,,Sin Especificar,
+Panama-San_Miguelito,province,Panama,San Miguelito,,
+Panama-Chiriqui,province,Panama,Chiriqui,,
+Panama-Kuna_Yala,province,Panama,Kuna Yala,,
+Panama-Metro,province,Panama,Metro,,
+Panama-P_Oeste,province,Panama,P Oeste,,
+Panama-Costa_del_Este,county,Panama,,Costa del Este,
+Panama-P.Este-Las_Margaritas,county,Panama,P.Este,Las Margaritas,Las Margaritas
+Panama-Veraguas-Santiago,county,Panama,Veraguas,Santiago,Santiago
+Panama-Darien,province,Panama,Darien,,
+Panama-Herrera,province,Panama,Herrera,,
+Panama-Ngabe_Bugle,province,Panama,Ngabe Bugle,,
+Panama-Veraguas,province,Panama,Veraguas,,
+Panama-Panama_Norte,province,Panama,Panama Norte,,
+Panama-Importados,province,Panama,Importados,,
+Panama-Panama_Este,province,Panama,Panama Este,,
+Panama-Bocas_del_Toro,province,Panama,Bocas del Toro,,
+Panama-Panama_Oeste,province,Panama,Panama Oeste,,
+Panama-Los_Santos,province,Panama,Los Santos,,
+Panama-Bocas_del_Toro-Bastimento,county,Panama,Bocas del Toro,Bastimento,Bastimento
+Panama-Bocas_del_Toro-Bocas_del_Toro,county,Panama,Bocas del Toro,Bocas del Toro,Bocas del Toro
+Panama-Cocle,province,Panama,Cocle,,
+Panama-Cocle-Rio_Hato,county,Panama,Cocle,Rio Hato,Rio Hato
+Panama-Colon,province,Panama,Colon,,
+Panama-SD,province,Panama,SD,,
+United_States-Puerto_Rico,province,United States,Puerto Rico,,
+United_States-Alaska,province,United States,Alaska,,
+United_States-Alabama,province,United States,Alabama,,
+United_States-American_Samoa,province,United States,American Samoa,,
+United_States-Arizona,province,United States,Arizona,,
+United_States-Arkansas,province,United States,Arkansas,,
+United_States-California,province,United States,California,,
+United_States-Colorado,province,United States,Colorado,,
+United_States-Connecticut,province,United States,Connecticut,,
+United_States-Delaware,province,United States,Delaware,,
+United_States-District_of_Columbia,province,United States,District of Columbia,,
+United_States-Florida,province,United States,Florida,,
+United_States-Georgia,province,United States,Georgia,,
+United_States-Hawaii,province,United States,Hawaii,,
+United_States-Illinois,province,United States,Illinois,,
+United_States-Indiana,province,United States,Indiana,,
+United_States-Iowa,province,United States,Iowa,,
+United_States-Idaho,province,United States,Idaho,,
+United_States-Kansas,province,United States,Kansas,,
+United_States-Kentucky,province,United States,Kentucky,,
+United_States-Louisiana,province,United States,Louisiana,,
+United_States-Maine,province,United States,Maine,,
+United_States-Maryland,province,United States,Maryland,,
+United_States-Massachusetts,province,United States,Massachusetts,,
+United_States-Michigan,province,United States,Michigan,,
+United_States-Minnesota,province,United States,Minnesota,,
+United_States-Mississippi,province,United States,Mississippi,,
+United_States-Missouri,province,United States,Missouri,,
+United_States-Montana,province,United States,Montana,,
+United_States-Nebraska,province,United States,Nebraska,,
+United_States-Nevada,province,United States,Nevada,,
+United_States-New_Hampshire,province,United States,New Hampshire,,
+United_States-New_Jersey,province,United States,New Jersey,,
+United_States-New_Mexico,province,United States,New Mexico,,
+United_States-New_York,province,United States,New York,,
+United_States-North_Carolina,province,United States,North Carolina,,
+United_States-North_Dakota,province,United States,North Dakota,,
+United_States-Ohio,province,United States,Ohio,,
+United_States-Oklahoma,province,United States,Oklahoma,,
+United_States-Oregon,province,United States,Oregon,,
+United_States-Pennsylvania,province,United States,Pennsylvania,,
+United_States-Puerto_Rico,province,United States,Puerto Rico,,
+United_States-Rhode_Island,province,United States,Rhode Island,,
+United_States-South_Carolina,province,United States,South Carolina,,
+United_States-South_Dakota,province,United States,South Dakota,,
+United_States-Tennessee,province,United States,Tennessee,,
+United_States-Texas,province,United States,Texas,,
+United_States-US_Virgin_Islands,province,United States,Virgin Islands,,
+United_States-Utah,province,United States,Utah,,
+United_States-Vermont,province,United States,Vermont,,
+United_States-Virginia,province,United States,Virginia,,
+United_States-Washington,province,United States,Washington,,
+United_States-West_Virginia,province,United States,West Virginia,,
+United_States-Wyoming,province,United States,Wyoming,,
+United_States-Wisconsin,province,United States,Wisconsin,,
+United_States-Florida-Alachua_County,county,United States,Florida,Alachua,Alachua County
+United_States-Florida-Baker_County,county,United States,Florida,Baker,Baker County
+United_States-Florida-Bay_County,county,United States,Florida,Bay,Bay County
+United_States-Florida-Bradford_County,county,United States,Florida,Bradford,Bradford County
+United_States-Florida-Brevard_County,county,United States,Florida,Brevard,Brevard County
+United_States-Florida-Broward_County,county,United States,Florida,Broward,Broward County
+United_States-Florida-Calhoun_County,county,United States,Florida,Calhoun,Calhoun County
+United_States-Florida-Charlotte_County,county,United States,Florida,Charlotte,Charlotte County
+United_States-Florida-Citrus_County,county,United States,Florida,Citrus,Citrus County
+United_States-Florida-Clay_County,county,United States,Florida,Clay,Clay County
+United_States-Florida-Collier_County,county,United States,Florida,Collier,Collier County
+United_States-Florida-Columbia_County,county,United States,Florida,Columbia,Columbia County
+United_States-Florida-DeSoto_County,county,United States,Florida,DeSoto,DeSoto County
+United_States-Florida-Dixie_County,county,United States,Florida,Dixie,Dixie County
+United_States-Florida-Duval_County,county,United States,Florida,Duval,Duval County
+United_States-Florida-Escambia_County,county,United States,Florida,Escambia,Escambia County
+United_States-Florida-Flagler_County,county,United States,Florida,Flagler,Flagler County
+United_States-Florida-Franklin_County,county,United States,Florida,Franklin,Franklin County
+United_States-Florida-Gadsden_County,county,United States,Florida,Gadsden,Gadsden County
+United_States-Florida-Gilchrist_County,county,United States,Florida,Gilchrist,Gilchrist County
+United_States-Florida-Glades_County,county,United States,Florida,Glades,Glades County
+United_States-Florida-Gulf_County,county,United States,Florida,Gulf,Gulf County
+United_States-Florida-Hamilton_County,county,United States,Florida,Hamilton,Hamilton County
+United_States-Florida-Hardee_County,county,United States,Florida,Hardee,Hardee County
+United_States-Florida-Hendry_County,county,United States,Florida,Hendry,Hendry County
+United_States-Florida-Hernando_County,county,United States,Florida,Hernando,Hernando County
+United_States-Florida-Highlands_County,county,United States,Florida,Highlands,Highlands County
+United_States-Florida-Hillsborough_County,county,United States,Florida,Hillsborough,Hillsborough County
+United_States-Florida-Holmes_County,county,United States,Florida,Holmes,Holmes County
+United_States-Florida-IndianRiver_County,county,United States,Florida,IndianRiver,IndianRiver County
+United_States-Florida-Jackson_County,county,United States,Florida,Jackson,Jackson County
+United_States-Florida-Jefferson_County,county,United States,Florida,Jefferson,Jefferson County
+United_States-Florida-Lafayette_County,county,United States,Florida,Lafayette,Lafayette County
+United_States-Florida-Lake_County,county,United States,Florida,Lake,Lake County
+United_States-Florida-Lee_County,county,United States,Florida,Lee,Lee County
+United_States-Florida-Leon_County,county,United States,Florida,Leon,Leon County
+United_States-Florida-Levy_County,county,United States,Florida,Levy,Levy County
+United_States-Florida-Liberty_County,county,United States,Florida,Liberty,Liberty County
+United_States-Florida-Madison_County,county,United States,Florida,Madison,Madison County
+United_States-Florida-Manatee_County,county,United States,Florida,Manatee,Manatee County
+United_States-Florida-Marion_County,county,United States,Florida,Marion,Marion County
+United_States-Florida-Martin_County,county,United States,Florida,Martin,Martin County
+United_States-Florida-Miami_Dade_County,county,United States,Florida,Miami Dade,Miami Dade County
+United_States-Florida-Monroe_County,county,United States,Florida,Monroe,Monroe County
+United_States-Florida-Nassau_County,county,United States,Florida,Nassau,Nassau County
+United_States-Florida-Okaloosa_County,county,United States,Florida,Okaloosa,Okaloosa County
+United_States-Florida-Okeechobee_County,county,United States,Florida,Okeechobee,Okeechobee County
+United_States-Florida-Orange_County,county,United States,Florida,Orange,Orange County
+United_States-Florida-Osceola_County,county,United States,Florida,Osceola,Osceola County
+United_States-Florida-PalmBeach_County,county,United States,Florida,PalmBeach,PalmBeach County
+United_States-Florida-Pasco_County,county,United States,Florida,Pasco,Pasco County
+United_States-Florida-Pinellas_County,county,United States,Florida,Pinellas,Pinellas County
+United_States-Florida-Polk_County,county,United States,Florida,Polk,Polk County
+United_States-Florida-Putnam_County,county,United States,Florida,Putnam,Putnam County
+United_States-Florida-SantaRosa_County,county,United States,Florida,SantaRosa,SantaRosa County
+United_States-Florida-Sarasota_County,county,United States,Florida,Sarasota,Sarasota County
+United_States-Florida-Seminole_County,county,United States,Florida,Seminole,Seminole County
+United_States-Florida-StJohns_County,county,United States,Florida,StJohns,StJohns County
+United_States-Florida-StLucie_County,county,United States,Florida,StLucie,StLucie County
+United_States-Florida-Sumter_County,county,United States,Florida,Sumter,Sumter County
+United_States-Florida-Suwannee_County,county,United States,Florida,Suwannee,Suwannee County
+United_States-Florida-Taylor_County,county,United States,Florida,Taylor,Taylor County
+United_States-Florida-Union_County,county,United States,Florida,Union,Union County
+United_States-Florida-Volusia_County,county,United States,Florida,Volusia,Volusia County
+United_States-Florida-Wakulla_County,county,United States,Florida,Wakulla,Wakulla County
+United_States-Florida-Walton_County,county,United States,Florida,Walton,Walton County
+United_States-Florida-Washington_County,county,United States,Florida,Washington,Washington County
+United_States_Virgin_Islands,province,United States,Virgin Islands,,
+United_States_Virgin_Islands-Saint_Thomas,county,United States,Virgin Islands,Saint Thomas,
+United_States_Virgin_Islands-Saint_Croix,county,United States,Virgin Islands,Saint Croix,
+United_States_Virgin_Islands-Saint_John,county,United States,Virgin Islands,Saint John,

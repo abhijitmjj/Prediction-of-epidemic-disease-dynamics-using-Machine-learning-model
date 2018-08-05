@@ -1,0 +1,1715 @@
+location,location_type,country,province,county,city,latitude,longitude
+Argentina-Buenos_Aires,province,Argentina,Buenos Aires,,,-34.6036844,-58.3815591
+Argentina-CABA,province,Argentina,Ciudad de Buenos Aires,,,-34.6036844,-58.3815591
+Argentina-Cordoba,province,Argentina,Cordoba,,,-31.42008329999999,-64.1887761
+Argentina-Entre_Rios,province,Argentina,Entre Rios,,,-31.7746654,-60.49564609999999
+Argentina-Santa_Fe,province,Argentina,Santa Fe,,,-31.6106578,-60.697294
+Argentina-Chaco,province,Argentina,Chaco,,,-27.4257175,-59.02437839999999
+Argentina-Corrientes,province,Argentina,Corrientes,,,-27.4692131,-58.8306349
+Argentina-Formosa,province,Argentina,Formosa,,,-26.1857768,-58.1755669
+Argentina-Misiones,province,Argentina,Misiones,,,-27.4269255,-55.9467076
+Argentina-Catamarca,province,Argentina,Catamarca,,,-28.469581,-65.7795441
+Argentina-Jujuy,province,Argentina,Jujuy,,,-24.1843397,-65.302177
+Argentina-Salta,province,Argentina,Salta,,,-24.7821269,-65.4231976
+Argentina-Sgo_Del_Estero,province,Argentina,Santiago Del Estero,,,-27.7833574,-64.264167
+Argentina-Tucuman,province,Argentina,Tucuman,,,-26.8082848,-65.2175903
+Argentina-La_Rioja,province,Argentina,La Rioja,,,-29.4134538,-66.8564579
+Argentina-San_Luis,province,Argentina,San Luis,,,-33.3017267,-66.3377522
+Argentina-Mendoza,province,Argentina,Mendoza,,,-32.8894587,-68.8458386
+Argentina-San_Juan,province,Argentina,San Juan,,,-31.5351074,-68.5385941
+Argentina-Chubut,province,Argentina,Chubut,,,-43.2934246,-65.11148179999999
+Argentina-La_Pampa,province,Argentina,La Pampa,,,-36.6147573,-64.2839209
+Argentina-Rio_Negro,province,Argentina,Rio Negro,,,-40.8261434,-63.0266339
+Argentina-Santa_Cruz,province,Argentina,Santa Cruz,,,-51.6352821,-69.24743529999999
+Argentina-Neuquen,province,Argentina,Neuquen,,,-38.9516784,-68.0591888
+Argentina-Tierra_del_Fuego,province,Argentina,Tierra del Fuego,,,-54.8053998,-68.3242061
+Brazil-Alagoas,province,Brazil,Alagoas,,,-9.5713058,-36.7819505
+Brazil-Bahia,province,Brazil,Bahia,,,-12.579738,-41.7007272
+Brazil-Ceara,province,Brazil,Ceara,,,-5.4983977,-39.3206241
+Brazil-Maranhao,province,Brazil,Maranhao,,,-4.9609498,-45.2744159
+Brazil-Paraiba,province,Brazil,Paraiba,,,-7.239960900000001,-36.7819505
+Brazil-Pernambuco,province,Brazil,Pernambuco,,,-8.8137173,-36.954107
+Brazil-Piaui,province,Brazil,Piaui,,,-7.718340100000001,-42.72892359999999
+Brazil-Rio_Grande_do_Norte,province,Brazil,Rio Grande do Norte,,,-5.402580299999999,-36.954107
+Brazil-Sergipe,province,Brazil,Sergipe,,,-10.5740934,-37.3856581
+Brazil-Espirito_Santo,province,Brazil,Espirito Santo,,,-19.1834229,-40.3088626
+Brazil-Minas_Gerais,province,Brazil,Minas Gerais,,,-18.512178,-44.5550308
+Brazil-Rio_de_Janeiro,province,Brazil,Rio de Janeiro,,,-22.9068467,-43.1728965
+Brazil-Sao_Paulo,province,Brazil,Sao Paulo,,,-23.5505199,-46.63330939999999
+Brazil-Acre,province,Brazil,Acre,,,-9.0237964,-70.81199529999999
+Brazil-Amapa,province,Brazil,Amapa,,,0.9019925,-52.0029565
+Brazil-Amazonas,province,Brazil,Amazonas,,,-3.4168427,-65.8560646
+Brazil-Para,province,Brazil,Para,,,-1.9981271,-54.9306152
+Brazil-Rondonia,province,Brazil,Rondonia,,,-11.5057341,-63.580611
+Brazil-Roraima,province,Brazil,Roraima,,,2.7375971,-62.0750998
+Brazil-Tocantins,province,Brazil,Tocantins,,,-10.17528,-48.2982474
+Brazil-Distrito_Federal,province,Brazil,Distrito Federal,,,-15.7997654,-47.8644715
+Brazil-Goias,province,Brazil,Goias,,,-15.8270369,-49.8362237
+Brazil-Mato_Grosso,province,Brazil,Mato Grosso,,,-12.6818712,-56.921099
+Brazil-Mato_Grosso_do_Sul,province,Brazil,Mato Grosso do Sul,,,-20.7722295,-54.7851531
+Brazil-Parana,province,Brazil,Parana,,,-25.2520888,-52.0215415
+Brazil-Santa_Catarina,province,Brazil,Santa Catarina,,,-27.2423392,-50.2188556
+Brazil-Rio_Grande_do_Sul,province,Brazil,Rio Grande do Sul,,,-30.0346316,-51.2176986
+Colombia-Antioquia-Medellin,city,Colombia,Antioquia,Medellin,Medellin,6.244203,-75.5812119
+Colombia-Antioquia-Abejorral,city,Colombia,Antioquia,Abejorral,Abejorral,5.788692999999999,-75.428603
+Colombia-Antioquia-Abriaqui,city,Colombia,Antioquia,Abriaqui,Abriaqui,6.634555,-76.06573999999999
+Colombia-Antioquia-Alejandria,city,Colombia,Antioquia,Alejandria,Alejandria,6.37488,-75.141637
+Colombia-Antioquia-Amaga,city,Colombia,Antioquia,Amaga,Amaga,6.037113000000001,-75.702277
+Colombia-Antioquia-Amalfi,city,Colombia,Antioquia,Amalfi,Amalfi,6.906447999999999,-75.073161
+Colombia-Antioquia-Andes,city,Colombia,Antioquia,Andes,Andes,4.570868,-74.297333
+Colombia-Antioquia-Angelopolis,city,Colombia,Antioquia,Angelopolis,Angelopolis,6.112769,-75.71163899999999
+Colombia-Antioquia-Angostura,city,Colombia,Antioquia,Angostura,Angostura,6.885648,-75.33582899999999
+Colombia-Antioquia-Anori,city,Colombia,Antioquia,Anori,Anori,7.073562,-75.14728699999999
+Colombia-Antioquia-Santafe_De_Antioquia,city,Colombia,Antioquia,Santafe De Antioquia,Santafe De Antioquia,6.557179,-75.827129
+Colombia-Antioquia-Anza,city,Colombia,Antioquia,Anza,Anza,6.301106,-75.853255
+Colombia-Antioquia-Apartado,city,Colombia,Antioquia,Apartado,Apartado,7.882760999999999,-76.624692
+Colombia-Antioquia-Arboletes,city,Colombia,Antioquia,Arboletes,Arboletes,8.850104,-76.427089
+Colombia-Antioquia-Argelia,city,Colombia,Antioquia,Argelia,Argelia,5.730859,-75.142186
+Colombia-Antioquia-Armenia,city,Colombia,Antioquia,Armenia,Armenia,4.535000399999999,-75.6756888
+Colombia-Antioquia-Barbosa,city,Colombia,Antioquia,Barbosa,Barbosa,6.438790999999999,-75.334099
+Colombia-Antioquia-Belmira,city,Colombia,Antioquia,Belmira,Belmira,6.606241,-75.666528
+Colombia-Antioquia-Bello,city,Colombia,Antioquia,Bello,Bello,6.336728799999999,-75.55958869999999
+Colombia-Antioquia-Betania,city,Colombia,Antioquia,Betania,Betania,5.746649,-75.977569
+Colombia-Antioquia-Betulia,city,Colombia,Antioquia,Betulia,Betulia,6.11278,-75.98467
+Colombia-Antioquia-Ciudad_Bolivar,city,Colombia,Antioquia,Ciudad Bolivar,Ciudad Bolivar,5.852475999999999,-76.0218469
+Colombia-Antioquia-Briceno,city,Colombia,Antioquia,Briceno,Briceno,5.690024999999999,-73.92287999999999
+Colombia-Antioquia-Buritica,city,Colombia,Antioquia,Buritica,Buritica,6.721916999999999,-75.90597600000001
+Colombia-Antioquia-Caceres,city,Colombia,Antioquia,Caceres,Caceres,7.579028999999998,-75.34954499999999
+Colombia-Antioquia-Caicedo,city,Colombia,Antioquia,Caicedo,Caicedo,6.405354,-75.984309
+Colombia-Antioquia-Caldas,city,Colombia,Antioquia,Caldas,Caldas,5.29826,-75.2479061
+Colombia-Antioquia-Campamento,city,Colombia,Antioquia,Campamento,Campamento,6.979498,-75.2966019
+Colombia-Antioquia-Canasgordas,city,Colombia,Antioquia,Canasgordas,Canasgordas,6.750597,-76.02611
+Colombia-Antioquia-Caracoli,city,Colombia,Antioquia,Caracoli,Caracoli,6.408748999999999,-74.7576179
+Colombia-Antioquia-Caramanta,city,Colombia,Antioquia,Caramanta,Caramanta,5.548956,-75.64370699999999
+Colombia-Antioquia-Carepa,city,Colombia,Antioquia,Carepa,Carepa,7.755354,-76.6554309
+Colombia-Antioquia-El_Carmen_De_Viboral,city,Colombia,Antioquia,El Carmen De Viboral,El Carmen De Viboral,6.082178,-75.33738400000001
+Colombia-Antioquia-Carolina,city,Colombia,Antioquia,Carolina,Carolina,6.724917,-75.282299
+Colombia-Antioquia-Caucasia,city,Colombia,Antioquia,Caucasia,Caucasia,7.979698,-75.1985629
+Colombia-Antioquia-Chigorodo,city,Colombia,Antioquia,Chigorodo,Chigorodo,7.665099000000001,-76.67748999999999
+Colombia-Antioquia-Cisneros,city,Colombia,Antioquia,Cisneros,Cisneros,6.538376,-75.08706699999999
+Colombia-Antioquia-Cocorna,city,Colombia,Antioquia,Cocorna,Cocorna,6.057265,-75.185598
+Colombia-Antioquia-Concepcion,city,Colombia,Antioquia,Concepcion,Concepcion,6.394353,-75.256581
+Colombia-Antioquia-Concordia,city,Colombia,Antioquia,Concordia,Concordia,6.044979,-75.908354
+Colombia-Antioquia-Copacabana,city,Colombia,Antioquia,Copacabana,Copacabana,6.357621,-75.505078
+Colombia-Antioquia-Dabeiba,city,Colombia,Antioquia,Dabeiba,Dabeiba,6.997374,-76.256824
+Colombia-Antioquia-Don_Matias,city,Colombia,Antioquia,Don Matias,Don Matias,6.485702,-75.39383099999999
+Colombia-Antioquia-Ebejico,city,Colombia,Antioquia,Ebejico,Ebejico,6.326906,-75.76734499999999
+Colombia-Antioquia-El_Bagre,city,Colombia,Antioquia,El Bagre,El Bagre,7.605682600000001,-74.8062648
+Colombia-Antioquia-Entrerrios,city,Colombia,Antioquia,Entrerrios,Entrerrios,6.566146,-75.516908
+Colombia-Antioquia-Envigado,city,Colombia,Antioquia,Envigado,Envigado,6.169610899999999,-75.58736360000002
+Colombia-Antioquia-Fredonia,city,Colombia,Antioquia,Fredonia,Fredonia,5.927245,-75.671007
+Colombia-Antioquia-Frontino,city,Colombia,Antioquia,Frontino,Frontino,6.777958,-76.13291699999999
+Colombia-Antioquia-Giraldo,city,Colombia,Antioquia,Giraldo,Giraldo,6.680623,-75.953096
+Colombia-Antioquia-Girardota,city,Colombia,Antioquia,Girardota,Girardota,6.378322,-75.449517
+Colombia-Antioquia-Gomez_Plata,city,Colombia,Antioquia,Gomez Plata,Gomez Plata,6.683248,-75.221769
+Colombia-Antioquia-Granada,city,Colombia,Antioquia,Granada,Granada,3.544831,-73.705281
+Colombia-Antioquia-Guadalupe,city,Colombia,Antioquia,Guadalupe,Guadalupe,6.246048999999999,-73.418739
+Colombia-Antioquia-Guarne,city,Colombia,Antioquia,Guarne,Guarne,6.279597,-75.442627
+Colombia-Antioquia-Guatape,city,Colombia,Antioquia,Guatape,Guatape,6.231136999999999,-75.15346699999999
+Colombia-Antioquia-Heliconia,city,Colombia,Antioquia,Heliconia,Heliconia,6.208781,-75.732944
+Colombia-Antioquia-Hispania,city,Colombia,Antioquia,Hispania,Hispania,5.799059,-75.90799299999999
+Colombia-Antioquia-Itagui,city,Colombia,Antioquia,Itagui,Itagui,6.1675682,-75.6146712
+Colombia-Antioquia-Ituango,city,Colombia,Antioquia,Ituango,Ituango,7.172606999999999,-75.76468
+Colombia-Antioquia-Jardin,city,Colombia,Antioquia,Jardin,Jardin,5.596767,-75.819361
+Colombia-Antioquia-Jerico,city,Colombia,Antioquia,Jerico,Jerico,5.790513,-75.776082
+Colombia-Antioquia-La_Ceja,city,Colombia,Antioquia,La Ceja,La Ceja,6.027632,-75.431596
+Colombia-Antioquia-La_Estrella,city,Colombia,Antioquia,La Estrella,La Estrella,6.138751,-75.635586
+Colombia-Antioquia-La_Pintada,city,Colombia,Antioquia,La Pintada,La Pintada,5.746942,-75.606403
+Colombia-Antioquia-La_Union,city,Colombia,Antioquia,La Union,La Union,4.5334899,-76.10361600000002
+Colombia-Antioquia-Liborina,city,Colombia,Antioquia,Liborina,Liborina,6.677449999999999,-75.81174399999999
+Colombia-Antioquia-Maceo,city,Colombia,Antioquia,Maceo,Maceo,6.551367,-74.787294
+Colombia-Antioquia-Marinilla,city,Colombia,Antioquia,Marinilla,Marinilla,6.176966999999999,-75.341462
+Colombia-Antioquia-Montebello,city,Colombia,Antioquia,Montebello,Montebello,5.946486999999999,-75.52395
+Colombia-Antioquia-Murindo,city,Colombia,Antioquia,Murindo,Murindo,6.981039999999999,-76.82119
+Colombia-Antioquia-Mutata,city,Colombia,Antioquia,Mutata,Mutata,7.244105999999999,-76.43656700000001
+Colombia-Antioquia-Narino,city,Colombia,Antioquia,Narino,Narino,1.289151,-77.35794000000001
+Colombia-Antioquia-Necocli,city,Colombia,Antioquia,Necocli,Necocli,8.427173999999999,-76.787678
+Colombia-Antioquia-Nechi,city,Colombia,Antioquia,Nechi,Nechi,8.088419,-74.776327
+Colombia-Antioquia-Olaya,city,Colombia,Antioquia,Olaya,Olaya,6.629989999999999,-75.81665
+Colombia-Antioquia-Peque,city,Colombia,Antioquia,Peque,Peque,7.021535,-75.908107
+Colombia-Antioquia-Pueblorrico,city,Colombia,Antioquia,Pueblorrico,Pueblorrico,5.794161,-75.840589
+Colombia-Antioquia-Puerto_Berrio,city,Colombia,Antioquia,Puerto Berrio,Puerto Berrio,6.477754999999999,-74.4088
+Colombia-Antioquia-Puerto_Nare,city,Colombia,Antioquia,Puerto Nare,Puerto Nare,6.186497,-74.583726
+Colombia-Antioquia-Puerto_Triunfo,city,Colombia,Antioquia,Puerto Triunfo,Puerto Triunfo,5.8807,-74.634036
+Colombia-Antioquia-Remedios,city,Colombia,Antioquia,Remedios,Remedios,7.027766,-74.692965
+Colombia-Antioquia-Retiro,city,Colombia,Antioquia,Retiro,Retiro,6.060955,-75.50258199999999
+Colombia-Antioquia-Rionegro,city,Colombia,Antioquia,Rionegro,Rionegro,6.144837,-75.375085
+Colombia-Antioquia-Sabanalarga,city,Colombia,Antioquia,Sabanalarga,Sabanalarga,6.8498854,-75.81741760000001
+Colombia-Antioquia-Sabaneta,city,Colombia,Antioquia,Sabaneta,Sabaneta,6.150558999999999,-75.61681999999999
+Colombia-Antioquia-Salgar,city,Colombia,Antioquia,Salgar,Salgar,5.963336,-75.963942
+Colombia-Antioquia-San_Andres_De_Cuerquia,city,Colombia,Antioquia,San Andres De Cuerquia,San Andres De Cuerquia,6.913245,-75.67555999999999
+Colombia-Antioquia-San_Carlos,city,Colombia,Antioquia,San Carlos,San Carlos,6.187979,-74.99322699999999
+Colombia-Antioquia-San_Francisco,city,Colombia,Antioquia,San Francisco,San Francisco,4.974252,-74.291386
+Colombia-Antioquia-San_Jeronimo,city,Colombia,Antioquia,San Jeronimo,San Jeronimo,6.442513,-75.72815899999999
+Colombia-Antioquia-San_Jose_De_La_Montana,city,Colombia,Antioquia,San Jose De La Montana,San Jose De La Montana,6.849736,-75.684091
+Colombia-Antioquia-San_Juan_De_Uraba,city,Colombia,Antioquia,San Juan De Uraba,San Juan De Uraba,8.7624549,-76.526738
+Colombia-Antioquia-San_Luis,city,Colombia,Antioquia,San Luis,San Luis,6.042453999999999,-74.995071
+Colombia-Antioquia-San_Pedro,city,Colombia,Antioquia,San Pedro,San Pedro,3.99411,-76.22711
+Colombia-Antioquia-San_Pedro_De_Uraba,city,Colombia,Antioquia,San Pedro De Uraba,San Pedro De Uraba,8.275843,-76.379729
+Colombia-Antioquia-San_Rafael,city,Colombia,Antioquia,San Rafael,San Rafael,6.293544,-75.028577
+Colombia-Antioquia-San_Roque,city,Colombia,Antioquia,San Roque,San Roque,6.485831,-75.019623
+Colombia-Antioquia-San_Vicente,city,Colombia,Antioquia,San Vicente,San Vicente,6.285814999999999,-75.33422
+Colombia-Antioquia-Santa_Barbara,city,Colombia,Antioquia,Santa Barbara,Santa Barbara,5.874249,-75.56642099999999
+Colombia-Antioquia-Santa_Rosa_De_Osos,city,Colombia,Antioquia,Santa Rosa De Osos,Santa Rosa De Osos,6.648270999999999,-75.46090099999999
+Colombia-Antioquia-Santo_Domingo,city,Colombia,Antioquia,Santo Domingo,Santo Domingo,6.471563000000001,-75.16464599999999
+Colombia-Antioquia-El_Santuario,city,Colombia,Antioquia,El Santuario,El Santuario,6.139610999999999,-75.26450899999999
+Colombia-Antioquia-Segovia,city,Colombia,Antioquia,Segovia,Segovia,7.079604,-74.699095
+Colombia-Antioquia-Sonson,city,Colombia,Antioquia,Sonson,Sonson,5.712002,-75.309798
+Colombia-Antioquia-Sopetran,city,Colombia,Antioquia,Sopetran,Sopetran,6.501533999999999,-75.743398
+Colombia-Antioquia-Tamesis,city,Colombia,Antioquia,Tamesis,Tamesis,5.664999,-75.714701
+Colombia-Antioquia-Taraza,city,Colombia,Antioquia,Taraza,Taraza,7.583190999999999,-75.39996599999999
+Colombia-Antioquia-Tarso,city,Colombia,Antioquia,Tarso,Tarso,5.864924999999999,-75.82240300000001
+Colombia-Antioquia-Titiribi,city,Colombia,Antioquia,Titiribi,Titiribi,6.06259,-75.79341
+Colombia-Antioquia-Toledo,city,Colombia,Antioquia,Toledo,Toledo,7.307025,-72.48044399999999
+Colombia-Antioquia-Turbo,city,Colombia,Antioquia,Turbo,Turbo,8.0951588,-76.7284559
+Colombia-Antioquia-Uramita,city,Colombia,Antioquia,Uramita,Uramita,6.896805,-76.17166499999999
+Colombia-Antioquia-Urrao,city,Colombia,Antioquia,Urrao,Urrao,6.313860999999999,-76.13181
+Colombia-Antioquia-Valdivia,city,Colombia,Antioquia,Valdivia,Valdivia,7.29117,-75.39215
+Colombia-Antioquia-Valparaiso,city,Colombia,Antioquia,Valparaiso,Valparaiso,5.615156,-75.62527399999999
+Colombia-Antioquia-Vegachi,city,Colombia,Antioquia,Vegachi,Vegachi,6.772879,-74.796476
+Colombia-Antioquia-Venecia,city,Colombia,Antioquia,Venecia,Venecia,5.963962,-75.735417
+Colombia-Antioquia-Vigia_Del_Fuerte,city,Colombia,Antioquia,Vigia Del Fuerte,Vigia Del Fuerte,6.5885816,-76.89623580000001
+Colombia-Antioquia-Yali,city,Colombia,Antioquia,Yali,Yali,6.675199999999999,-74.84211
+Colombia-Antioquia-Yarumal,city,Colombia,Antioquia,Yarumal,Yarumal,6.961969,-75.4190689
+Colombia-Antioquia-Yolombo,city,Colombia,Antioquia,Yolombo,Yolombo,6.59995,-75.01478
+Colombia-Antioquia-Yondo,city,Colombia,Antioquia,Yondo,Yondo,7.0081406,-73.91006229999999
+Colombia-Antioquia-Zaragoza,city,Colombia,Antioquia,Zaragoza,Zaragoza,7.486879999999999,-74.8672519
+Colombia-Barranquilla-Barranquilla,city,Colombia,Barranquilla,Barranquilla,Barranquilla,11.0041072,-74.80698129999999
+Colombia-Atlantico-Baranoa,city,Colombia,Atlantico,Baranoa,Baranoa,10.796589,-74.915036
+Colombia-Atlantico-Campo_De_La_Cruz,city,Colombia,Atlantico,Campo De La Cruz,Campo De La Cruz,10.379923,-74.881979
+Colombia-Atlantico-Candelaria,city,Colombia,Atlantico,Candelaria,Candelaria,4.597014,-74.0728759
+Colombia-Atlantico-Galapa,city,Colombia,Atlantico,Galapa,Galapa,10.898923,-74.88382299999999
+Colombia-Atlantico-Juan_De_Acosta,city,Colombia,Atlantico,Juan De Acosta,Juan De Acosta,10.829092,-75.03585799999999
+Colombia-Atlantico-Luruaco,city,Colombia,Atlantico,Luruaco,Luruaco,10.60959,-75.142287
+Colombia-Atlantico-Malambo,city,Colombia,Atlantico,Malambo,Malambo,10.8575824,-74.7746834
+Colombia-Atlantico-Manati,city,Colombia,Atlantico,Manati,Manati,10.449239,-74.95937099999999
+Colombia-Atlantico-Palmar_De_Varela,city,Colombia,Atlantico,Palmar De Varela,Palmar De Varela,10.74044,-74.75527199999999
+Colombia-Atlantico-Piojo,city,Colombia,Atlantico,Piojo,Piojo,10.748716,-75.107922
+Colombia-Atlantico-Polonuevo,city,Colombia,Atlantico,Polonuevo,Polonuevo,10.777471,-74.853162
+Colombia-Atlantico-Ponedera,city,Colombia,Atlantico,Ponedera,Ponedera,10.641772,-74.753281
+Colombia-Atlantico-Puerto_Colombia,city,Colombia,Atlantico,Puerto Colombia,Puerto Colombia,11.001004,-74.950761
+Colombia-Atlantico-Repelon,city,Colombia,Atlantico,Repelon,Repelon,10.494762,-75.123706
+Colombia-Atlantico-Sabanagrande,city,Colombia,Atlantico,Sabanagrande,Sabanagrande,10.789771,-74.755201
+Colombia-Atlantico-Sabanalarga,city,Colombia,Atlantico,Sabanalarga,Sabanalarga,6.8498854,-75.81741760000001
+Colombia-Atlantico-Santa_Lucia,city,Colombia,Atlantico,Santa Lucia,Santa Lucia,10.323959,-74.961495
+Colombia-Atlantico-Santo_Tomas,city,Colombia,Atlantico,Santo Tomas,Santo Tomas,10.763286,-74.75649899999999
+Colombia-Atlantico-Soledad,city,Colombia,Atlantico,Soledad,Soledad,10.9170486,-74.799071
+Colombia-Atlantico-Suan,city,Colombia,Atlantico,Suan,Suan,10.332392,-74.879829
+Colombia-Atlantico-Tubara,city,Colombia,Atlantico,Tubara,Tubara,10.872762,-74.97735399999999
+Colombia-Atlantico-Usiacuri,city,Colombia,Atlantico,Usiacuri,Usiacuri,10.741163,-74.976528
+Colombia-Cartagena-Cartagena,city,Colombia,Cartagena,Cartagena,Cartagena,10.3910485,-75.4794257
+Colombia-Bolivar-Achi,city,Colombia,Bolivar,Achi,Achi,8.567684999999999,-74.5559339
+Colombia-Bolivar-Altos_Del_Rosario,city,Colombia,Bolivar,Altos Del Rosario,Altos Del Rosario,8.792731999999999,-74.16436519999999
+Colombia-Bolivar-Arenal,city,Colombia,Bolivar,Arenal,Arenal,8.45917,-73.94093
+Colombia-Bolivar-Arjona,city,Colombia,Bolivar,Arjona,Arjona,10.252471,-75.347308
+Colombia-Bolivar-Arroyohondo,city,Colombia,Bolivar,Arroyohondo,Arroyohondo,10.256929,-75.019121
+Colombia-Bolivar-Barranco_De_Loba,city,Colombia,Bolivar,Barranco De Loba,Barranco De Loba,8.94862,-74.11247999999999
+Colombia-Bolivar-Calamar,city,Colombia,Bolivar,Calamar,Calamar,10.249349,-74.914706
+Colombia-Bolivar-Cantagallo,city,Colombia,Bolivar,Cantagallo,Cantagallo,7.381529999999999,-73.91912099999999
+Colombia-Bolivar-Cicuco,city,Colombia,Bolivar,Cicuco,Cicuco,9.276819999999999,-74.64532
+Colombia-Bolivar-Cordoba,city,Colombia,Bolivar,Cordoba,Cordoba,8.049293,-75.57405
+Colombia-Bolivar-Clemencia,city,Colombia,Bolivar,Clemencia,Clemencia,10.568962,-75.3257409
+Colombia-Bolivar-El_Carmen_De_Bolivar,city,Colombia,Bolivar,El Carmen De Bolivar,El Carmen De Bolivar,9.721064,-75.11573299999999
+Colombia-Bolivar-El_Guamo,city,Colombia,Bolivar,El Guamo,El Guamo,4.02926,-74.974795
+Colombia-Bolivar-El_Penon,city,Colombia,Bolivar,El Penon,El Penon,6.223611,-75.178333
+Colombia-Bolivar-Hatillo_De_Loba,city,Colombia,Bolivar,Hatillo De Loba,Hatillo De Loba,8.956007,-74.0774969
+Colombia-Bolivar-Magangue,city,Colombia,Bolivar,Magangue,Magangue,9.2414156,-74.7527587
+Colombia-Bolivar-Mahates,city,Colombia,Bolivar,Mahates,Mahates,10.235048,-75.19129699999999
+Colombia-Bolivar-Margarita,city,Colombia,Bolivar,Margarita,Margarita,9.0833333,-74.5
+Colombia-Bolivar-Maria_La_Baja,city,Colombia,Bolivar,Maria La Baja,Maria La Baja,9.983775,-75.303139
+Colombia-Bolivar-Montecristo,city,Colombia,Bolivar,Montecristo,Montecristo,8.299479999999999,-74.47563
+Colombia-Bolivar-Mompos,city,Colombia,Bolivar,Mompos,Mompos,9.240146,-74.42449599999999
+Colombia-Bolivar-Norosi,city,Colombia,Bolivar,Norosi,Norosi,8.528027,-74.037018
+Colombia-Bolivar-Morales,city,Colombia,Bolivar,Morales,Morales,2.753912,-76.628114
+Colombia-Bolivar-Pinillos,city,Colombia,Bolivar,Pinillos,Pinillos,8.9245,-74.47032999999999
+Colombia-Bolivar-Regidor,city,Colombia,Bolivar,Regidor,Regidor,8.665089,-73.82266299999999
+Colombia-Bolivar-Rio_Viejo,city,Colombia,Bolivar,Rio Viejo,Rio Viejo,8.588396999999999,-73.84025799999999
+Colombia-Bolivar-San_Cristobal,city,Colombia,Bolivar,San Cristobal,San Cristobal,10.39432,-75.063889
+Colombia-Bolivar-San_Estanislao,city,Colombia,Bolivar,San Estanislao,San Estanislao,10.39902,-75.15223999999999
+Colombia-Bolivar-San_Fernando,city,Colombia,Bolivar,San Fernando,San Fernando,9.21758,-74.3271649
+Colombia-Bolivar-San_Jacinto,city,Colombia,Bolivar,San Jacinto,San Jacinto,9.834831999999999,-75.120521
+Colombia-Bolivar-San_Jacinto_Del_Cauca,city,Colombia,Bolivar,San Jacinto Del Cauca,San Jacinto Del Cauca,8.2498841,-74.72236749999999
+Colombia-Bolivar-San_Juan_Nepomuceno,city,Colombia,Bolivar,San Juan Nepomuceno,San Juan Nepomuceno,9.951139999999999,-75.083828
+Colombia-Bolivar-San_Martin_De_Loba,city,Colombia,Bolivar,San Martin De Loba,San Martin De Loba,8.940875,-74.03787
+Colombia-Bolivar-San_Pablo,city,Colombia,Bolivar,San Pablo,San Pablo,7.477887,-73.92410799999999
+Colombia-Bolivar-Santa_Catalina,city,Colombia,Bolivar,Santa Catalina,Santa Catalina,13.3875121,-81.37568619999999
+Colombia-Bolivar-Santa_Rosa,city,Colombia,Bolivar,Santa Rosa,Santa Rosa,4.870121,-75.62239
+Colombia-Bolivar-Santa_Rosa_Del_Sur,city,Colombia,Bolivar,Santa Rosa Del Sur,Santa Rosa Del Sur,7.9629547,-74.0520439
+Colombia-Bolivar-Simiti,city,Colombia,Bolivar,Simiti,Simiti,7.957151,-73.946404
+Colombia-Bolivar-Soplaviento,city,Colombia,Bolivar,Soplaviento,Soplaviento,10.390061,-75.1360119
+Colombia-Bolivar-Talaigua_Nuevo,city,Colombia,Bolivar,Talaigua Nuevo,Talaigua Nuevo,9.303469000000002,-74.567972
+Colombia-Bolivar-Tiquisio,city,Colombia,Bolivar,Tiquisio,Tiquisio,8.55768,-74.26361
+Colombia-Bolivar-Turbaco,city,Colombia,Bolivar,Turbaco,Turbaco,10.334638,-75.412672
+Colombia-Bolivar-Turbana,city,Colombia,Bolivar,Turbana,Turbana,10.274743,-75.441594
+Colombia-Bolivar-Villanueva,city,Colombia,Bolivar,Villanueva,Villanueva,10.603721,-72.98193599999999
+Colombia-Bolivar-Zambrano,city,Colombia,Bolivar,Zambrano,Zambrano,9.744553999999999,-74.81620000000001
+Colombia-Boyaca-Tunja,city,Colombia,Boyaca,Tunja,Tunja,5.5446422,-73.3575572
+Colombia-Boyaca-Almeida,city,Colombia,Boyaca,Almeida,Almeida,4.97088,-73.37989999999999
+Colombia-Boyaca-Aquitania,city,Colombia,Boyaca,Aquitania,Aquitania,5.5197139,-72.88419800000001
+Colombia-Boyaca-Arcabuco,city,Colombia,Boyaca,Arcabuco,Arcabuco,5.754518,-73.437338
+Colombia-Boyaca-Belen,city,Colombia,Boyaca,Belen,Belen,6.231928,-75.60116719999999
+Colombia-Boyaca-Berbeo,city,Colombia,Boyaca,Berbeo,Berbeo,5.226973999999999,-73.127259
+Colombia-Boyaca-Beteitiva,city,Colombia,Boyaca,Beteitiva,Beteitiva,5.910362,-72.808987
+Colombia-Boyaca-Boavita,city,Colombia,Boyaca,Boavita,Boavita,6.331521,-72.583418
+Colombia-Boyaca-Boyaca,city,Colombia,Boyaca,Boyaca,Boyaca,5.454511,-73.362003
+Colombia-Boyaca-Briceno,city,Colombia,Boyaca,Briceno,Briceno,5.690024999999999,-73.92287999999999
+Colombia-Boyaca-Buenavista,city,Colombia,Boyaca,Buenavista,Buenavista,4.358752,-75.740163
+Colombia-Boyaca-Busbanza,city,Colombia,Boyaca,Busbanza,Busbanza,5.830509,-72.883814
+Colombia-Boyaca-Caldas,city,Colombia,Boyaca,Caldas,Caldas,5.29826,-75.2479061
+Colombia-Boyaca-Campohermoso,city,Colombia,Boyaca,Campohermoso,Campohermoso,5.031048,-73.103869
+Colombia-Boyaca-Cerinza,city,Colombia,Boyaca,Cerinza,Cerinza,5.95661,-72.9489509
+Colombia-Boyaca-Chinavita,city,Colombia,Boyaca,Chinavita,Chinavita,5.166615,-73.36877
+Colombia-Boyaca-Chiquinquira,city,Colombia,Boyaca,Chiquinquira,Chiquinquira,5.614775,-73.819571
+Colombia-Boyaca-Chiscas,city,Colombia,Boyaca,Chiscas,Chiscas,6.552740999999999,-72.5003179
+Colombia-Boyaca-Chita,city,Colombia,Boyaca,Chita,Chita,6.187240999999999,-72.471221
+Colombia-Boyaca-Chitaraque,city,Colombia,Boyaca,Chitaraque,Chitaraque,6.027467,-73.446429
+Colombia-Boyaca-Chivata,city,Colombia,Boyaca,Chivata,Chivata,5.558452,-73.282611
+Colombia-Boyaca-Cienega,city,Colombia,Boyaca,Cienega,Cienega,11.007984,-74.248926
+Colombia-Boyaca-Combita,city,Colombia,Boyaca,Combita,Combita,5.634202,-73.323263
+Colombia-Boyaca-Coper,city,Colombia,Boyaca,Coper,Coper,5.4752599,-74.04497700000002
+Colombia-Boyaca-Corrales,city,Colombia,Boyaca,Corrales,Corrales,5.828673999999999,-72.844945
+Colombia-Boyaca-Covarachia,city,Colombia,Boyaca,Covarachia,Covarachia,6.500365,-72.739244
+Colombia-Boyaca-Cubara,city,Colombia,Boyaca,Cubara,Cubara,7.00178,-72.108186
+Colombia-Boyaca-Cucaita,city,Colombia,Boyaca,Cucaita,Cucaita,5.543296,-73.454842
+Colombia-Boyaca-Cuitiva,city,Colombia,Boyaca,Cuitiva,Cuitiva,5.580527,-72.966174
+Colombia-Boyaca-Chiquiza,city,Colombia,Boyaca,Chiquiza,Chiquiza,5.605474,-73.48499199999999
+Colombia-Boyaca-Chivor,city,Colombia,Boyaca,Chivor,Chivor,4.888109,-73.36692599999999
+Colombia-Boyaca-Duitama,city,Colombia,Boyaca,Duitama,Duitama,5.8268951,-73.0329273
+Colombia-Boyaca-El_Cocuy,city,Colombia,Boyaca,El Cocuy,El Cocuy,6.408891,-72.4454499
+Colombia-Boyaca-El_Espino,city,Colombia,Boyaca,El Espino,El Espino,6.4864,-72.43285999999999
+Colombia-Boyaca-Firavitoba,city,Colombia,Boyaca,Firavitoba,Firavitoba,5.668899,-72.994095
+Colombia-Boyaca-Floresta,city,Colombia,Boyaca,Floresta,Floresta,5.859347,-72.919056
+Colombia-Boyaca-Gachantiva,city,Colombia,Boyaca,Gachantiva,Gachantiva,5.752134,-73.54938
+Colombia-Boyaca-Gameza,city,Colombia,Boyaca,Gameza,Gameza,5.802567,-72.80632
+Colombia-Boyaca-Garagoa,city,Colombia,Boyaca,Garagoa,Garagoa,5.082453,-73.36504599999999
+Colombia-Boyaca-Guacamayas,city,Colombia,Boyaca,Guacamayas,Guacamayas,6.459443,-72.50000899999999
+Colombia-Boyaca-Guateque,city,Colombia,Boyaca,Guateque,Guateque,5.006385,-73.471423
+Colombia-Boyaca-Guayata,city,Colombia,Boyaca,Guayata,Guayata,4.968157,-73.490098
+Colombia-Boyaca-Guican,city,Colombia,Boyaca,Guican,Guican,6.463042,-72.412077
+Colombia-Boyaca-Iza,city,Colombia,Boyaca,Iza,Iza,5.614709,-72.979939
+Colombia-Boyaca-Jenesano,city,Colombia,Boyaca,Jenesano,Jenesano,5.385032,-73.364139
+Colombia-Boyaca-Jerico,city,Colombia,Boyaca,Jerico,Jerico,5.790513,-75.776082
+Colombia-Boyaca-Labranzagrande,city,Colombia,Boyaca,Labranzagrande,Labranzagrande,5.562762999999999,-72.57762799999999
+Colombia-Boyaca-La_Capilla,city,Colombia,Boyaca,La Capilla,La Capilla,5.095405,-73.444632
+Colombia-Boyaca-La_Victoria,city,Colombia,Boyaca,La Victoria,La Victoria,4.5241049,-76.03607099999999
+Colombia-Boyaca-La_Uvita,city,Colombia,Boyaca,La Uvita,La Uvita,6.316914,-72.559662
+Colombia-Boyaca-Villa_De_Leyva,city,Colombia,Boyaca,Villa De Leyva,Villa De Leyva,5.636499,-73.527058
+Colombia-Boyaca-Macanal,city,Colombia,Boyaca,Macanal,Macanal,4.972354,-73.319081
+Colombia-Boyaca-Maripi,city,Colombia,Boyaca,Maripi,Maripi,5.549623,-74.0046909
+Colombia-Boyaca-Miraflores,city,Colombia,Boyaca,Miraflores,Miraflores,1.337454,-71.950914
+Colombia-Boyaca-Mongua,city,Colombia,Boyaca,Mongua,Mongua,5.7541536,-72.7998479
+Colombia-Boyaca-Mongui,city,Colombia,Boyaca,Mongui,Mongui,5.723205999999999,-72.84908899999999
+Colombia-Boyaca-Moniquira,city,Colombia,Boyaca,Moniquira,Moniquira,5.875986999999999,-73.57359
+Colombia-Boyaca-Motavita,city,Colombia,Boyaca,Motavita,Motavita,5.577547,-73.368186
+Colombia-Boyaca-Muzo,city,Colombia,Boyaca,Muzo,Muzo,5.531629,-74.103016
+Colombia-Boyaca-Nobsa,city,Colombia,Boyaca,Nobsa,Nobsa,5.767186,-72.9369789
+Colombia-Boyaca-Nuevo_Colon,city,Colombia,Boyaca,Nuevo Colon,Nuevo Colon,5.354864999999999,-73.457382
+Colombia-Boyaca-Oicata,city,Colombia,Boyaca,Oicata,Oicata,5.59445,-73.3082529
+Colombia-Boyaca-Otanche,city,Colombia,Boyaca,Otanche,Otanche,5.658513999999999,-74.181142
+Colombia-Boyaca-Pachavita,city,Colombia,Boyaca,Pachavita,Pachavita,5.139940999999999,-73.39714699999999
+Colombia-Boyaca-Paez,city,Colombia,Boyaca,Paez,Paez,2.65474,-75.9928
+Colombia-Boyaca-Paipa,city,Colombia,Boyaca,Paipa,Paipa,5.77977,-73.11472499999999
+Colombia-Boyaca-Pajarito,city,Colombia,Boyaca,Pajarito,Pajarito,5.2931929,-72.70281790000001
+Colombia-Boyaca-Panqueba,city,Colombia,Boyaca,Panqueba,Panqueba,6.443113899999999,-72.458962
+Colombia-Boyaca-Pauna,city,Colombia,Boyaca,Pauna,Pauna,5.656439,-73.978073
+Colombia-Boyaca-Paya,city,Colombia,Boyaca,Paya,Paya,5.624829999999999,-72.42381
+Colombia-Boyaca-Paz_De_Rio,city,Colombia,Boyaca,Paz De Rio,Paz De Rio,5.987618899999999,-72.74707599999999
+Colombia-Boyaca-Pesca,city,Colombia,Boyaca,Pesca,Pesca,5.558883,-73.050631
+Colombia-Boyaca-Pisba,city,Colombia,Boyaca,Pisba,Pisba,5.722797,-72.48457499999999
+Colombia-Boyaca-Puerto_Boyaca,city,Colombia,Boyaca,Puerto Boyaca,Puerto Boyaca,5.977237,-74.593395
+Colombia-Boyaca-Quipama,city,Colombia,Boyaca,Quipama,Quipama,5.522646,-74.18113199999999
+Colombia-Boyaca-Ramiriqui,city,Colombia,Boyaca,Ramiriqui,Ramiriqui,5.401841,-73.33573799999999
+Colombia-Boyaca-Raquira,city,Colombia,Boyaca,Raquira,Raquira,5.5382999,-73.632154
+Colombia-Boyaca-Rondon,city,Colombia,Boyaca,Rondon,Rondon,5.3570209,-73.208421
+Colombia-Boyaca-Saboya,city,Colombia,Boyaca,Saboya,Saboya,5.697782999999999,-73.76493099999999
+Colombia-Boyaca-Sachica,city,Colombia,Boyaca,Sachica,Sachica,5.583059,-73.542575
+Colombia-Boyaca-Samaca,city,Colombia,Boyaca,Samaca,Samaca,5.492342,-73.486159
+Colombia-Boyaca-San_Eduardo,city,Colombia,Boyaca,San Eduardo,San Eduardo,5.224586,-73.078446
+Colombia-Boyaca-San_Jose_De_Pare,city,Colombia,Boyaca,San Jose De Pare,San Jose De Pare,6.017629899999999,-73.54778999999999
+Colombia-Boyaca-San_Luis_De_Gaceno,city,Colombia,Boyaca,San Luis De Gaceno,San Luis De Gaceno,4.819789999999999,-73.16949
+Colombia-Boyaca-San_Mateo,city,Colombia,Boyaca,San Mateo,San Mateo,6.402012999999999,-72.5546339
+Colombia-Boyaca-San_Miguel_De_Sema,city,Colombia,Boyaca,San Miguel De Sema,San Miguel De Sema,5.517709,-73.72249699999999
+Colombia-Boyaca-San_Pablo_De_Borbur,city,Colombia,Boyaca,San Pablo De Borbur,San Pablo De Borbur,5.651820000000001,-74.06978
+Colombia-Boyaca-Santana,city,Colombia,Boyaca,Santana,Santana,6.057239999999999,-73.48223
+Colombia-Boyaca-Santa_Maria,city,Colombia,Boyaca,Santa Maria,Santa Maria,11.2403547,-74.2110227
+Colombia-Boyaca-Santa_Rosa_De_Viterbo,city,Colombia,Boyaca,Santa Rosa De Viterbo,Santa Rosa De Viterbo,5.873789899999999,-72.982728
+Colombia-Boyaca-Santa_Sofia,city,Colombia,Boyaca,Santa Sofia,Santa Sofia,5.713960999999999,-73.602068
+Colombia-Boyaca-Sativanorte,city,Colombia,Boyaca,Sativanorte,Sativanorte,6.131271,-72.708125
+Colombia-Boyaca-Sativasur,city,Colombia,Boyaca,Sativasur,Sativasur,6.093446999999999,-72.71202199999999
+Colombia-Boyaca-Siachoque,city,Colombia,Boyaca,Siachoque,Siachoque,5.511608,-73.244834
+Colombia-Boyaca-Soata,city,Colombia,Boyaca,Soata,Soata,6.336161,-72.6815699
+Colombia-Boyaca-Socota,city,Colombia,Boyaca,Socota,Socota,6.041520999999999,-72.636498
+Colombia-Boyaca-Socha,city,Colombia,Boyaca,Socha,Socha,5.997129999999999,-72.692665
+Colombia-Boyaca-Sogamoso,city,Colombia,Boyaca,Sogamoso,Sogamoso,5.7160848,-72.93112889999999
+Colombia-Boyaca-Somondoco,city,Colombia,Boyaca,Somondoco,Somondoco,4.985763,-73.43302
+Colombia-Boyaca-Sora,city,Colombia,Boyaca,Sora,Sora,5.566838,-73.45009499999999
+Colombia-Boyaca-Sotaquira,city,Colombia,Boyaca,Sotaquira,Sotaquira,5.76532,-73.246566
+Colombia-Boyaca-Soraca,city,Colombia,Boyaca,Soraca,Soraca,5.500849,-73.332701
+Colombia-Boyaca-Susacon,city,Colombia,Boyaca,Susacon,Susacon,6.230563,-72.689835
+Colombia-Boyaca-Sutamarchan,city,Colombia,Boyaca,Sutamarchan,Sutamarchan,5.620003,-73.620936
+Colombia-Boyaca-Sutatenza,city,Colombia,Boyaca,Sutatenza,Sutatenza,5.023402000000001,-73.45219399999999
+Colombia-Boyaca-Tasco,city,Colombia,Boyaca,Tasco,Tasco,5.909396,-72.78081
+Colombia-Boyaca-Tenza,city,Colombia,Boyaca,Tenza,Tenza,5.077311,-73.421476
+Colombia-Boyaca-Tibana,city,Colombia,Boyaca,Tibana,Tibana,5.316775,-73.397943
+Colombia-Boyaca-Tibasosa,city,Colombia,Boyaca,Tibasosa,Tibasosa,5.73332,-73.00003
+Colombia-Boyaca-Tinjaca,city,Colombia,Boyaca,Tinjaca,Tinjaca,5.578688,-73.64719
+Colombia-Boyaca-Tipacoque,city,Colombia,Boyaca,Tipacoque,Tipacoque,6.420758999999999,-72.691054
+Colombia-Boyaca-Toca,city,Colombia,Boyaca,Toca,Toca,5.566401,-73.185051
+Colombia-Boyaca-Togui,city,Colombia,Boyaca,Togui,Togui,5.3906,-73.51673000000001
+Colombia-Boyaca-Topaga,city,Colombia,Boyaca,Topaga,Topaga,5.768717,-72.831906
+Colombia-Boyaca-Tota,city,Colombia,Boyaca,Tota,Tota,5.560332,-72.985939
+Colombia-Boyaca-Tunungua,city,Colombia,Boyaca,Tunungua,Tunungua,5.7304983,-73.93341029999999
+Colombia-Boyaca-Turmeque,city,Colombia,Boyaca,Turmeque,Turmeque,5.324008,-73.4921449
+Colombia-Boyaca-Tuta,city,Colombia,Boyaca,Tuta,Tuta,5.690894,-73.225987
+Colombia-Boyaca-Tutaza,city,Colombia,Boyaca,Tutaza,Tutaza,6.032857,-72.856391
+Colombia-Boyaca-Umbita,city,Colombia,Boyaca,Umbita,Umbita,5.22138,-73.45687
+Colombia-Boyaca-Ventaquemada,city,Colombia,Boyaca,Ventaquemada,Ventaquemada,5.372167,-73.522672
+Colombia-Boyaca-Viracacha,city,Colombia,Boyaca,Viracacha,Viracacha,5.437028,-73.296449
+Colombia-Boyaca-Zetaquira,city,Colombia,Boyaca,Zetaquira,Zetaquira,5.284206,-73.171179
+Colombia-Caldas-Manizales,city,Colombia,Caldas,Manizales,Manizales,5.070275,-75.5138166
+Colombia-Caldas-Aguadas,city,Colombia,Caldas,Aguadas,Aguadas,5.608334,-75.453135
+Colombia-Caldas-Anserma,city,Colombia,Caldas,Anserma,Anserma,5.242598,-75.781831
+Colombia-Caldas-Aranzazu,city,Colombia,Caldas,Aranzazu,Aranzazu,5.271896,-75.490582
+Colombia-Caldas-Belalcazar,city,Colombia,Caldas,Belalcazar,Belalcazar,4.994942,-75.8048759
+Colombia-Caldas-Chinchina,city,Colombia,Caldas,Chinchina,Chinchina,4.98273,-75.60526
+Colombia-Caldas-Filadelfia,city,Colombia,Caldas,Filadelfia,Filadelfia,5.2977,-75.56234490000001
+Colombia-Caldas-La_Dorada,city,Colombia,Caldas,La Dorada,La Dorada,5.472709,-74.66798399999999
+Colombia-Caldas-La_Merced,city,Colombia,Caldas,La Merced,La Merced,5.398218,-75.5470349
+Colombia-Caldas-Manzanares,city,Colombia,Caldas,Manzanares,Manzanares,5.255906,-75.1538939
+Colombia-Caldas-Marmato,city,Colombia,Caldas,Marmato,Marmato,5.474716,-75.601051
+Colombia-Caldas-Marquetalia,city,Colombia,Caldas,Marquetalia,Marquetalia,5.300064,-75.051548
+Colombia-Caldas-Marulanda,city,Colombia,Caldas,Marulanda,Marulanda,5.2843859,-75.259705
+Colombia-Caldas-Neira,city,Colombia,Caldas,Neira,Neira,5.166841,-75.52035599999999
+Colombia-Caldas-Norcasia,city,Colombia,Caldas,Norcasia,Norcasia,5.576269,-74.889557
+Colombia-Caldas-Pacora,city,Colombia,Caldas,Pacora,Pacora,5.527995,-75.459881
+Colombia-Caldas-Palestina,city,Colombia,Caldas,Palestina,Palestina,5.02022,-75.62281
+Colombia-Caldas-Pensilvania,city,Colombia,Caldas,Pensilvania,Pensilvania,5.38211,-75.16142599999999
+Colombia-Caldas-Riosucio,city,Colombia,Caldas,Riosucio,Riosucio,5.420683899999999,-75.705388
+Colombia-Caldas-Risaralda,city,Colombia,Caldas,Risaralda,Risaralda,5.315847499999999,-75.9927652
+Colombia-Caldas-Salamina,city,Colombia,Caldas,Salamina,Salamina,5.402354,-75.486468
+Colombia-Caldas-Samana,city,Colombia,Caldas,Samana,Samana,5.413047,-74.99146390000001
+Colombia-Caldas-San_Jose,city,Colombia,Caldas,San Jose,San Jose,5.08414,-75.7903
+Colombia-Caldas-Supia,city,Colombia,Caldas,Supia,Supia,5.45589,-75.65040100000002
+Colombia-Caldas-Victoria,city,Colombia,Caldas,Victoria,Victoria,5.317755,-74.91071099999999
+Colombia-Caldas-Villamaria,city,Colombia,Caldas,Villamaria,Villamaria,5.042568999999999,-75.514771
+Colombia-Caldas-Viterbo,city,Colombia,Caldas,Viterbo,Viterbo,5.0605779,-75.87235600000001
+Colombia-Caqueta-Florencia,city,Colombia,Caqueta,Florencia,Florencia,1.6153858,-75.60423639999999
+Colombia-Caqueta-Albania,city,Colombia,Caqueta,Albania,Albania,11.160651,-72.59190699999999
+Colombia-Caqueta-Belen_De_Los_Andaquies,city,Colombia,Caqueta,Belen De Los Andaquies,Belen De Los Andaquies,1.41608,-75.87266
+Colombia-Caqueta-Cartagena_Del_Chaira,city,Colombia,Caqueta,Cartagena Del Chaira,Cartagena Del Chaira,1.3338448,-74.84340259999999
+Colombia-Caqueta-Curillo,city,Colombia,Caqueta,Curillo,Curillo,1.033817,-75.920771
+Colombia-Caqueta-El_Doncello,city,Colombia,Caqueta,El Doncello,El Doncello,1.680042,-75.2833349
+Colombia-Caqueta-El_Paujil,city,Colombia,Caqueta,El Paujil,El Paujil,1.571227,-75.3266979
+Colombia-Caqueta-La_Montanita,city,Colombia,Caqueta,La Montanita,La Montanita,1.47888,-75.43724
+Colombia-Caqueta-Milan,city,Colombia,Caqueta,Milan,Milan,1.34833,-75.5117
+Colombia-Caqueta-Morelia,city,Colombia,Caqueta,Morelia,Morelia,1.485694,-75.723179
+Colombia-Caqueta-Puerto_Rico,city,Colombia,Caqueta,Puerto Rico,Puerto Rico,1.909918,-75.157235
+Colombia-Caqueta-San_Jose_Del_Fragua,city,Colombia,Caqueta,San Jose Del Fragua,San Jose Del Fragua,1.3313483,-75.9739003
+Colombia-Caqueta-San_Vicente_Del_Caguan,city,Colombia,Caqueta,San Vicente Del Caguan,San Vicente Del Caguan,2.1136446,-74.7732056
+Colombia-Caqueta-Solano,city,Colombia,Caqueta,Solano,Solano,6.222551999999999,-77.40115399999999
+Colombia-Caqueta-Solita,city,Colombia,Caqueta,Solita,Solita,0.88022,-75.62058999999999
+Colombia-Caqueta-Valparaiso,city,Colombia,Caqueta,Valparaiso,Valparaiso,5.615156,-75.62527399999999
+Colombia-Cauca-Popayan,city,Colombia,Cauca,Popayan,Popayan,2.4448143,-76.6147395
+Colombia-Cauca-Almaguer,city,Colombia,Cauca,Almaguer,Almaguer,1.914182,-76.854839
+Colombia-Cauca-Argelia,city,Colombia,Cauca,Argelia,Argelia,5.730859,-75.142186
+Colombia-Cauca-Balboa,city,Colombia,Cauca,Balboa,Balboa,2.040728,-77.216606
+Colombia-Cauca-Bolivar,city,Colombia,Cauca,Bolivar,Bolivar,8.6704382,-74.0300122
+Colombia-Cauca-Buenos_Aires,city,Colombia,Cauca,Buenos Aires,Buenos Aires,3.01334,-76.643755
+Colombia-Cauca-Cajibio,city,Colombia,Cauca,Cajibio,Cajibio,2.621916,-76.57160800000001
+Colombia-Cauca-Caldono,city,Colombia,Cauca,Caldono,Caldono,2.796679,-76.48577
+Colombia-Cauca-Caloto,city,Colombia,Cauca,Caloto,Caloto,3.033544,-76.408081
+Colombia-Cauca-Corinto,city,Colombia,Cauca,Corinto,Corinto,3.174159,-76.25880200000002
+Colombia-Cauca-El_Tambo,city,Colombia,Cauca,El Tambo,El Tambo,2.452695,-76.81132199999999
+Colombia-Cauca-Florencia,city,Colombia,Cauca,Florencia,Florencia,1.6153858,-75.60423639999999
+Colombia-Cauca-Guachene,city,Colombia,Cauca,Guachene,Guachene,3.1329159,-76.393794
+Colombia-Cauca-Guapi,city,Colombia,Cauca,Guapi,Guapi,2.571287,-77.885469
+Colombia-Cauca-Inza,city,Colombia,Cauca,Inza,Inza,2.55168,-76.06517
+Colombia-Cauca-Jambalo,city,Colombia,Cauca,Jambalo,Jambalo,2.777846,-76.324327
+Colombia-Cauca-La_Sierra,city,Colombia,Cauca,La Sierra,La Sierra,2.17845,-76.76214
+Colombia-Cauca-La_Vega,city,Colombia,Cauca,La Vega,La Vega,5.000528,-74.339439
+Colombia-Cauca-Lopez,city,Colombia,Cauca,Lopez,Lopez,2.8458039,-77.24803899999999
+Colombia-Cauca-Mercaderes,city,Colombia,Cauca,Mercaderes,Mercaderes,1.795801,-77.163397
+Colombia-Cauca-Miranda,city,Colombia,Cauca,Miranda,Miranda,3.251528,-76.229027
+Colombia-Cauca-Morales,city,Colombia,Cauca,Morales,Morales,2.753912,-76.628114
+Colombia-Cauca-Padilla,city,Colombia,Cauca,Padilla,Padilla,3.223586,-76.3133579
+Colombia-Cauca-Paez,city,Colombia,Cauca,Paez,Paez,2.65474,-75.9928
+Colombia-Cauca-Patia,city,Colombia,Cauca,Patia,Patia,2.069301,-77.053095
+Colombia-Cauca-Piamonte,city,Colombia,Cauca,Piamonte,Piamonte,1.117611,-76.31997199999999
+Colombia-Cauca-Piendamo,city,Colombia,Cauca,Piendamo,Piendamo,2.6430699,-76.98917999999999
+Colombia-Cauca-Puerto_Tejada,city,Colombia,Cauca,Puerto Tejada,Puerto Tejada,3.22059,-76.415465
+Colombia-Cauca-Purace,city,Colombia,Cauca,Purace,Purace,2.3138889,-76.3952778
+Colombia-Cauca-Rosas,city,Colombia,Cauca,Rosas,Rosas,2.261858,-76.7406139
+Colombia-Cauca-San_Sebastian,city,Colombia,Cauca,San Sebastian,San Sebastian,1.838574,-76.770954
+Colombia-Cauca-Santander_De_Quilichao,city,Colombia,Cauca,Santander De Quilichao,Santander De Quilichao,3.01228,-76.484533
+Colombia-Cauca-Santa_Rosa,city,Colombia,Cauca,Santa Rosa,Santa Rosa,4.870121,-75.62239
+Colombia-Cauca-Silvia,city,Colombia,Cauca,Silvia,Silvia,2.611615,-76.37754
+Colombia-Cauca-Sotara,city,Colombia,Cauca,Sotara,Sotara,2.2781525,-76.5950555
+Colombia-Cauca-Suarez,city,Colombia,Cauca,Suarez,Suarez,2.9543832,-76.69540889999999
+Colombia-Cauca-Sucre,city,Colombia,Cauca,Sucre,Sucre,8.813977,-74.723283
+Colombia-Cauca-Timbio,city,Colombia,Cauca,Timbio,Timbio,2.352686,-76.683352
+Colombia-Cauca-Timbiqui,city,Colombia,Cauca,Timbiqui,Timbiqui,2.777744,-77.66760599999999
+Colombia-Cauca-Toribio,city,Colombia,Cauca,Toribio,Toribio,2.9562909,-76.2704
+Colombia-Cauca-Totoro,city,Colombia,Cauca,Totoro,Totoro,2.509941,-76.40173
+Colombia-Cauca-Villa_Rica,city,Colombia,Cauca,Villa Rica,Villa Rica,2.51364,-76.84774
+Colombia-Cesar-Valledupar,city,Colombia,Cesar,Valledupar,Valledupar,10.4742449,-73.2436335
+Colombia-Cesar-Aguachica,city,Colombia,Cesar,Aguachica,Aguachica,8.305925,-73.611665
+Colombia-Cesar-Agustin_Codazzi,city,Colombia,Cesar,Agustin Codazzi,Agustin Codazzi,10.034716,-73.237105
+Colombia-Cesar-Astrea,city,Colombia,Cesar,Astrea,Astrea,9.496125,-73.976122
+Colombia-Cesar-Becerril,city,Colombia,Cesar,Becerril,Becerril,9.703677,-73.278795
+Colombia-Cesar-Bosconia,city,Colombia,Cesar,Bosconia,Bosconia,9.970362,-73.890531
+Colombia-Cesar-Chimichagua,city,Colombia,Cesar,Chimichagua,Chimichagua,9.2571429,-73.812877
+Colombia-Cesar-Chiriguana,city,Colombia,Cesar,Chiriguana,Chiriguana,9.361464,-73.5997
+Colombia-Cesar-Curumani,city,Colombia,Cesar,Curumani,Curumani,9.201062,-73.5425659
+Colombia-Cesar-El_Copey,city,Colombia,Cesar,El Copey,El Copey,10.148976,-73.960233
+Colombia-Cesar-El_Paso,city,Colombia,Cesar,El Paso,El Paso,9.661436,-73.74643000000002
+Colombia-Cesar-Gamarra,city,Colombia,Cesar,Gamarra,Gamarra,8.319315999999999,-73.743937
+Colombia-Cesar-Gonzalez,city,Colombia,Cesar,Gonzalez,Gonzalez,8.390105,-73.380115
+Colombia-Cesar-La_Gloria,city,Colombia,Cesar,La Gloria,La Gloria,8.617977,-73.802042
+Colombia-Cesar-La_Jagua_De_Ibirico,city,Colombia,Cesar,La Jagua De Ibirico,La Jagua De Ibirico,9.560892299999999,-73.3384471
+Colombia-Cesar-Manaure,city,Colombia,Cesar,Manaure,Manaure,11.772778,-72.444227
+Colombia-Cesar-Pailitas,city,Colombia,Cesar,Pailitas,Pailitas,8.959667,-73.626268
+Colombia-Cesar-Pelaya,city,Colombia,Cesar,Pelaya,Pelaya,8.688030999999999,-73.666377
+Colombia-Cesar-Pueblo_Bello,city,Colombia,Cesar,Pueblo Bello,Pueblo Bello,10.40873,-73.59139990000001
+Colombia-Cesar-Rio_De_Oro,city,Colombia,Cesar,Rio De Oro,Rio De Oro,8.294267,-73.387468
+Colombia-Cesar-La_Paz,city,Colombia,Cesar,La Paz,La Paz,6.189809899999999,-73.57585
+Colombia-Cesar-San_Alberto,city,Colombia,Cesar,San Alberto,San Alberto,7.761063000000001,-73.39361699999999
+Colombia-Cesar-San_Diego,city,Colombia,Cesar,San Diego,San Diego,10.333974,-73.180718
+Colombia-Cesar-San_Martin,city,Colombia,Cesar,San Martin,San Martin,3.698492,-73.697308
+Colombia-Cesar-Tamalameque,city,Colombia,Cesar,Tamalameque,Tamalameque,8.861748,-73.810756
+Colombia-Cordoba-Monteria,city,Colombia,Cordoba,Monteria,Monteria,8.750983,-75.8785348
+Colombia-Cordoba-Ayapel,city,Colombia,Cordoba,Ayapel,Ayapel,8.3092849,-75.140264
+Colombia-Cordoba-Buenavista,city,Colombia,Cordoba,Buenavista,Buenavista,4.358752,-75.740163
+Colombia-Cordoba-Canalete,city,Colombia,Cordoba,Canalete,Canalete,8.788160999999999,-76.240381
+Colombia-Cordoba-Cerete,city,Colombia,Cordoba,Cerete,Cerete,8.888785,-75.789633
+Colombia-Cordoba-Chima,city,Colombia,Cordoba,Chima,Chima,6.34469,-73.37442
+Colombia-Cordoba-Chinu,city,Colombia,Cordoba,Chinu,Chinu,9.105964,-75.401527
+Colombia-Cordoba-Cienaga_De_Oro,city,Colombia,Cordoba,Cienaga De Oro,Cienaga De Oro,8.879215,-75.621332
+Colombia-Cordoba-Cotorra,city,Colombia,Cordoba,Cotorra,Cotorra,9.039263,-75.790511
+Colombia-Cordoba-La_Apartada,city,Colombia,Cordoba,La Apartada,La Apartada,8.048048999999999,-75.33410099999999
+Colombia-Cordoba-Lorica,city,Colombia,Cordoba,Lorica,Lorica,9.2376398,-75.81362450000002
+Colombia-Cordoba-Los_Cordobas,city,Colombia,Cordoba,Los Cordobas,Los Cordobas,8.89508,-76.35459
+Colombia-Cordoba-Momil,city,Colombia,Cordoba,Momil,Momil,9.239504,-75.6767349
+Colombia-Cordoba-Montelibano,city,Colombia,Cordoba,Montelibano,Montelibano,7.976803,-75.417209
+Colombia-Cordoba-Monitos,city,Colombia,Cordoba,Monitos,Monitos,9.246772,-76.13078399999999
+Colombia-Cordoba-Planeta_Rica,city,Colombia,Cordoba,Planeta Rica,Planeta Rica,8.412749,-75.584048
+Colombia-Cordoba-Pueblo_Nuevo,city,Colombia,Cordoba,Pueblo Nuevo,Pueblo Nuevo,8.50502,-75.507409
+Colombia-Cordoba-Puerto_Escondido,city,Colombia,Cordoba,Puerto Escondido,Puerto Escondido,9.008341,-76.261398
+Colombia-Cordoba-Puerto_Libertador,city,Colombia,Cordoba,Puerto Libertador,Puerto Libertador,7.887951999999999,-75.67094399999999
+Colombia-Cordoba-Purisima,city,Colombia,Cordoba,Purisima,Purisima,9.236872,-75.723394
+Colombia-Cordoba-Sahagun,city,Colombia,Cordoba,Sahagun,Sahagun,8.950643,-75.44600100000001
+Colombia-Cordoba-San_Andres_Sotavento,city,Colombia,Cordoba,San Andres Sotavento,San Andres Sotavento,9.146742999999999,-75.509017
+Colombia-Cordoba-San_Antero,city,Colombia,Cordoba,San Antero,San Antero,9.374642,-75.758517
+Colombia-Cordoba-San_Bernardo_Del_Viento,city,Colombia,Cordoba,San Bernardo Del Viento,San Bernardo Del Viento,9.3525858,-75.9535815
+Colombia-Cordoba-San_Carlos,city,Colombia,Cordoba,San Carlos,San Carlos,6.187979,-74.99322699999999
+Colombia-Cordoba-San_Jose_De_Ure,city,Colombia,Cordoba,San Jose De Ure,San Jose De Ure,7.787444000000001,-75.535839
+Colombia-Cordoba-San_Pelayo,city,Colombia,Cordoba,San Pelayo,San Pelayo,8.959441900000002,-75.8369139
+Colombia-Cordoba-Tierralta,city,Colombia,Cordoba,Tierralta,Tierralta,8.171571,-76.062313
+Colombia-Cordoba-Tuchin,city,Colombia,Cordoba,Tuchin,Tuchin,9.18719,-75.55416
+Colombia-Cordoba-Valencia,city,Colombia,Cordoba,Valencia,Valencia,8.2567869,-76.147936
+Colombia-Cundinamarca-Agua_De_Dios,city,Colombia,Cundinamarca,Agua De Dios,Agua De Dios,4.376688,-74.6698
+Colombia-Cundinamarca-Alban,city,Colombia,Cundinamarca,Alban,Alban,4.876247999999999,-74.437772
+Colombia-Cundinamarca-Anapoima,city,Colombia,Cundinamarca,Anapoima,Anapoima,4.548941999999999,-74.535235
+Colombia-Cundinamarca-Anolaima,city,Colombia,Cundinamarca,Anolaima,Anolaima,4.761737999999999,-74.464018
+Colombia-Cundinamarca-Arbelaez,city,Colombia,Cundinamarca,Arbelaez,Arbelaez,4.272793,-74.41601399999999
+Colombia-Cundinamarca-Beltran,city,Colombia,Cundinamarca,Beltran,Beltran,4.800984,-74.740943
+Colombia-Cundinamarca-Bituima,city,Colombia,Cundinamarca,Bituima,Bituima,4.87282,-74.53981999999999
+Colombia-Cundinamarca-Bojaca,city,Colombia,Cundinamarca,Bojaca,Bojaca,4.732618,-74.341776
+Colombia-Cundinamarca-Cabrera,city,Colombia,Cundinamarca,Cabrera,Cabrera,3.98479,-74.48418099999999
+Colombia-Cundinamarca-Cachipay,city,Colombia,Cundinamarca,Cachipay,Cachipay,5.26674,-74.56672
+Colombia-Cundinamarca-Cajica,city,Colombia,Cundinamarca,Cajica,Cajica,4.917530999999999,-74.024773
+Colombia-Cundinamarca-Caparrapi,city,Colombia,Cundinamarca,Caparrapi,Caparrapi,5.345645,-74.49081
+Colombia-Cundinamarca-Caqueza,city,Colombia,Cundinamarca,Caqueza,Caqueza,4.4056369,-73.946686
+Colombia-Cundinamarca-Carmen_De_Carupa,city,Colombia,Cundinamarca,Carmen De Carupa,Carmen De Carupa,5.349094,-73.901353
+Colombia-Cundinamarca-Chaguani,city,Colombia,Cundinamarca,Chaguani,Chaguani,4.949600999999999,-74.593836
+Colombia-Cundinamarca-Chia,city,Colombia,Cundinamarca,Chia,Chia,4.8615787,-74.0325368
+Colombia-Cundinamarca-Chipaque,city,Colombia,Cundinamarca,Chipaque,Chipaque,4.4431839,-74.045
+Colombia-Cundinamarca-Choachi,city,Colombia,Cundinamarca,Choachi,Choachi,4.528659,-73.922968
+Colombia-Cundinamarca-Choconta,city,Colombia,Cundinamarca,Choconta,Choconta,5.1473639,-73.685875
+Colombia-Cundinamarca-Cogua,city,Colombia,Cundinamarca,Cogua,Cogua,5.061241,-73.97640799999999
+Colombia-Cundinamarca-Cota,city,Colombia,Cundinamarca,Cota,Cota,4.809271,-74.10312100000002
+Colombia-Cundinamarca-Cucunuba,city,Colombia,Cundinamarca,Cucunuba,Cucunuba,5.250513000000001,-73.766863
+Colombia-Cundinamarca-El_Colegio,city,Colombia,Cundinamarca,El Colegio,El Colegio,4.58473,-74.94942
+Colombia-Cundinamarca-El_Penon,city,Colombia,Cundinamarca,El Penon,El Penon,6.223611,-75.178333
+Colombia-Cundinamarca-El_Rosal,city,Colombia,Cundinamarca,El Rosal,El Rosal,4.852250000000001,-74.26482399999999
+Colombia-Cundinamarca-Facatativa,city,Colombia,Cundinamarca,Facatativa,Facatativa,4.809984,-74.35400899999999
+Colombia-Cundinamarca-Fomeque,city,Colombia,Cundinamarca,Fomeque,Fomeque,4.486748,-73.895359
+Colombia-Cundinamarca-Fosca,city,Colombia,Cundinamarca,Fosca,Fosca,4.338952,-73.938919
+Colombia-Cundinamarca-Funza,city,Colombia,Cundinamarca,Funza,Funza,4.717029,-74.21225
+Colombia-Cundinamarca-Fuquene,city,Colombia,Cundinamarca,Fuquene,Fuquene,5.403917,-73.79557199999999
+Colombia-Cundinamarca-Fusagasuga,city,Colombia,Cundinamarca,Fusagasuga,Fusagasuga,4.345152,-74.361823
+Colombia-Cundinamarca-Gachala,city,Colombia,Cundinamarca,Gachala,Gachala,4.693039,-73.51997
+Colombia-Cundinamarca-Gachancipa,city,Colombia,Cundinamarca,Gachancipa,Gachancipa,4.9918699,-73.87075999999999
+Colombia-Cundinamarca-Gacheta,city,Colombia,Cundinamarca,Gacheta,Gacheta,4.816972,-73.63630599999999
+Colombia-Cundinamarca-Gama,city,Colombia,Cundinamarca,Gama,Gama,4.762033,-73.610321
+Colombia-Cundinamarca-Girardot,city,Colombia,Cundinamarca,Girardot,Girardot,4.3045959,-74.8031414
+Colombia-Cundinamarca-Granada,city,Colombia,Cundinamarca,Granada,Granada,3.544831,-73.705281
+Colombia-Cundinamarca-Guacheta,city,Colombia,Cundinamarca,Guacheta,Guacheta,5.383674999999999,-73.686939
+Colombia-Cundinamarca-Guaduas,city,Colombia,Cundinamarca,Guaduas,Guaduas,5.067291,-74.595361
+Colombia-Cundinamarca-Guasca,city,Colombia,Cundinamarca,Guasca,Guasca,4.867236,-73.877402
+Colombia-Cundinamarca-Guataqui,city,Colombia,Cundinamarca,Guataqui,Guataqui,4.517444,-74.790311
+Colombia-Cundinamarca-Guatavita,city,Colombia,Cundinamarca,Guatavita,Guatavita,4.934487,-73.83364399999999
+Colombia-Cundinamarca-Guayabal_De_Siquima,city,Colombia,Cundinamarca,Guayabal De Siquima,Guayabal De Siquima,4.878323,-74.467283
+Colombia-Cundinamarca-Guayabetal,city,Colombia,Cundinamarca,Guayabetal,Guayabetal,4.2157,-73.81475999999999
+Colombia-Cundinamarca-Gutierrez,city,Colombia,Cundinamarca,Gutierrez,Gutierrez,4.255066,-74.00276699999999
+Colombia-Cundinamarca-Jerusalen,city,Colombia,Cundinamarca,Jerusalen,Jerusalen,4.563292,-74.693204
+Colombia-Cundinamarca-Junin,city,Colombia,Cundinamarca,Junin,Junin,4.791028,-73.663027
+Colombia-Cundinamarca-La_Calera,city,Colombia,Cundinamarca,La Calera,La Calera,4.720521,-73.968631
+Colombia-Cundinamarca-La_Mesa,city,Colombia,Cundinamarca,La Mesa,La Mesa,4.632147,-74.46301400000002
+Colombia-Cundinamarca-La_Palma,city,Colombia,Cundinamarca,La Palma,La Palma,5.358433,-74.390683
+Colombia-Cundinamarca-La_Pena,city,Colombia,Cundinamarca,La Pena,La Pena,5.200607799999999,-74.39320090000001
+Colombia-Cundinamarca-La_Vega,city,Colombia,Cundinamarca,La Vega,La Vega,5.000528,-74.339439
+Colombia-Cundinamarca-Lenguazaque,city,Colombia,Cundinamarca,Lenguazaque,Lenguazaque,5.3068989,-73.711727
+Colombia-Cundinamarca-Macheta,city,Colombia,Cundinamarca,Macheta,Macheta,5.081005999999999,-73.608052
+Colombia-Cundinamarca-Madrid,city,Colombia,Cundinamarca,Madrid,Madrid,4.733779,-74.2627569
+Colombia-Cundinamarca-Manta,city,Colombia,Cundinamarca,Manta,Manta,5.009443999999999,-73.539987
+Colombia-Cundinamarca-Medina,city,Colombia,Cundinamarca,Medina,Medina,4.508399,-73.349853
+Colombia-Cundinamarca-Mosquera,city,Colombia,Cundinamarca,Mosquera,Mosquera,4.706035,-74.23010099999999
+Colombia-Cundinamarca-Narino,city,Colombia,Cundinamarca,Narino,Narino,1.289151,-77.35794000000001
+Colombia-Cundinamarca-Nemocon,city,Colombia,Cundinamarca,Nemocon,Nemocon,5.066968999999999,-73.880696
+Colombia-Cundinamarca-Nilo,city,Colombia,Cundinamarca,Nilo,Nilo,4.307339,-74.619935
+Colombia-Cundinamarca-Nimaima,city,Colombia,Cundinamarca,Nimaima,Nimaima,5.12645,-74.38555
+Colombia-Cundinamarca-Nocaima,city,Colombia,Cundinamarca,Nocaima,Nocaima,5.069434999999999,-74.38030499999999
+Colombia-Cundinamarca-Venecia,city,Colombia,Cundinamarca,Venecia,Venecia,5.963962,-75.735417
+Colombia-Cundinamarca-Pacho,city,Colombia,Cundinamarca,Pacho,Pacho,5.137918,-74.152868
+Colombia-Cundinamarca-Paime,city,Colombia,Cundinamarca,Paime,Paime,5.370625,-74.152796
+Colombia-Cundinamarca-Pandi,city,Colombia,Cundinamarca,Pandi,Pandi,4.19065,-74.486751
+Colombia-Cundinamarca-Paratebueno,city,Colombia,Cundinamarca,Paratebueno,Paratebueno,4.376587,-73.209608
+Colombia-Cundinamarca-Pasca,city,Colombia,Cundinamarca,Pasca,Pasca,4.308498,-74.299995
+Colombia-Cundinamarca-Puerto_Salgar,city,Colombia,Cundinamarca,Puerto Salgar,Puerto Salgar,5.467414,-74.652693
+Colombia-Cundinamarca-Puli,city,Colombia,Cundinamarca,Puli,Puli,4.6825979,-74.713599
+Colombia-Cundinamarca-Quebradanegra,city,Colombia,Cundinamarca,Quebradanegra,Quebradanegra,5.117721,-74.479244
+Colombia-Cundinamarca-Quetame,city,Colombia,Cundinamarca,Quetame,Quetame,4.32998,-73.86318299999999
+Colombia-Cundinamarca-Quipile,city,Colombia,Cundinamarca,Quipile,Quipile,4.74257,-74.56210999999999
+Colombia-Cundinamarca-Apulo,city,Colombia,Cundinamarca,Apulo,Apulo,4.521301999999999,-74.593706
+Colombia-Cundinamarca-Rafael_Reyes_Apulo,city,Colombia,Cundinamarca,Rafael Reyes Apulo,Rafael Reyes Apulo,4.52055,-74.5938199
+Colombia-Cundinamarca-Ricaurte,city,Colombia,Cundinamarca,Ricaurte,Ricaurte,4.277309,-74.77230500000002
+Colombia-Cundinamarca-San_Antonio_Del_Tequendama,city,Colombia,Cundinamarca,San Antonio Del Tequendama,San Antonio Del Tequendama,4.6162489,-74.35214909999999
+Colombia-Cundinamarca-San_Bernardo,city,Colombia,Cundinamarca,San Bernardo,San Bernardo,9.7197222,-75.78277779999999
+Colombia-Cundinamarca-San_Cayetano,city,Colombia,Cundinamarca,San Cayetano,San Cayetano,5.301222,-74.06970199999999
+Colombia-Cundinamarca-San_Francisco,city,Colombia,Cundinamarca,San Francisco,San Francisco,4.974252,-74.291386
+Colombia-Cundinamarca-San_Juan_De_Rio_Seco,city,Colombia,Cundinamarca,San Juan De Rio Seco,San Juan De Rio Seco,4.846890999999999,-74.622303
+Colombia-Cundinamarca-Sasaima,city,Colombia,Cundinamarca,Sasaima,Sasaima,4.963945000000001,-74.43404199999999
+Colombia-Cundinamarca-Sesquile,city,Colombia,Cundinamarca,Sesquile,Sesquile,5.045268,-73.796925
+Colombia-Cundinamarca-Sibate,city,Colombia,Cundinamarca,Sibate,Sibate,4.485011,-74.259334
+Colombia-Cundinamarca-Silvania,city,Colombia,Cundinamarca,Silvania,Silvania,4.390779999999999,-74.396782
+Colombia-Cundinamarca-Simijaca,city,Colombia,Cundinamarca,Simijaca,Simijaca,5.503838,-73.85197099999999
+Colombia-Cundinamarca-Soacha,city,Colombia,Cundinamarca,Soacha,Soacha,4.5827227,-74.21174649999999
+Colombia-Cundinamarca-Sopo,city,Colombia,Cundinamarca,Sopo,Sopo,4.908732,-73.9410709
+Colombia-Cundinamarca-Subachoque,city,Colombia,Cundinamarca,Subachoque,Subachoque,4.929001,-74.172465
+Colombia-Cundinamarca-Suesca,city,Colombia,Cundinamarca,Suesca,Suesca,5.103929,-73.798632
+Colombia-Cundinamarca-Supata,city,Colombia,Cundinamarca,Supata,Supata,5.061607,-74.235546
+Colombia-Cundinamarca-Susa,city,Colombia,Cundinamarca,Susa,Susa,5.455099,-73.814707
+Colombia-Cundinamarca-Sutatausa,city,Colombia,Cundinamarca,Sutatausa,Sutatausa,5.247294999999999,-73.852667
+Colombia-Cundinamarca-Tabio,city,Colombia,Cundinamarca,Tabio,Tabio,4.916962,-74.096358
+Colombia-Cundinamarca-Tausa,city,Colombia,Cundinamarca,Tausa,Tausa,5.196181999999999,-73.8865409
+Colombia-Cundinamarca-Tena,city,Colombia,Cundinamarca,Tena,Tena,4.655622999999999,-74.38957599999999
+Colombia-Cundinamarca-Tenjo,city,Colombia,Cundinamarca,Tenjo,Tenjo,4.871884,-74.145663
+Colombia-Cundinamarca-Tibacuy,city,Colombia,Cundinamarca,Tibacuy,Tibacuy,4.347837,-74.45254
+Colombia-Cundinamarca-Tibirita,city,Colombia,Cundinamarca,Tibirita,Tibirita,5.052433,-73.5046459
+Colombia-Cundinamarca-Tocaima,city,Colombia,Cundinamarca,Tocaima,Tocaima,4.457055,-74.633923
+Colombia-Cundinamarca-Tocancipa,city,Colombia,Cundinamarca,Tocancipa,Tocancipa,4.965002,-73.9108229
+Colombia-Cundinamarca-Topaipi,city,Colombia,Cundinamarca,Topaipi,Topaipi,5.335775000000001,-74.301474
+Colombia-Cundinamarca-Ubala,city,Colombia,Cundinamarca,Ubala,Ubala,4.743647,-73.534989
+Colombia-Cundinamarca-Ubaque,city,Colombia,Cundinamarca,Ubaque,Ubaque,4.482842,-73.93468
+Colombia-Cundinamarca-Villa_De_San_Diego_De_Ubate,city,Colombia,Cundinamarca,Villa De San Diego De Ubate,Villa De San Diego De Ubate,5.312024,-73.81822199999999
+Colombia-Cundinamarca-Une,city,Colombia,Cundinamarca,Une,Une,4.402585,-74.025384
+Colombia-Cundinamarca-Utica,city,Colombia,Cundinamarca,Utica,Utica,5.187784,-74.48145699999999
+Colombia-Cundinamarca-Vergara,city,Colombia,Cundinamarca,Vergara,Vergara,5.118232,-74.34495299999999
+Colombia-Cundinamarca-Viani,city,Colombia,Cundinamarca,Viani,Viani,4.875749,-74.56051699999999
+Colombia-Cundinamarca-Villagomez,city,Colombia,Cundinamarca,Villagomez,Villagomez,5.2733,-74.19516899999999
+Colombia-Cundinamarca-Villapinzon,city,Colombia,Cundinamarca,Villapinzon,Villapinzon,5.215209,-73.5946249
+Colombia-Cundinamarca-Villeta,city,Colombia,Cundinamarca,Villeta,Villeta,5.011706,-74.470362
+Colombia-Cundinamarca-Viota,city,Colombia,Cundinamarca,Viota,Viota,4.438829,-74.52239399999999
+Colombia-Cundinamarca-Yacopi,city,Colombia,Cundinamarca,Yacopi,Yacopi,5.460014,-74.33852399999999
+Colombia-Cundinamarca-Zipacon,city,Colombia,Cundinamarca,Zipacon,Zipacon,4.759634,-74.38004900000001
+Colombia-Cundinamarca-Zipaquira,city,Colombia,Cundinamarca,Zipaquira,Zipaquira,5.021476,-73.990955
+Colombia-Choco-Quibdo,city,Colombia,Choco,Quibdo,Quibdo,5.695633,-76.649812
+Colombia-Choco-Acandi,city,Colombia,Choco,Acandi,Acandi,8.510109,-77.27897999999999
+Colombia-Choco-Alto_Baudo,city,Colombia,Choco,Alto Baudo,Alto Baudo,5.516347,-76.974502
+Colombia-Choco-Atrato,city,Colombia,Choco,Atrato,Atrato,10.0666499,-74.20003
+Colombia-Choco-Bagado,city,Colombia,Choco,Bagado,Bagado,5.41139,-76.416372
+Colombia-Choco-Bahia_Solano,city,Colombia,Choco,Bahia Solano,Bahia Solano,6.222551999999999,-77.40115399999999
+Colombia-Choco-Bajo_Baudo,city,Colombia,Choco,Bajo Baudo,Bajo Baudo,5.3442678,-77.2864879
+Colombia-Choco-Belen_De_Bajira,city,Colombia,Choco,Belen De Bajira,Belen De Bajira,7.371378,-76.714705
+Colombia-Choco-Bojaya,city,Colombia,Choco,Bojaya,Bojaya,6.4971459,-77.10249019999999
+Colombia-Choco-El_Canton_Del_San_Pablo,city,Colombia,Choco,El Canton Del San Pablo,El Canton Del San Pablo,5.33893,-76.73137
+Colombia-Choco-Carmen_Del_Darien,city,Colombia,Choco,Carmen Del Darien,Carmen Del Darien,5.6881992,-76.6513374
+Colombia-Choco-Certegui,city,Colombia,Choco,Certegui,Certegui,5.40004,-76.60002999999999
+Colombia-Choco-Condoto,city,Colombia,Choco,Condoto,Condoto,5.089545999999999,-76.652079
+Colombia-Choco-El_Carmen_De_Atrato,city,Colombia,Choco,El Carmen De Atrato,El Carmen De Atrato,5.900621,-76.14219899999999
+Colombia-Choco-El_Litoral_Del_San_Juan,city,Colombia,Choco,El Litoral Del San Juan,El Litoral Del San Juan,4.2006777,-76.7336521
+Colombia-Choco-Istmina,city,Colombia,Choco,Istmina,Istmina,5.157788,-76.68754
+Colombia-Choco-Jurado,city,Colombia,Choco,Jurado,Jurado,7.102626,-77.762046
+Colombia-Choco-Lloro,city,Colombia,Choco,Lloro,Lloro,5.504209899999999,-76.53144999999999
+Colombia-Choco-Medio_Atrato,city,Colombia,Choco,Medio Atrato,Medio Atrato,5.989716400000001,-76.7336521
+Colombia-Choco-Medio_Baudo,city,Colombia,Choco,Medio Baudo,Medio Baudo,5.1334095,-76.964306
+Colombia-Choco-Medio_San_Juan,city,Colombia,Choco,Medio San Juan,Medio San Juan,4.570868,-74.297333
+Colombia-Choco-Novita,city,Colombia,Choco,Novita,Novita,4.956167,-76.60734900000001
+Colombia-Choco-Nuqui,city,Colombia,Choco,Nuqui,Nuqui,5.709563,-77.2666969
+Colombia-Choco-Rio_Iro,city,Colombia,Choco,Rio Iro,Rio Iro,5.129023,-76.6181398
+Colombia-Choco-Rio_Quito,city,Colombia,Choco,Rio Quito,Rio Quito,5.5380856,-76.7798172
+Colombia-Choco-Riosucio,city,Colombia,Choco,Riosucio,Riosucio,5.420683899999999,-75.705388
+Colombia-Choco-San_Jose_Del_Palmar,city,Colombia,Choco,San Jose Del Palmar,San Jose Del Palmar,4.97262,-76.22922
+Colombia-Choco-Sipi,city,Colombia,Choco,Sipi,Sipi,4.65306,-76.64417
+Colombia-Choco-Tado,city,Colombia,Choco,Tado,Tado,5.2649419,-76.55943300000001
+Colombia-Choco-Unguia,city,Colombia,Choco,Unguia,Unguia,8.04668,-77.093232
+Colombia-Choco-Union_Panamericana,city,Colombia,Choco,Union Panamericana,Union Panamericana,5.30648,-76.64542999999999
+Colombia-Huila-Neiva,city,Colombia,Huila,Neiva,Neiva,2.9344837,-75.2809001
+Colombia-Huila-Acevedo,city,Colombia,Huila,Acevedo,Acevedo,1.805165,-75.88834
+Colombia-Huila-Agrado,city,Colombia,Huila,Agrado,Agrado,2.260441,-75.7714139
+Colombia-Huila-Aipe,city,Colombia,Huila,Aipe,Aipe,3.222095,-75.241066
+Colombia-Huila-Algeciras,city,Colombia,Huila,Algeciras,Algeciras,2.523477,-75.3156939
+Colombia-Huila-Altamira,city,Colombia,Huila,Altamira,Altamira,2.063112,-75.787545
+Colombia-Huila-Baraya,city,Colombia,Huila,Baraya,Baraya,3.151685,-75.054209
+Colombia-Huila-Campoalegre,city,Colombia,Huila,Campoalegre,Campoalegre,2.6851058,-75.3266416
+Colombia-Huila-Colombia,city,Colombia,Huila,Colombia,Colombia,4.570868,-74.297333
+Colombia-Huila-Elias,city,Colombia,Huila,Elias,Elias,2.013818,-75.9373449
+Colombia-Huila-Garzon,city,Colombia,Huila,Garzon,Garzon,2.195403,-75.6274679
+Colombia-Huila-Gigante,city,Colombia,Huila,Gigante,Gigante,2.384507,-75.54288799999999
+Colombia-Huila-Guadalupe,city,Colombia,Huila,Guadalupe,Guadalupe,6.246048999999999,-73.418739
+Colombia-Huila-Hobo,city,Colombia,Huila,Hobo,Hobo,2.582523,-75.4498009
+Colombia-Huila-Iquira,city,Colombia,Huila,Iquira,Iquira,2.649516,-75.635076
+Colombia-Huila-Isnos,city,Colombia,Huila,Isnos,Isnos,1.932389,-76.214046
+Colombia-Huila-La_Argentina,city,Colombia,Huila,La Argentina,La Argentina,2.198444,-75.978781
+Colombia-Huila-La_Plata,city,Colombia,Huila,La Plata,La Plata,2.389011,-75.8942469
+Colombia-Huila-Nataga,city,Colombia,Huila,Nataga,Nataga,2.546186,-75.80924499999999
+Colombia-Huila-Oporapa,city,Colombia,Huila,Oporapa,Oporapa,2.0259109,-75.99496400000001
+Colombia-Huila-Paicol,city,Colombia,Huila,Paicol,Paicol,2.449478,-75.77291699999999
+Colombia-Huila-Palermo,city,Colombia,Huila,Palermo,Palermo,2.886246,-75.433419
+Colombia-Huila-Palestina,city,Colombia,Huila,Palestina,Palestina,5.02022,-75.62281
+Colombia-Huila-Pital,city,Colombia,Huila,Pital,Pital,2.266733,-75.803848
+Colombia-Huila-Pitalito,city,Colombia,Huila,Pitalito,Pitalito,1.85298,-76.048869
+Colombia-Huila-Rivera,city,Colombia,Huila,Rivera,Rivera,2.777781,-75.2594359
+Colombia-Huila-Saladoblanco,city,Colombia,Huila,Saladoblanco,Saladoblanco,1.993097,-76.04361399999999
+Colombia-Huila-San_Agustin,city,Colombia,Huila,San Agustin,San Agustin,1.879826,-76.270749
+Colombia-Huila-Santa_Maria,city,Colombia,Huila,Santa Maria,Santa Maria,11.2403547,-74.2110227
+Colombia-Huila-Suaza,city,Colombia,Huila,Suaza,Suaza,1.97688,-75.79497099999999
+Colombia-Huila-Tarqui,city,Colombia,Huila,Tarqui,Tarqui,2.112437,-75.823483
+Colombia-Huila-Tesalia,city,Colombia,Huila,Tesalia,Tesalia,2.485427,-75.727318
+Colombia-Huila-Tello,city,Colombia,Huila,Tello,Tello,3.0673499,-75.1381059
+Colombia-Huila-Teruel,city,Colombia,Huila,Teruel,Teruel,2.741117,-75.56850299999999
+Colombia-Huila-Timana,city,Colombia,Huila,Timana,Timana,1.974415,-75.932847
+Colombia-Huila-Villavieja,city,Colombia,Huila,Villavieja,Villavieja,3.218357,-75.21755999999999
+Colombia-Huila-Yaguara,city,Colombia,Huila,Yaguara,Yaguara,2.664454000000001,-75.518334
+Colombia-Guajira-Riohacha,city,Colombia,Guajira,Riohacha,Riohacha,11.5384151,-72.91678379999999
+Colombia-Guajira-Albania,city,Colombia,Guajira,Albania,Albania,11.160651,-72.59190699999999
+Colombia-Guajira-Barrancas,city,Colombia,Guajira,Barrancas,Barrancas,10.9556419,-72.795543
+Colombia-Guajira-Dibulla,city,Colombia,Guajira,Dibulla,Dibulla,11.272426,-73.30933700000001
+Colombia-Guajira-Distraccion,city,Colombia,Guajira,Distraccion,Distraccion,10.89732,-72.88412
+Colombia-Guajira-El_Molino,city,Colombia,Guajira,El Molino,El Molino,10.6524699,-72.92527
+Colombia-Guajira-Fonseca,city,Colombia,Guajira,Fonseca,Fonseca,10.886123,-72.85151499999999
+Colombia-Guajira-Hatonuevo,city,Colombia,Guajira,Hatonuevo,Hatonuevo,11.066345,-72.762546
+Colombia-Guajira-La_Jagua_Del_Pilar,city,Colombia,Guajira,La Jagua Del Pilar,La Jagua Del Pilar,10.5089602,-73.0715178
+Colombia-Guajira-Maicao,city,Colombia,Guajira,Maicao,Maicao,11.3789335,-72.2485171
+Colombia-Guajira-Manaure,city,Colombia,Guajira,Manaure,Manaure,11.772778,-72.444227
+Colombia-Guajira-San_Juan_Del_Cesar,city,Colombia,Guajira,San Juan Del Cesar,San Juan Del Cesar,10.7698637,-73.0021534
+Colombia-Guajira-Uribia,city,Colombia,Guajira,Uribia,Uribia,11.7149978,-72.26593910000001
+Colombia-Guajira-Urumita,city,Colombia,Guajira,Urumita,Urumita,10.559313,-73.013282
+Colombia-Guajira-Villanueva,city,Colombia,Guajira,Villanueva,Villanueva,10.603721,-72.98193599999999
+Colombia-Sta_Marta_DE-Santa_Marta,city,Colombia,Sta Marta DE,Santa Marta,Santa Marta,11.2403547,-74.2110227
+Colombia-Magdalena-Sitio_Nuevo,city,Colombia,Magdalena,Sitio Nuevo,Sitio Nuevo,10.77525,-74.71955
+Colombia-Magdalena-Algarrobo,city,Colombia,Magdalena,Algarrobo,Algarrobo,10.10004,-74.26662999999999
+Colombia-Magdalena-Aracataca,city,Colombia,Magdalena,Aracataca,Aracataca,10.591925,-74.186103
+Colombia-Magdalena-Ariguani,city,Colombia,Magdalena,Ariguani,Ariguani,9.844197,-74.22811899999999
+Colombia-Magdalena-Cerro_San_Antonio,city,Colombia,Magdalena,Cerro San Antonio,Cerro San Antonio,10.327095,-74.868681
+Colombia-Magdalena-Chibolo,city,Colombia,Magdalena,Chibolo,Chibolo,10.02812,-74.62157499999999
+Colombia-Magdalena-Cienaga,city,Colombia,Magdalena,Cienaga,Cienaga,11.007984,-74.248926
+Colombia-Magdalena-Concordia,city,Colombia,Magdalena,Concordia,Concordia,6.044979,-75.908354
+Colombia-Magdalena-El_Banco,city,Colombia,Magdalena,El Banco,El Banco,9.003506999999999,-73.97386399999999
+Colombia-Magdalena-El_Pinon,city,Colombia,Magdalena,El Pinon,El Pinon,10.404038,-74.823769
+Colombia-Magdalena-El_Reten,city,Colombia,Magdalena,El Reten,El Reten,10.611793,-74.26938299999999
+Colombia-Magdalena-Fundacion,city,Colombia,Magdalena,Fundacion,Fundacion,10.517179,-74.1819979
+Colombia-Magdalena-Guamal,city,Colombia,Magdalena,Guamal,Guamal,9.144527,-74.22629400000001
+Colombia-Magdalena-Nueva_Granada,city,Colombia,Magdalena,Nueva Granada,Nueva Granada,9.805783,-74.392253
+Colombia-Magdalena-Pedraza,city,Colombia,Magdalena,Pedraza,Pedraza,10.1884029,-74.916397
+Colombia-Magdalena-Pijino_Del_Carmen,city,Colombia,Magdalena,Pijino Del Carmen,Pijino Del Carmen,9.3302391,-74.4532954
+Colombia-Magdalena-Pivijay,city,Colombia,Magdalena,Pivijay,Pivijay,10.461181,-74.614654
+Colombia-Magdalena-Plato,city,Colombia,Magdalena,Plato,Plato,9.791337,-74.7975249
+Colombia-Magdalena-Puebloviejo,city,Colombia,Magdalena,Puebloviejo,Puebloviejo,10.992353,-74.284038
+Colombia-Magdalena-Remolino,city,Colombia,Magdalena,Remolino,Remolino,10.701732,-74.7163829
+Colombia-Magdalena-Sabanas_De_San_Angel,city,Colombia,Magdalena,Sabanas De San Angel,Sabanas De San Angel,10.0297699,-74.21531
+Colombia-Magdalena-Salamina,city,Colombia,Magdalena,Salamina,Salamina,5.402354,-75.486468
+Colombia-Magdalena-San_Sebastian_De_Buenavista,city,Colombia,Magdalena,San Sebastian De Buenavista,San Sebastian De Buenavista,9.240300999999999,-74.351193
+Colombia-Magdalena-San_Zenon,city,Colombia,Magdalena,San Zenon,San Zenon,9.245740999999999,-74.4991189
+Colombia-Magdalena-Santa_Ana,city,Colombia,Magdalena,Santa Ana,Santa Ana,9.322961,-74.570544
+Colombia-Magdalena-Santa_Barbara_De_Pinto,city,Colombia,Magdalena,Santa Barbara De Pinto,Santa Barbara De Pinto,9.43234,-74.70492999999999
+Colombia-Magdalena-Sitionuevo,city,Colombia,Magdalena,Sitionuevo,Sitionuevo,10.77525,-74.71955
+Colombia-Magdalena-Tenerife,city,Colombia,Magdalena,Tenerife,Tenerife,9.898413,-74.858425
+Colombia-Magdalena-Zapayan,city,Colombia,Magdalena,Zapayan,Zapayan,2.4448143,-76.6147395
+Colombia-Magdalena-Zona_Bananera,city,Colombia,Magdalena,Zona Bananera,Zona Bananera,10.7922447,-74.1709702
+Colombia-Meta-Villavicencio,city,Colombia,Meta,Villavicencio,Villavicencio,4.1513822,-73.63769049999999
+Colombia-Meta-Acacias,city,Colombia,Meta,Acacias,Acacias,3.991663,-73.76612899999999
+Colombia-Meta-Barranca_De_Upia,city,Colombia,Meta,Barranca De Upia,Barranca De Upia,4.567588000000001,-72.966577
+Colombia-Meta-Cabuyaro,city,Colombia,Meta,Cabuyaro,Cabuyaro,4.284528,-72.7923129
+Colombia-Meta-Castilla_La_Nueva,city,Colombia,Meta,Castilla La Nueva,Castilla La Nueva,3.827834,-73.690164
+Colombia-Meta-Cubarral,city,Colombia,Meta,Cubarral,Cubarral,3.766667,-73.833333
+Colombia-Meta-Cumaral,city,Colombia,Meta,Cumaral,Cumaral,4.271262,-73.48805200000001
+Colombia-Meta-El_Calvario,city,Colombia,Meta,El Calvario,El Calvario,4.352332,-73.712966
+Colombia-Meta-El_Castillo,city,Colombia,Meta,El Castillo,El Castillo,6.190501900000001,-75.5727914
+Colombia-Meta-El_Dorado,city,Colombia,Meta,El Dorado,El Dorado,4.7014128,-74.1444969
+Colombia-Meta-Fuente_De_Oro,city,Colombia,Meta,Fuente De Oro,Fuente De Oro,3.462502,-73.619979
+Colombia-Meta-Granada,city,Colombia,Meta,Granada,Granada,3.544831,-73.705281
+Colombia-Meta-Guamal,city,Colombia,Meta,Guamal,Guamal,9.144527,-74.22629400000001
+Colombia-Meta-Mapiripan,city,Colombia,Meta,Mapiripan,Mapiripan,2.892506,-72.13317500000001
+Colombia-Meta-Mesetas,city,Colombia,Meta,Mesetas,Mesetas,3.381995,-74.043801
+Colombia-Meta-La_Macarena,city,Colombia,Meta,La Macarena,La Macarena,2.181718,-73.78645
+Colombia-Meta-Uribe,city,Colombia,Meta,Uribe,Uribe,3.239241,-74.350661
+Colombia-Meta-Lejanias,city,Colombia,Meta,Lejanias,Lejanias,3.526086,-74.024393
+Colombia-Meta-Puerto_Concordia,city,Colombia,Meta,Puerto Concordia,Puerto Concordia,2.6236449,-72.75623399999999
+Colombia-Meta-Puerto_Gaitan,city,Colombia,Meta,Puerto Gaitan,Puerto Gaitan,4.312977,-72.083573
+Colombia-Meta-Puerto_Lopez,city,Colombia,Meta,Puerto Lopez,Puerto Lopez,4.091354,-72.955918
+Colombia-Meta-Puerto_Lleras,city,Colombia,Meta,Puerto Lleras,Puerto Lleras,3.272414,-73.369542
+Colombia-Meta-Puerto_Rico,city,Colombia,Meta,Puerto Rico,Puerto Rico,1.909918,-75.157235
+Colombia-Meta-Restrepo,city,Colombia,Meta,Restrepo,Restrepo,3.82172,-76.52047
+Colombia-Meta-San_Carlos_De_Guaroa,city,Colombia,Meta,San Carlos De Guaroa,San Carlos De Guaroa,3.710353,-73.24192099999999
+Colombia-Meta-San_Juan_De_Arama,city,Colombia,Meta,San Juan De Arama,San Juan De Arama,3.34645,-73.88941
+Colombia-Meta-San_Juanito,city,Colombia,Meta,San Juanito,San Juanito,4.457915,-73.6761889
+Colombia-Meta-San_Martin,city,Colombia,Meta,San Martin,San Martin,3.698492,-73.697308
+Colombia-Meta-Vistahermosa,city,Colombia,Meta,Vistahermosa,Vistahermosa,3.127883,-73.752512
+Colombia-Narino-Pasto,city,Colombia,Narino,Pasto,Pasto,1.2058837,-77.285787
+Colombia-Narino-Alban,city,Colombia,Narino,Alban,Alban,4.876247999999999,-74.437772
+Colombia-Narino-Aldana,city,Colombia,Narino,Aldana,Aldana,0.882544,-77.700425
+Colombia-Narino-Ancuya,city,Colombia,Narino,Ancuya,Ancuya,1.26295,-77.515158
+Colombia-Narino-Arboleda,city,Colombia,Narino,Arboleda,Arboleda,1.3666799,-77.41669999999999
+Colombia-Narino-Barbacoas,city,Colombia,Narino,Barbacoas,Barbacoas,1.67155,-78.14099
+Colombia-Narino-Belen,city,Colombia,Narino,Belen,Belen,6.231928,-75.60116719999999
+Colombia-Narino-Buesaco,city,Colombia,Narino,Buesaco,Buesaco,1.384512,-77.155676
+Colombia-Narino-Colon,city,Colombia,Narino,Colon,Colon,1.190067,-76.97286299999999
+Colombia-Narino-Consaca,city,Colombia,Narino,Consaca,Consaca,1.207624,-77.46565799999999
+Colombia-Narino-Contadero,city,Colombia,Narino,Contadero,Contadero,0.9109069999999999,-77.549911
+Colombia-Narino-Cordoba,city,Colombia,Narino,Cordoba,Cordoba,8.049293,-75.57405
+Colombia-Narino-Cuaspud,city,Colombia,Narino,Cuaspud,Cuaspud,0.863262,-77.729755
+Colombia-Narino-Cumbal,city,Colombia,Narino,Cumbal,Cumbal,0.904589,-77.791184
+Colombia-Narino-Cumbitara,city,Colombia,Narino,Cumbitara,Cumbitara,1.67696,-77.3253
+Colombia-Narino-Chachagui,city,Colombia,Narino,Chachagui,Chachagui,1.359869,-77.28284099999999
+Colombia-Narino-El_Charco,city,Colombia,Narino,El Charco,El Charco,2.479311,-78.11021099999999
+Colombia-Narino-El_Penol,city,Colombia,Narino,El Penol,El Penol,6.2199662,-75.2435307
+Colombia-Narino-El_Rosario,city,Colombia,Narino,El Rosario,El Rosario,1.74307,-77.335095
+Colombia-Narino-El_Tablon_De_Gomez,city,Colombia,Narino,El Tablon De Gomez,El Tablon De Gomez,1.427619,-77.097224
+Colombia-Narino-El_Tambo,city,Colombia,Narino,El Tambo,El Tambo,2.452695,-76.81132199999999
+Colombia-Narino-Funes,city,Colombia,Narino,Funes,Funes,1.001167,-77.448926
+Colombia-Narino-Guachucal,city,Colombia,Narino,Guachucal,Guachucal,0.9600719999999999,-77.731133
+Colombia-Narino-Guaitarilla,city,Colombia,Narino,Guaitarilla,Guaitarilla,1.130349,-77.550994
+Colombia-Narino-Gualmatan,city,Colombia,Narino,Gualmatan,Gualmatan,0.9196449999999999,-77.567138
+Colombia-Narino-Iles,city,Colombia,Narino,Iles,Iles,0.9689110000000001,-77.521175
+Colombia-Narino-Imues,city,Colombia,Narino,Imues,Imues,1.054949,-77.49643499999999
+Colombia-Narino-Ipiales,city,Colombia,Narino,Ipiales,Ipiales,0.825542,-77.639504
+Colombia-Narino-La_Cruz,city,Colombia,Narino,La Cruz,La Cruz,1.600678,-76.971119
+Colombia-Narino-La_Florida,city,Colombia,Narino,La Florida,La Florida,1.298637,-77.40441899999999
+Colombia-Narino-La_Llanada,city,Colombia,Narino,La Llanada,La Llanada,1.472852,-77.5798499
+Colombia-Narino-La_Tola,city,Colombia,Narino,La Tola,La Tola,2.399572,-78.189712
+Colombia-Narino-La_Union,city,Colombia,Narino,La Union,La Union,4.5334899,-76.10361600000002
+Colombia-Narino-Leiva,city,Colombia,Narino,Leiva,Leiva,5.636499,-73.527058
+Colombia-Narino-Linares,city,Colombia,Narino,Linares,Linares,1.350933,-77.52387000000002
+Colombia-Narino-Los_Andes,city,Colombia,Narino,Los Andes,Los Andes,4.6014855,-74.06644570000002
+Colombia-Narino-Magsi,city,Colombia,Narino,Magsi,Magsi,4.570868,-74.297333
+Colombia-Narino-Mallama,city,Colombia,Narino,Mallama,Mallama,1.140872,-77.8645669
+Colombia-Narino-Mosquera,city,Colombia,Narino,Mosquera,Mosquera,4.706035,-74.23010099999999
+Colombia-Narino-Narino,city,Colombia,Narino,Narino,Narino,1.289151,-77.35794000000001
+Colombia-Narino-Olaya_Herrera,city,Colombia,Narino,Olaya Herrera,Olaya Herrera,2.347,-78.3672799
+Colombia-Narino-Ospina,city,Colombia,Narino,Ospina,Ospina,1.0595,-77.56554
+Colombia-Narino-Francisco_Pizarro,city,Colombia,Narino,Francisco Pizarro,Francisco Pizarro,2.01292,-78.64453999999999
+Colombia-Narino-Policarpa,city,Colombia,Narino,Policarpa,Policarpa,1.628978,-77.4603659
+Colombia-Narino-Potosi,city,Colombia,Narino,Potosi,Potosi,0.806982,-77.572656
+Colombia-Narino-Providencia,city,Colombia,Narino,Providencia,Providencia,13.3387613,-81.3729372
+Colombia-Narino-Puerres,city,Colombia,Narino,Puerres,Puerres,0.8847229999999999,-77.505809
+Colombia-Narino-Pupiales,city,Colombia,Narino,Pupiales,Pupiales,0.871676,-77.641002
+Colombia-Narino-Ricaurte,city,Colombia,Narino,Ricaurte,Ricaurte,4.277309,-74.77230500000002
+Colombia-Narino-Roberto_Payan,city,Colombia,Narino,Roberto Payan,Roberto Payan,1.718516,-78.25312
+Colombia-Narino-Samaniego,city,Colombia,Narino,Samaniego,Samaniego,1.332614,-77.58615499999999
+Colombia-Narino-Sandona,city,Colombia,Narino,Sandona,Sandona,1.28326,-77.472045
+Colombia-Narino-San_Bernardo,city,Colombia,Narino,San Bernardo,San Bernardo,9.7197222,-75.78277779999999
+Colombia-Narino-San_Lorenzo,city,Colombia,Narino,San Lorenzo,San Lorenzo,5.464719000000001,-75.69425100000001
+Colombia-Narino-San_Pablo,city,Colombia,Narino,San Pablo,San Pablo,7.477887,-73.92410799999999
+Colombia-Narino-San_Pedro_De_Cartago,city,Colombia,Narino,San Pedro De Cartago,San Pedro De Cartago,1.552654,-77.12024
+Colombia-Narino-Santa_Barbara,city,Colombia,Narino,Santa Barbara,Santa Barbara,5.874249,-75.56642099999999
+Colombia-Narino-Santacruz,city,Colombia,Narino,Santacruz,Santacruz,9.785833,-75.859167
+Colombia-Narino-Sapuyes,city,Colombia,Narino,Sapuyes,Sapuyes,1.0373969,-77.619427
+Colombia-Narino-Taminango,city,Colombia,Narino,Taminango,Taminango,1.57049,-77.280727
+Colombia-Narino-Tangua,city,Colombia,Narino,Tangua,Tangua,1.094597,-77.3942409
+Colombia-Narino-San_Andres_De_Tumaco,city,Colombia,Narino,San Andres De Tumaco,San Andres De Tumaco,1.787434,-78.791265
+Colombia-Narino-Tuquerres,city,Colombia,Narino,Tuquerres,Tuquerres,1.085739,-77.618641
+Colombia-Narino-Yacuanquer,city,Colombia,Narino,Yacuanquer,Yacuanquer,1.11567,-77.400055
+Colombia-Norte_Santander-Cucuta,city,Colombia,Norte Santander,Cucuta,Cucuta,7.8890971,-72.4966896
+Colombia-Norte_Santander-Abrego,city,Colombia,Norte Santander,Abrego,Abrego,8.0837905,-73.222916
+Colombia-Norte_Santander-Arboledas,city,Colombia,Norte Santander,Arboledas,Arboledas,7.64323,-72.798862
+Colombia-Norte_Santander-Bochalema,city,Colombia,Norte Santander,Bochalema,Bochalema,7.612039,-72.647352
+Colombia-Norte_Santander-Bucarasica,city,Colombia,Norte Santander,Bucarasica,Bucarasica,8.04081,-72.8680399
+Colombia-Norte_Santander-Cacota,city,Colombia,Norte Santander,Cacota,Cacota,7.268697,-72.642495
+Colombia-Norte_Santander-Cachira,city,Colombia,Norte Santander,Cachira,Cachira,7.741865000000001,-73.04854399999999
+Colombia-Norte_Santander-Chinacota,city,Colombia,Norte Santander,Chinacota,Chinacota,7.600192999999999,-72.60247
+Colombia-Norte_Santander-Chitaga,city,Colombia,Norte Santander,Chitaga,Chitaga,7.137112999999999,-72.66549499999999
+Colombia-Norte_Santander-Convencion,city,Colombia,Norte Santander,Convencion,Convencion,8.470146,-73.337007
+Colombia-Norte_Santander-Cucutilla,city,Colombia,Norte Santander,Cucutilla,Cucutilla,7.539402999999999,-72.77228
+Colombia-Norte_Santander-Durania,city,Colombia,Norte Santander,Durania,Durania,7.714685,-72.6562189
+Colombia-Norte_Santander-El_Carmen,city,Colombia,Norte Santander,El Carmen,El Carmen,8.50874,-73.44879999999999
+Colombia-Norte_Santander-El_Tarra,city,Colombia,Norte Santander,El Tarra,El Tarra,8.57451,-73.09339
+Colombia-Norte_Santander-El_Zulia,city,Colombia,Norte Santander,El Zulia,El Zulia,7.937289,-72.604826
+Colombia-Norte_Santander-Gramalote,city,Colombia,Norte Santander,Gramalote,Gramalote,7.887785999999999,-72.796795
+Colombia-Norte_Santander-Hacari,city,Colombia,Norte Santander,Hacari,Hacari,8.322156999999999,-73.14587399999999
+Colombia-Norte_Santander-Herran,city,Colombia,Norte Santander,Herran,Herran,7.505511,-72.483087
+Colombia-Norte_Santander-Labateca,city,Colombia,Norte Santander,Labateca,Labateca,7.298617999999998,-72.496536
+Colombia-Norte_Santander-La_Esperanza,city,Colombia,Norte Santander,La Esperanza,La Esperanza,7.639570999999999,-73.32753199999999
+Colombia-Norte_Santander-La_Playa,city,Colombia,Norte Santander,La Playa,La Playa,8.214034999999999,-73.237889
+Colombia-Norte_Santander-Los_Patios,city,Colombia,Norte Santander,Los Patios,Los Patios,7.833199,-72.504392
+Colombia-Norte_Santander-Lourdes,city,Colombia,Norte Santander,Lourdes,Lourdes,7.944831,-72.831844
+Colombia-Norte_Santander-Mutiscua,city,Colombia,Norte Santander,Mutiscua,Mutiscua,7.300196,-72.746803
+Colombia-Norte_Santander-Ocana,city,Colombia,Norte Santander,Ocana,Ocana,8.252049999999999,-73.3532199
+Colombia-Norte_Santander-Pamplona,city,Colombia,Norte Santander,Pamplona,Pamplona,7.378229999999999,-72.6503369
+Colombia-Norte_Santander-Pamplonita,city,Colombia,Norte Santander,Pamplonita,Pamplonita,7.437158999999999,-72.63841900000001
+Colombia-Norte_Santander-Puerto_Santander,city,Colombia,Norte Santander,Puerto Santander,Puerto Santander,8.361323,-72.408389
+Colombia-Norte_Santander-Ragonvalia,city,Colombia,Norte Santander,Ragonvalia,Ragonvalia,7.577842999999999,-72.47612099999999
+Colombia-Norte_Santander-Salazar,city,Colombia,Norte Santander,Salazar,Salazar,7.772786,-72.80993699999999
+Colombia-Norte_Santander-San_Calixto,city,Colombia,Norte Santander,San Calixto,San Calixto,8.4015989,-73.2089979
+Colombia-Norte_Santander-San_Cayetano,city,Colombia,Norte Santander,San Cayetano,San Cayetano,5.301222,-74.06970199999999
+Colombia-Norte_Santander-Santiago,city,Colombia,Norte Santander,Santiago,Santiago,1.147148,-77.002405
+Colombia-Norte_Santander-Sardinata,city,Colombia,Norte Santander,Sardinata,Sardinata,8.085092,-72.799937
+Colombia-Norte_Santander-Silos,city,Colombia,Norte Santander,Silos,Silos,7.204823999999999,-72.75699399999999
+Colombia-Norte_Santander-Teorama,city,Colombia,Norte Santander,Teorama,Teorama,8.437521,-73.2869429
+Colombia-Norte_Santander-Tibu,city,Colombia,Norte Santander,Tibu,Tibu,8.642356,-72.73773299999999
+Colombia-Norte_Santander-Toledo,city,Colombia,Norte Santander,Toledo,Toledo,7.307025,-72.48044399999999
+Colombia-Norte_Santander-Villa_Caro,city,Colombia,Norte Santander,Villa Caro,Villa Caro,7.914546,-72.973164
+Colombia-Norte_Santander-Villa_Del_Rosario,city,Colombia,Norte Santander,Villa Del Rosario,Villa Del Rosario,7.8437879,-72.46968970000002
+Colombia-Quindio-Armenia,city,Colombia,Quindio,Armenia,Armenia,4.535000399999999,-75.6756888
+Colombia-Quindio-Buenavista,city,Colombia,Quindio,Buenavista,Buenavista,4.358752,-75.740163
+Colombia-Quindio-Calarca,city,Colombia,Quindio,Calarca,Calarca,4.530357,-75.640402
+Colombia-Quindio-Circasia,city,Colombia,Quindio,Circasia,Circasia,4.616093999999999,-75.635595
+Colombia-Quindio-Cordoba,city,Colombia,Quindio,Cordoba,Cordoba,8.049293,-75.57405
+Colombia-Quindio-Filandia,city,Colombia,Quindio,Filandia,Filandia,4.675762,-75.659359
+Colombia-Quindio-Genova,city,Colombia,Quindio,Genova,Genova,4.2497299,-75.66954
+Colombia-Quindio-La_Tebaida,city,Colombia,Quindio,La Tebaida,La Tebaida,4.453588,-75.79153
+Colombia-Quindio-Montenegro,city,Colombia,Quindio,Montenegro,Montenegro,4.566637,-75.75012
+Colombia-Quindio-Pijao,city,Colombia,Quindio,Pijao,Pijao,4.336584,-75.702412
+Colombia-Quindio-Quimbaya,city,Colombia,Quindio,Quimbaya,Quimbaya,4.625907,-75.761865
+Colombia-Quindio-Salento,city,Colombia,Quindio,Salento,Salento,4.637376,-75.570777
+Colombia-Risaralda-Pereira,city,Colombia,Risaralda,Pereira,Pereira,4.8087174,-75.690601
+Colombia-Risaralda-Apia,city,Colombia,Risaralda,Apia,Apia,5.106663,-75.940865
+Colombia-Risaralda-Balboa,city,Colombia,Risaralda,Balboa,Balboa,2.040728,-77.216606
+Colombia-Risaralda-Belen_De_Umbria,city,Colombia,Risaralda,Belen De Umbria,Belen De Umbria,5.200902999999999,-75.869261
+Colombia-Risaralda-Dosquebradas,city,Colombia,Risaralda,Dosquebradas,Dosquebradas,4.8318256,-75.68056779999999
+Colombia-Risaralda-Guatica,city,Colombia,Risaralda,Guatica,Guatica,5.316428,-75.799407
+Colombia-Risaralda-La_Celia,city,Colombia,Risaralda,La Celia,La Celia,5.003233,-76.003424
+Colombia-Risaralda-La_Virginia,city,Colombia,Risaralda,La Virginia,La Virginia,4.88917,-75.87074299999999
+Colombia-Risaralda-Marsella,city,Colombia,Risaralda,Marsella,Marsella,4.937236,-75.737551
+Colombia-Risaralda-Mistrato,city,Colombia,Risaralda,Mistrato,Mistrato,5.2990769,-75.882128
+Colombia-Risaralda-Pueblo_Rico,city,Colombia,Risaralda,Pueblo Rico,Pueblo Rico,5.222288,-76.0310499
+Colombia-Risaralda-Quinchia,city,Colombia,Risaralda,Quinchia,Quinchia,5.341352,-75.730957
+Colombia-Risaralda-Santa_Rosa_De_Cabal,city,Colombia,Risaralda,Santa Rosa De Cabal,Santa Rosa De Cabal,4.870121,-75.62239
+Colombia-Risaralda-Santuario,city,Colombia,Risaralda,Santuario,Santuario,5.075748,-75.96414399999999
+Colombia-Santander-Bucaramanga,city,Colombia,Santander,Bucaramanga,Bucaramanga,7.119349,-73.1227416
+Colombia-Santander-Aguada,city,Colombia,Santander,Aguada,Aguada,6.161728999999999,-73.52239399999999
+Colombia-Santander-Albania,city,Colombia,Santander,Albania,Albania,11.160651,-72.59190699999999
+Colombia-Santander-Aratoca,city,Colombia,Santander,Aratoca,Aratoca,6.695018000000001,-73.017346
+Colombia-Santander-Barbosa,city,Colombia,Santander,Barbosa,Barbosa,6.438790999999999,-75.334099
+Colombia-Santander-Barichara,city,Colombia,Santander,Barichara,Barichara,6.635848999999999,-73.223409
+Colombia-Santander-Barrancabermeja,city,Colombia,Santander,Barrancabermeja,Barrancabermeja,7.0617085,-73.8519319
+Colombia-Santander-Betulia,city,Colombia,Santander,Betulia,Betulia,6.11278,-75.98467
+Colombia-Santander-Bolivar,city,Colombia,Santander,Bolivar,Bolivar,8.6704382,-74.0300122
+Colombia-Santander-Cabrera,city,Colombia,Santander,Cabrera,Cabrera,3.98479,-74.48418099999999
+Colombia-Santander-California,city,Colombia,Santander,California,California,7.347189999999999,-72.94626
+Colombia-Santander-Capitanejo,city,Colombia,Santander,Capitanejo,Capitanejo,6.528607,-72.69641299999999
+Colombia-Santander-Carcasi,city,Colombia,Santander,Carcasi,Carcasi,6.626642,-72.6267809
+Colombia-Santander-Cepita,city,Colombia,Santander,Cepita,Cepita,6.753889999999999,-72.97241
+Colombia-Santander-Cerrito,city,Colombia,Santander,Cerrito,Cerrito,3.684084,-76.312996
+Colombia-Santander-Charala,city,Colombia,Santander,Charala,Charala,6.28595,-73.147465
+Colombia-Santander-Charta,city,Colombia,Santander,Charta,Charta,7.280931,-72.96804999999999
+Colombia-Santander-Chima,city,Colombia,Santander,Chima,Chima,6.34469,-73.37442
+Colombia-Santander-Chipata,city,Colombia,Santander,Chipata,Chipata,6.061617,-73.637199
+Colombia-Santander-Cimitarra,city,Colombia,Santander,Cimitarra,Cimitarra,6.315208999999999,-73.9489059
+Colombia-Santander-Concepcion,city,Colombia,Santander,Concepcion,Concepcion,6.394353,-75.256581
+Colombia-Santander-Confines,city,Colombia,Santander,Confines,Confines,6.356618000000001,-73.241843
+Colombia-Santander-Contratacion,city,Colombia,Santander,Contratacion,Contratacion,6.290943,-73.4742289
+Colombia-Santander-Coromoro,city,Colombia,Santander,Coromoro,Coromoro,6.295618,-73.040784
+Colombia-Santander-Curiti,city,Colombia,Santander,Curiti,Curiti,6.604594,-73.06924099999999
+Colombia-Santander-El_Carmen_De_Chucuri,city,Colombia,Santander,El Carmen De Chucuri,El Carmen De Chucuri,6.698923000000001,-73.51159799999999
+Colombia-Santander-El_Guacamayo,city,Colombia,Santander,El Guacamayo,El Guacamayo,6.245051,-73.49765099999999
+Colombia-Santander-El_Penon,city,Colombia,Santander,El Penon,El Penon,6.223611,-75.178333
+Colombia-Santander-El_Playon,city,Colombia,Santander,El Playon,El Playon,7.470498,-73.203211
+Colombia-Santander-Encino,city,Colombia,Santander,Encino,Encino,6.13694,-73.09831
+Colombia-Santander-Enciso,city,Colombia,Santander,Enciso,Enciso,6.66756,-72.70000999999999
+Colombia-Santander-Florian,city,Colombia,Santander,Florian,Florian,5.803248,-73.970703
+Colombia-Santander-Floridablanca,city,Colombia,Santander,Floridablanca,Floridablanca,7.0723921,-73.1069693
+Colombia-Santander-Galan,city,Colombia,Santander,Galan,Galan,4.7014128,-74.1444969
+Colombia-Santander-Gambita,city,Colombia,Santander,Gambita,Gambita,5.945604899999999,-73.344306
+Colombia-Santander-Giron,city,Colombia,Santander,Giron,Giron,7.073967799999999,-73.1692652
+Colombia-Santander-Guaca,city,Colombia,Santander,Guaca,Guaca,6.876227000000001,-72.856219
+Colombia-Santander-Guadalupe,city,Colombia,Santander,Guadalupe,Guadalupe,6.246048999999999,-73.418739
+Colombia-Santander-Guapota,city,Colombia,Santander,Guapota,Guapota,6.308152,-73.32095799999999
+Colombia-Santander-Guavata,city,Colombia,Santander,Guavata,Guavata,5.955225,-73.701641
+Colombia-Santander-Gsepsa,city,Colombia,Santander,Gsepsa,Gsepsa,4.335294999999999,-71.87936669999999
+Colombia-Santander-Hato,city,Colombia,Santander,Hato,Hato,6.544078,-73.308154
+Colombia-Santander-Jesus_Maria,city,Colombia,Santander,Jesus Maria,Jesus Maria,5.876811,-73.782881
+Colombia-Santander-Jordan,city,Colombia,Santander,Jordan,Jordan,6.73196,-73.09693
+Colombia-Santander-La_Belleza,city,Colombia,Santander,La Belleza,La Belleza,5.859414999999999,-73.96509499999999
+Colombia-Santander-Landazuri,city,Colombia,Santander,Landazuri,Landazuri,6.219458899999999,-73.809258
+Colombia-Santander-La_Paz,city,Colombia,Santander,La Paz,La Paz,6.189809899999999,-73.57585
+Colombia-Santander-Lebrija,city,Colombia,Santander,Lebrija,Lebrija,7.111342,-73.216672
+Colombia-Santander-Los_Santos,city,Colombia,Santander,Los Santos,Los Santos,6.755733999999999,-73.102305
+Colombia-Santander-Macaravita,city,Colombia,Santander,Macaravita,Macaravita,6.506139999999999,-72.59259
+Colombia-Santander-Malaga,city,Colombia,Santander,Malaga,Malaga,6.703857999999999,-72.729891
+Colombia-Santander-Matanza,city,Colombia,Santander,Matanza,Matanza,7.32278,-73.015958
+Colombia-Santander-Mogotes,city,Colombia,Santander,Mogotes,Mogotes,6.474867,-72.970517
+Colombia-Santander-Molagavita,city,Colombia,Santander,Molagavita,Molagavita,6.674385000000001,-72.80926699999999
+Colombia-Santander-Ocamonte,city,Colombia,Santander,Ocamonte,Ocamonte,6.339779999999999,-73.122163
+Colombia-Santander-Oiba,city,Colombia,Santander,Oiba,Oiba,6.26467,-73.29838000000001
+Colombia-Santander-Onzaga,city,Colombia,Santander,Onzaga,Onzaga,6.343846999999999,-72.81479200000001
+Colombia-Santander-Palmar,city,Colombia,Santander,Palmar,Palmar,6.538795899999999,-73.29114799999999
+Colombia-Santander-Palmas_Del_Socorro,city,Colombia,Santander,Palmas Del Socorro,Palmas Del Socorro,6.405855799999999,-73.28759289999999
+Colombia-Santander-Paramo,city,Colombia,Santander,Paramo,Paramo,6.416886,-73.170777
+Colombia-Santander-Piedecuesta,city,Colombia,Santander,Piedecuesta,Piedecuesta,6.991539,-73.05399799999999
+Colombia-Santander-Pinchote,city,Colombia,Santander,Pinchote,Pinchote,6.53247,-73.17269999999999
+Colombia-Santander-Puente_Nacional,city,Colombia,Santander,Puente Nacional,Puente Nacional,5.877927,-73.677635
+Colombia-Santander-Puerto_Parra,city,Colombia,Santander,Puerto Parra,Puerto Parra,6.650797,-74.0559339
+Colombia-Santander-Puerto_Wilches,city,Colombia,Santander,Puerto Wilches,Puerto Wilches,7.33875,-73.90545399999999
+Colombia-Santander-Rionegro,city,Colombia,Santander,Rionegro,Rionegro,6.144837,-75.375085
+Colombia-Santander-Sabana_De_Torres,city,Colombia,Santander,Sabana De Torres,Sabana De Torres,7.394791999999999,-73.500055
+Colombia-Santander-San_Andres,city,Colombia,Santander,San Andres,San Andres,12.5450153,-81.7075787
+Colombia-Santander-San_Benito,city,Colombia,Santander,San Benito,San Benito,6.12716,-73.509711
+Colombia-Santander-San_Gil,city,Colombia,Santander,San Gil,San Gil,6.554824,-73.13412
+Colombia-Santander-San_Joaquin,city,Colombia,Santander,San Joaquin,San Joaquin,6.427803,-72.868082
+Colombia-Santander-San_Jose_De_Miranda,city,Colombia,Santander,San Jose De Miranda,San Jose De Miranda,6.658614,-72.733351
+Colombia-Santander-San_Miguel,city,Colombia,Santander,San Miguel,San Miguel,0.33002,-76.87635999999999
+Colombia-Santander-San_Vicente_De_Chucuri,city,Colombia,Santander,San Vicente De Chucuri,San Vicente De Chucuri,6.878518000000001,-73.413233
+Colombia-Santander-Santa_Barbara,city,Colombia,Santander,Santa Barbara,Santa Barbara,5.874249,-75.56642099999999
+Colombia-Santander-Santa_Helena_Del_Opon,city,Colombia,Santander,Santa Helena Del Opon,Santa Helena Del Opon,6.3387478,-73.616458
+Colombia-Santander-Simacota,city,Colombia,Santander,Simacota,Simacota,6.443588,-73.33753399999999
+Colombia-Santander-Socorro,city,Colombia,Santander,Socorro,Socorro,6.468665,-73.26404099999999
+Colombia-Santander-Suaita,city,Colombia,Santander,Suaita,Suaita,6.098510999999999,-73.4432379
+Colombia-Santander-Sucre,city,Colombia,Santander,Sucre,Sucre,8.813977,-74.723283
+Colombia-Santander-Surata,city,Colombia,Santander,Surata,Surata,7.366515,-72.983983
+Colombia-Santander-Tona,city,Colombia,Santander,Tona,Tona,7.201829999999999,-72.966757
+Colombia-Santander-Valle_De_San_Jose,city,Colombia,Santander,Valle De San Jose,Valle De San Jose,6.448144,-73.14378599999999
+Colombia-Santander-Velez,city,Colombia,Santander,Velez,Velez,6.00915,-73.671864
+Colombia-Santander-Vetas,city,Colombia,Santander,Vetas,Vetas,7.333369999999999,-72.86667
+Colombia-Santander-Villanueva,city,Colombia,Santander,Villanueva,Villanueva,10.603721,-72.98193599999999
+Colombia-Santander-Zapatoca,city,Colombia,Santander,Zapatoca,Zapatoca,6.813882,-73.272537
+Colombia-Sucre-Sincelejo,city,Colombia,Sucre,Sincelejo,Sincelejo,9.3045773,-75.39055669999999
+Colombia-Sucre-Buenavista,city,Colombia,Sucre,Buenavista,Buenavista,4.358752,-75.740163
+Colombia-Sucre-Caimito,city,Colombia,Sucre,Caimito,Caimito,8.789558,-75.11489
+Colombia-Sucre-Coloso,city,Colombia,Sucre,Coloso,Coloso,9.49551,-75.35217999999999
+Colombia-Sucre-Corozal,city,Colombia,Sucre,Corozal,Corozal,9.321697000000002,-75.294467
+Colombia-Sucre-Covenas,city,Colombia,Sucre,Covenas,Covenas,9.402597,-75.68164200000001
+Colombia-Sucre-Chalan,city,Colombia,Sucre,Chalan,Chalan,9.5458269,-75.312885
+Colombia-Sucre-El_Roble,city,Colombia,Sucre,El Roble,El Roble,9.10192,-75.19554
+Colombia-Sucre-Galeras,city,Colombia,Sucre,Galeras,Galeras,1.2218582,-77.3591903
+Colombia-Sucre-Guaranda,city,Colombia,Sucre,Guaranda,Guaranda,8.468309999999999,-74.537025
+Colombia-Sucre-La_Union,city,Colombia,Sucre,La Union,La Union,4.5334899,-76.10361600000002
+Colombia-Sucre-Los_Palmitos,city,Colombia,Sucre,Los Palmitos,Los Palmitos,9.380493999999999,-75.27095
+Colombia-Sucre-Majagual,city,Colombia,Sucre,Majagual,Majagual,8.54125,-74.62809899999999
+Colombia-Sucre-Morroa,city,Colombia,Sucre,Morroa,Morroa,9.332193,-75.307733
+Colombia-Sucre-Ovejas,city,Colombia,Sucre,Ovejas,Ovejas,9.5258559,-75.22752899999999
+Colombia-Sucre-Palmito,city,Colombia,Sucre,Palmito,Palmito,9.333658999999999,-75.540823
+Colombia-Sucre-Sampues,city,Colombia,Sucre,Sampues,Sampues,9.18357,-75.381105
+Colombia-Sucre-San_Benito_Abad,city,Colombia,Sucre,San Benito Abad,San Benito Abad,8.931132,-75.03065099999999
+Colombia-Sucre-San_Juan_De_Betulia,city,Colombia,Sucre,San Juan De Betulia,San Juan De Betulia,9.274374,-75.243774
+Colombia-Sucre-San_Marcos,city,Colombia,Sucre,San Marcos,San Marcos,8.662576999999999,-75.128872
+Colombia-Sucre-San_Onofre,city,Colombia,Sucre,San Onofre,San Onofre,9.74084,-75.519872
+Colombia-Sucre-San_Pedro,city,Colombia,Sucre,San Pedro,San Pedro,3.99411,-76.22711
+Colombia-Sucre-San_Luis_De_Since,city,Colombia,Sucre,San Luis De Since,San Luis De Since,9.241075,-75.146445
+Colombia-Sucre-Sucre,city,Colombia,Sucre,Sucre,Sucre,8.813977,-74.723283
+Colombia-Sucre-Santiago_De_Tolu,city,Colombia,Sucre,Santiago De Tolu,Santiago De Tolu,9.527515,-75.581273
+Colombia-Sucre-Tolu_Viejo,city,Colombia,Sucre,Tolu Viejo,Tolu Viejo,9.452848999999999,-75.4391349
+Colombia-Tolima-Ibague,city,Colombia,Tolima,Ibague,Ibague,4.444675999999999,-75.24243799999999
+Colombia-Tolima-Alpujarra,city,Colombia,Tolima,Alpujarra,Alpujarra,3.39306,-75.93553
+Colombia-Tolima-Alvarado,city,Colombia,Tolima,Alvarado,Alvarado,4.566843,-74.953211
+Colombia-Tolima-Ambalema,city,Colombia,Tolima,Ambalema,Ambalema,4.782836,-74.766701
+Colombia-Tolima-Anzoategui,city,Colombia,Tolima,Anzoategui,Anzoategui,4.632261,-75.09384899999999
+Colombia-Tolima-Armero,city,Colombia,Tolima,Armero,Armero,4.96462,-74.90489
+Colombia-Tolima-Ataco,city,Colombia,Tolima,Ataco,Ataco,3.591068,-75.381727
+Colombia-Tolima-Cajamarca,city,Colombia,Tolima,Cajamarca,Cajamarca,4.441792,-75.426844
+Colombia-Tolima-Carmen_De_Apicala,city,Colombia,Tolima,Carmen De Apicala,Carmen De Apicala,4.152951,-74.715312
+Colombia-Tolima-Casabianca,city,Colombia,Tolima,Casabianca,Casabianca,5.078568,-75.119717
+Colombia-Tolima-Chaparral,city,Colombia,Tolima,Chaparral,Chaparral,3.723827,-75.48397899999999
+Colombia-Tolima-Coello,city,Colombia,Tolima,Coello,Coello,4.286261,-74.897875
+Colombia-Tolima-Coyaima,city,Colombia,Tolima,Coyaima,Coyaima,3.799339,-75.19459499999999
+Colombia-Tolima-Cunday,city,Colombia,Tolima,Cunday,Cunday,4.060503,-74.69189
+Colombia-Tolima-Dolores,city,Colombia,Tolima,Dolores,Dolores,3.67109,-74.74951999999999
+Colombia-Tolima-Espinal,city,Colombia,Tolima,Espinal,Espinal,4.149819,-74.88434099999999
+Colombia-Tolima-Falan,city,Colombia,Tolima,Falan,Falan,5.123789899999999,-74.95201
+Colombia-Tolima-Flandes,city,Colombia,Tolima,Flandes,Flandes,4.2867309,-74.812294
+Colombia-Tolima-Fresno,city,Colombia,Tolima,Fresno,Fresno,5.153792999999999,-75.03631
+Colombia-Tolima-Guamo,city,Colombia,Tolima,Guamo,Guamo,4.02926,-74.974795
+Colombia-Tolima-Herveo,city,Colombia,Tolima,Herveo,Herveo,5.0801299,-75.17573
+Colombia-Tolima-Honda,city,Colombia,Tolima,Honda,Honda,5.205118,-74.737081
+Colombia-Tolima-Icononzo,city,Colombia,Tolima,Icononzo,Icononzo,4.17645,-74.531723
+Colombia-Tolima-Lerida,city,Colombia,Tolima,Lerida,Lerida,4.860823,-74.912667
+Colombia-Tolima-Libano,city,Colombia,Tolima,Libano,Libano,4.920955999999999,-75.063129
+Colombia-Tolima-Mariquita,city,Colombia,Tolima,Mariquita,Mariquita,5.199504999999999,-74.88683499999999
+Colombia-Tolima-Melgar,city,Colombia,Tolima,Melgar,Melgar,4.203571999999999,-74.643383
+Colombia-Tolima-Murillo,city,Colombia,Tolima,Murillo,Murillo,3.80419,-74.94281
+Colombia-Tolima-Natagaima,city,Colombia,Tolima,Natagaima,Natagaima,3.625529,-75.093183
+Colombia-Tolima-Ortega,city,Colombia,Tolima,Ortega,Ortega,3.935841,-75.220606
+Colombia-Tolima-Palocabildo,city,Colombia,Tolima,Palocabildo,Palocabildo,5.119358,-75.023736
+Colombia-Tolima-Piedras,city,Colombia,Tolima,Piedras,Piedras,4.54304,-74.878165
+Colombia-Tolima-Planadas,city,Colombia,Tolima,Planadas,Planadas,3.197241,-75.64381700000001
+Colombia-Tolima-Prado,city,Colombia,Tolima,Prado,Prado,3.74973,-74.92773199999999
+Colombia-Tolima-Purificacion,city,Colombia,Tolima,Purificacion,Purificacion,3.856684,-74.931367
+Colombia-Tolima-Rioblanco,city,Colombia,Tolima,Rioblanco,Rioblanco,3.5309,-75.68052999999999
+Colombia-Tolima-Roncesvalles,city,Colombia,Tolima,Roncesvalles,Roncesvalles,4.0103171,-75.6048047
+Colombia-Tolima-Rovira,city,Colombia,Tolima,Rovira,Rovira,4.239304,-75.239679
+Colombia-Tolima-Saldana,city,Colombia,Tolima,Saldana,Saldana,3.929018,-75.017821
+Colombia-Tolima-San_Antonio,city,Colombia,Tolima,San Antonio,San Antonio,3.914098999999999,-75.479861
+Colombia-Tolima-San_Luis,city,Colombia,Tolima,San Luis,San Luis,6.042453999999999,-74.995071
+Colombia-Tolima-Santa_Isabel,city,Colombia,Tolima,Santa Isabel,Santa Isabel,4.7135239,-75.09772699999999
+Colombia-Tolima-Suarez,city,Colombia,Tolima,Suarez,Suarez,2.9543832,-76.69540889999999
+Colombia-Tolima-Valle_De_San_Juan,city,Colombia,Tolima,Valle De San Juan,Valle De San Juan,4.197954999999999,-75.1164469
+Colombia-Tolima-Venadillo,city,Colombia,Tolima,Venadillo,Venadillo,4.714815,-74.931161
+Colombia-Tolima-Villahermosa,city,Colombia,Tolima,Villahermosa,Villahermosa,5.030400999999999,-75.1180399
+Colombia-Tolima-Villarrica,city,Colombia,Tolima,Villarrica,Villarrica,3.936661,-74.60081699999999
+Colombia-Valle_Del_Cauca-Cali,city,Colombia,Valle Del Cauca,Cali,Cali,3.4516467,-76.5319854
+Colombia-Valle_Del_Cauca-Alcala,city,Colombia,Valle Del Cauca,Alcala,Alcala,4.673496999999999,-75.779167
+Colombia-Valle_Del_Cauca-Andalucia,city,Colombia,Valle Del Cauca,Andalucia,Andalucia,4.168711,-76.16737499999999
+Colombia-Valle_Del_Cauca-Ansermanuevo,city,Colombia,Valle Del Cauca,Ansermanuevo,Ansermanuevo,4.793953,-75.991513
+Colombia-Valle_Del_Cauca-Argelia,city,Colombia,Valle Del Cauca,Argelia,Argelia,5.730859,-75.142186
+Colombia-Valle_Del_Cauca-Bolivar,city,Colombia,Valle Del Cauca,Bolivar,Bolivar,8.6704382,-74.0300122
+Colombia-Valle_Del_Cauca-Buenaventura,city,Colombia,Valle Del Cauca,Buenaventura,Buenaventura,3.8830471,-77.01972119999999
+Colombia-Valle_Del_Cauca-Guadalajara_De_Buga,city,Colombia,Valle Del Cauca,Guadalajara De Buga,Guadalajara De Buga,3.9005079,-76.30218889999999
+Colombia-Valle_Del_Cauca-Bugalagrande,city,Colombia,Valle Del Cauca,Bugalagrande,Bugalagrande,4.210851000000001,-76.155749
+Colombia-Valle_Del_Cauca-Caicedonia,city,Colombia,Valle Del Cauca,Caicedonia,Caicedonia,4.3329129,-75.827107
+Colombia-Valle_Del_Cauca-Calima,city,Colombia,Valle Del Cauca,Calima,Calima,3.919267,-76.5950555
+Colombia-Valle_Del_Cauca-Candelaria,city,Colombia,Valle Del Cauca,Candelaria,Candelaria,4.597014,-74.0728759
+Colombia-Valle_Del_Cauca-Cartago,city,Colombia,Valle Del Cauca,Cartago,Cartago,4.747221199999999,-75.91162890000001
+Colombia-Valle_Del_Cauca-Dagua,city,Colombia,Valle Del Cauca,Dagua,Dagua,3.658519,-76.6908459
+Colombia-Valle_Del_Cauca-El_Aguila,city,Colombia,Valle Del Cauca,El Aguila,El Aguila,4.9091699,-76.04299
+Colombia-Valle_Del_Cauca-El_Cairo,city,Colombia,Valle Del Cauca,El Cairo,El Cairo,4.761034,-76.222146
+Colombia-Valle_Del_Cauca-El_Cerrito,city,Colombia,Valle Del Cauca,El Cerrito,El Cerrito,3.684084,-76.312996
+Colombia-Valle_Del_Cauca-El_Dovio,city,Colombia,Valle Del Cauca,El Dovio,El Dovio,4.50884,-76.23389999999999
+Colombia-Valle_Del_Cauca-Florida,city,Colombia,Valle Del Cauca,Florida,Florida,3.3213339,-76.235361
+Colombia-Valle_Del_Cauca-Ginebra,city,Colombia,Valle Del Cauca,Ginebra,Ginebra,3.725234,-76.269279
+Colombia-Valle_Del_Cauca-Guacari,city,Colombia,Valle Del Cauca,Guacari,Guacari,3.762980999999999,-76.332471
+Colombia-Valle_Del_Cauca-Jamundi,city,Colombia,Valle Del Cauca,Jamundi,Jamundi,3.262084,-76.541073
+Colombia-Valle_Del_Cauca-La_Cumbre,city,Colombia,Valle Del Cauca,La Cumbre,La Cumbre,3.649442,-76.567956
+Colombia-Valle_Del_Cauca-La_Union,city,Colombia,Valle Del Cauca,La Union,La Union,4.5334899,-76.10361600000002
+Colombia-Valle_Del_Cauca-La_Victoria,city,Colombia,Valle Del Cauca,La Victoria,La Victoria,4.5241049,-76.03607099999999
+Colombia-Valle_Del_Cauca-Obando,city,Colombia,Valle Del Cauca,Obando,Obando,4.575601,-75.972669
+Colombia-Valle_Del_Cauca-Palmira,city,Colombia,Valle Del Cauca,Palmira,Palmira,3.5379718,-76.2971657
+Colombia-Valle_Del_Cauca-Pradera,city,Colombia,Valle Del Cauca,Pradera,Pradera,3.418186,-76.24227499999999
+Colombia-Valle_Del_Cauca-Restrepo,city,Colombia,Valle Del Cauca,Restrepo,Restrepo,3.82172,-76.52047
+Colombia-Valle_Del_Cauca-Riofrio,city,Colombia,Valle Del Cauca,Riofrio,Riofrio,4.15663,-76.287762
+Colombia-Valle_Del_Cauca-Roldanillo,city,Colombia,Valle Del Cauca,Roldanillo,Roldanillo,4.414137999999999,-76.15217299999999
+Colombia-Valle_Del_Cauca-San_Pedro,city,Colombia,Valle Del Cauca,San Pedro,San Pedro,3.99411,-76.22711
+Colombia-Valle_Del_Cauca-Sevilla,city,Colombia,Valle Del Cauca,Sevilla,Sevilla,4.2743779,-75.931004
+Colombia-Valle_Del_Cauca-Toro,city,Colombia,Valle Del Cauca,Toro,Toro,4.611287,-76.078593
+Colombia-Valle_Del_Cauca-Trujillo,city,Colombia,Valle Del Cauca,Trujillo,Trujillo,4.211875,-76.318513
+Colombia-Valle_Del_Cauca-Tulua,city,Colombia,Valle Del Cauca,Tulua,Tulua,4.089869,-76.1914991
+Colombia-Valle_Del_Cauca-Ulloa,city,Colombia,Valle Del Cauca,Ulloa,Ulloa,4.703208,-75.738739
+Colombia-Valle_Del_Cauca-Versalles,city,Colombia,Valle Del Cauca,Versalles,Versalles,4.575712,-76.19952099999999
+Colombia-Valle_Del_Cauca-Vijes,city,Colombia,Valle Del Cauca,Vijes,Vijes,3.698185,-76.44317699999999
+Colombia-Valle_Del_Cauca-Yotoco,city,Colombia,Valle Del Cauca,Yotoco,Yotoco,3.860273,-76.38463
+Colombia-Valle_Del_Cauca-Yumbo,city,Colombia,Valle Del Cauca,Yumbo,Yumbo,3.545337,-76.495026
+Colombia-Valle_Del_Cauca-Zarzal,city,Colombia,Valle Del Cauca,Zarzal,Zarzal,4.394865000000001,-76.07285399999999
+Colombia-Arauca-Arauca,city,Colombia,Arauca,Arauca,Arauca,6.547306,-71.0022311
+Colombia-Arauca-Arauquita,city,Colombia,Arauca,Arauquita,Arauquita,7.029334,-71.4294759
+Colombia-Arauca-Cravo_Norte,city,Colombia,Arauca,Cravo Norte,Cravo Norte,6.304349999999999,-70.202659
+Colombia-Arauca-Fortul,city,Colombia,Arauca,Fortul,Fortul,6.794366999999999,-71.7715489
+Colombia-Arauca-Puerto_Rondon,city,Colombia,Arauca,Puerto Rondon,Puerto Rondon,6.281167,-71.1047959
+Colombia-Arauca-Saravena,city,Colombia,Arauca,Saravena,Saravena,6.956106999999999,-71.87259499999999
+Colombia-Arauca-Tame,city,Colombia,Arauca,Tame,Tame,6.457094,-71.745515
+Colombia-Casanare-Yopal,city,Colombia,Casanare,Yopal,Yopal,5.348903,-72.40052299999999
+Colombia-Casanare-Aguazul,city,Colombia,Casanare,Aguazul,Aguazul,5.170847,-72.55081899999999
+Colombia-Casanare-Chameza,city,Colombia,Casanare,Chameza,Chameza,5.213461,-72.86995499999999
+Colombia-Casanare-Hato_Corozal,city,Colombia,Casanare,Hato Corozal,Hato Corozal,6.154946,-71.76236
+Colombia-Casanare-La_Salina,city,Colombia,Casanare,La Salina,La Salina,6.127979,-72.33416199999999
+Colombia-Casanare-Mani,city,Colombia,Casanare,Mani,Mani,4.817986,-72.28070199999999
+Colombia-Casanare-Monterrey,city,Colombia,Casanare,Monterrey,Monterrey,4.875246,-72.89336399999999
+Colombia-Casanare-Nunchia,city,Colombia,Casanare,Nunchia,Nunchia,5.638097,-72.195527
+Colombia-Casanare-Orocue,city,Colombia,Casanare,Orocue,Orocue,4.789388,-71.33936299999999
+Colombia-Casanare-Paz_De_Ariporo,city,Colombia,Casanare,Paz De Ariporo,Paz De Ariporo,5.880639,-71.892912
+Colombia-Casanare-Pore,city,Colombia,Casanare,Pore,Pore,5.726562899999999,-71.99394099999999
+Colombia-Casanare-Recetor,city,Colombia,Casanare,Recetor,Recetor,5.2295489,-72.76065299999999
+Colombia-Casanare-Sabanalarga,city,Colombia,Casanare,Sabanalarga,Sabanalarga,6.8498854,-75.81741760000001
+Colombia-Casanare-Sacama,city,Colombia,Casanare,Sacama,Sacama,6.098639,-72.248391
+Colombia-Casanare-San_Luis_De_Palenque,city,Colombia,Casanare,San Luis De Palenque,San Luis De Palenque,5.420281999999999,-71.73086099999999
+Colombia-Casanare-Tamara,city,Colombia,Casanare,Tamara,Tamara,5.83034,-72.163056
+Colombia-Casanare-Tauramena,city,Colombia,Casanare,Tauramena,Tauramena,5.010684899999999,-72.750495
+Colombia-Casanare-Trinidad,city,Colombia,Casanare,Trinidad,Trinidad,5.407814999999999,-71.661355
+Colombia-Casanare-Villanueva,city,Colombia,Casanare,Villanueva,Villanueva,10.603721,-72.98193599999999
+Colombia-Putumayo-Mocoa,city,Colombia,Putumayo,Mocoa,Mocoa,1.15234,-76.651055
+Colombia-Putumayo-Colon,city,Colombia,Putumayo,Colon,Colon,1.190067,-76.97286299999999
+Colombia-Putumayo-Orito,city,Colombia,Putumayo,Orito,Orito,0.6768799999999999,-76.880163
+Colombia-Putumayo-Puerto_Asis,city,Colombia,Putumayo,Puerto Asis,Puerto Asis,0.504929,-76.500191
+Colombia-Putumayo-Puerto_Caicedo,city,Colombia,Putumayo,Puerto Caicedo,Puerto Caicedo,0.6843739999999999,-76.604072
+Colombia-Putumayo-Puerto_Guzman,city,Colombia,Putumayo,Puerto Guzman,Puerto Guzman,0.9637699999999999,-76.40798099999999
+Colombia-Putumayo-Leguizamo,city,Colombia,Putumayo,Leguizamo,Leguizamo,-0.18024,-74.77417000000001
+Colombia-Putumayo-Sibundoy,city,Colombia,Putumayo,Sibundoy,Sibundoy,1.202514,-76.92122499999999
+Colombia-Putumayo-San_Francisco,city,Colombia,Putumayo,San Francisco,San Francisco,4.974252,-74.291386
+Colombia-Putumayo-San_Miguel,city,Colombia,Putumayo,San Miguel,San Miguel,0.33002,-76.87635999999999
+Colombia-Putumayo-Santiago,city,Colombia,Putumayo,Santiago,Santiago,1.147148,-77.002405
+Colombia-Putumayo-Valle_Del_Guamuez,city,Colombia,Putumayo,Valle Del Guamuez,Valle Del Guamuez,0.4015861,-76.7798172
+Colombia-Putumayo-Villagarzon,city,Colombia,Putumayo,Villagarzon,Villagarzon,1.028507,-76.617431
+Colombia-San_Andres-San_Andres,city,Colombia,San Andres,San Andres,San Andres,12.5450153,-81.7075787
+Colombia-San_Andres-Providencia,city,Colombia,San Andres,Providencia,Providencia,13.3387613,-81.3729372
+Colombia-Amazonas-Leticia,city,Colombia,Amazonas,Leticia,Leticia,-4.203164999999999,-69.935907
+Colombia-Amazonas-El_Encanto,city,Colombia,Amazonas,El Encanto,El Encanto,-1.747214,-73.209136
+Colombia-Amazonas-La_Chorrera,city,Colombia,Amazonas,La Chorrera,La Chorrera,-1.43337,-72.74994
+Colombia-Amazonas-La_Pedrera,city,Colombia,Amazonas,La Pedrera,La Pedrera,-1.3239,-69.58234
+Colombia-Amazonas-La_Victoria,city,Colombia,Amazonas,La Victoria,La Victoria,4.5241049,-76.03607099999999
+Colombia-Amazonas-Miriti_Parana,city,Colombia,Amazonas,Miriti Parana,Miriti Parana,-1.205904,-69.887903
+Colombia-Amazonas-Puerto_Alegria,city,Colombia,Amazonas,Puerto Alegria,Puerto Alegria,-1.005614,-74.0142539
+Colombia-Amazonas-Puerto_Arica,city,Colombia,Amazonas,Puerto Arica,Puerto Arica,-2.13332,-71.73326
+Colombia-Amazonas-Puerto_Narino,city,Colombia,Amazonas,Puerto Narino,Puerto Narino,-3.7702,-70.38306
+Colombia-Amazonas-Puerto_Santander,city,Colombia,Amazonas,Puerto Santander,Puerto Santander,8.361323,-72.408389
+Colombia-Amazonas-Tarapaca,city,Colombia,Amazonas,Tarapaca,Tarapaca,-2.891307,-69.741073
+Colombia-Guainia-Inirida,city,Colombia,Guainia,Inirida,Inirida,3.868297,-67.923917
+Colombia-Guainia-Barranco_Minas,city,Colombia,Guainia,Barranco Minas,Barranco Minas,3.48421,-69.81081999999999
+Colombia-Guainia-Mapiripana,city,Colombia,Guainia,Mapiripana,Mapiripana,2.63277,-68.0680299
+Colombia-Guainia-San_Felipe,city,Colombia,Guainia,San Felipe,San Felipe,1.90561,-67.08561
+Colombia-Guainia-Puerto_Colombia,city,Colombia,Guainia,Puerto Colombia,Puerto Colombia,11.001004,-74.950761
+Colombia-Guainia-La_Guadalupe,city,Colombia,Guainia,La Guadalupe,La Guadalupe,1.3648401,-67.04645909999999
+Colombia-Guainia-Cacahual,city,Colombia,Guainia,Cacahual,Cacahual,3.51425,-67.41529
+Colombia-Guainia-Pana_Pana,city,Colombia,Guainia,Pana Pana,Pana Pana,1.84079,-69.00479
+Colombia-Guainia-Morichal,city,Colombia,Guainia,Morichal,Morichal,2.2637,-69.91847
+Colombia-Guaviare-San_Jose_Del_Guaviare,city,Colombia,Guaviare,San Jose Del Guaviare,San Jose Del Guaviare,2.568549,-72.64172649999999
+Colombia-Guaviare-Calamar,city,Colombia,Guaviare,Calamar,Calamar,10.249349,-74.914706
+Colombia-Guaviare-El_Retorno,city,Colombia,Guaviare,El Retorno,El Retorno,2.331899,-72.62812699999999
+Colombia-Guaviare-Miraflores,city,Colombia,Guaviare,Miraflores,Miraflores,1.337454,-71.950914
+Colombia-Vaupes-Mitu,city,Colombia,Vaupes,Mitu,Mitu,1.2521739,-70.23361799999999
+Colombia-Vaupes-Caruru,city,Colombia,Vaupes,Caruru,Caruru,1.012148,-71.2958699
+Colombia-Vaupes-Pacoa,city,Colombia,Vaupes,Pacoa,Pacoa,0.05442,-71.22292999999999
+Colombia-Vaupes-Taraira,city,Colombia,Vaupes,Taraira,Taraira,-0.564744,-69.63410999999999
+Colombia-Vaupes-Papunaua,city,Colombia,Vaupes,Papunaua,Papunaua,1.8028463,-70.7168469
+Colombia-Vaupes-Yavarate,city,Colombia,Vaupes,Yavarate,Yavarate,0.6150599999999999,-69.2080299
+Colombia-Vichada-Puerto_Carreno,city,Colombia,Vichada,Puerto Carreno,Puerto Carreno,6.184766,-67.488462
+Colombia-Vichada-La_Primavera,city,Colombia,Vichada,La Primavera,La Primavera,5.488849999999999,-70.40911
+Colombia-Vichada-Santa_Rosalia,city,Colombia,Vichada,Santa Rosalia,Santa Rosalia,5.135381,-70.86496090000001
+Colombia-Vichada-Cumaribo,city,Colombia,Vichada,Cumaribo,Cumaribo,4.444497,-69.79868499999999
+Colombia-Desconocido-Desconocido,city,Colombia,Desconocido,Desconocido,Desconocido,4.570868,-74.297333
+Colombia-Bogota-Bogota,city,Colombia,Bogota,Bogota,Bogota,4.710988599999999,-74.072092
+Colombia-Bogota-Usaquen_Los_Cedros,city,Colombia,Bogota,Usaquen Los Cedros,Usaquen Los Cedros,4.7200049,-74.0336844
+Colombia-Bogota-Usaquen_Santa_Barbara,city,Colombia,Bogota,Usaquen Santa Barbara,Usaquen Santa Barbara,4.6987535,-74.03221549999999
+Colombia-Bogota-Barrios_Unidos_Los_Andes,city,Colombia,Bogota,Barrios Unidos Los Andes,Barrios Unidos Los Andes,4.664752,-74.075214
+Colombia-Bogota-Barrios_Unidos_12_De_Octubre,city,Colombia,Bogota,Barrios Unidos 12 De Octubre,Barrios Unidos 12 De Octubre,4.6691052,-74.0744671
+Colombia-Bogota-San_Cristobal_Sociego,city,Colombia,Bogota,San Cristobal Sociego,San Cristobal Sociego,4.574276200000001,-74.09389689999999
+Colombia-Bogota-Tunjuelito_Venecia,city,Colombia,Bogota,Tunjuelito Venecia,Tunjuelito Venecia,4.5927121,-74.1379427
+Colombia-Bogota-Puente_Aranda_San_Rafael,city,Colombia,Bogota,Puente Aranda San Rafael,Puente Aranda San Rafael,4.6233315,-74.1144529
+Colombia-Bogota-Kennedy_Americas,city,Colombia,Bogota,Kennedy Americas,Kennedy Americas,4.63113,-74.148473
+Colombia-Bogota-Kennedy_Kennedy_Central,city,Colombia,Bogota,Kennedy Kennedy Central,Kennedy Kennedy Central,4.63113,-74.148473
+Colombia-Bogota-Tunjuelito_Tunjuelito,city,Colombia,Bogota,Tunjuelito Tunjuelito,Tunjuelito Tunjuelito,4.569067,-74.13457300000002
+Colombia-Bogota-Ciudad_Bolivar_San_Francisco,city,Colombia,Bogota,Ciudad Bolivar San Francisco,Ciudad Bolivar San Francisco,4.5648693,-74.14601660000001
+Colombia-Bogota-Engativa_Engativa,city,Colombia,Bogota,Engativa Engativa,Engativa Engativa,4.70846,-74.11167999999999
+Colombia-Bogota-Fontibon_Fontibon,city,Colombia,Bogota,Fontibon Fontibon,Fontibon Fontibon,4.673689,-74.143671
+Colombia-Bogota-Bosa_Bosa_Central,city,Colombia,Bogota,Bosa Bosa Central,Bosa Bosa Central,4.60992,-74.18473
+Colombia-Bogota-Bosa_Tintal_Sur,city,Colombia,Bogota,Bosa Tintal Sur,Bosa Tintal Sur,4.609896,-74.184721
+Colombia-Bogota-La_Candelaria_La_Candelaria,city,Colombia,Bogota,La Candelaria La Candelaria,La Candelaria La Candelaria,4.597014,-74.0728759
+Colombia-Bogota-Chapinero_Chico_Lago,city,Colombia,Bogota,Chapinero Chico Lago,Chapinero Chico Lago,4.6661331,-74.058516
+Colombia-Bogota-Chapinero_Chapinero,city,Colombia,Bogota,Chapinero Chapinero,Chapinero Chapinero,4.649656,-74.063097
+Colombia-Bogota-Teusaquillo_Teusaquillo,city,Colombia,Bogota,Teusaquillo Teusaquillo,Teusaquillo Teusaquillo,4.635807,-74.07945
+Colombia-Bogota-Teusaquillo_La_Esmeralda,city,Colombia,Bogota,Teusaquillo La Esmeralda,Teusaquillo La Esmeralda,4.6458393,-74.090226
+Colombia-Bogota-Teusaquillo_Quinta_Paredes,city,Colombia,Bogota,Teusaquillo Quinta Paredes,Teusaquillo Quinta Paredes,4.6335068,-74.0960995
+Colombia-Bogota-Teusaquillo_Ciudad_Salitre_Oriental,city,Colombia,Bogota,Teusaquillo Ciudad Salitre Oriental,Teusaquillo Ciudad Salitre Oriental,4.6448963,-74.103441
+Colombia-Sucre-Tolu,city,Colombia,Sucre,Tolu,Tolu,9.527515,-75.581273
+Colombia-Sucre-Toluviejo,city,Colombia,Sucre,Toluviejo,Toluviejo,9.452848999999999,-75.4391349
+Colombia-Tolima-Armero_Guayabal,city,Colombia,Tolima,Armero Guayabal,Armero Guayabal,5.0051173,-74.8273184
+Colombia-Valle,province,Colombia,Valle,,,3.8008893,-76.64127119999999
+Colombia-Bolivar,province,Colombia,Bolivar,,,8.6704382,-74.0300122
+Colombia-Norte_Santander,province,Colombia,Norte Santander,,,7.9462831,-72.8988069
+Colombia-Barranquilla,province,Colombia,Barranquilla,,,11.0041072,-74.80698129999999
+Colombia-Huila,province,Colombia,Huila,,,2.5359349,-75.52766989999999
+Colombia-Santander,province,Colombia,Santander,,,6.6437076,-73.65362089999999
+Colombia-Cordoba,province,Colombia,Cordoba,,,8.049293,-75.57405
+Colombia-Meta,province,Colombia,Meta,,,3.2719904,-73.087749
+Colombia-Tolima,province,Colombia,Tolima,,,4.092516799999999,-75.1545381
+Colombia-Atlantico,province,Colombia,Atlantico,,,10.6966159,-74.8741045
+Colombia-Cesar,province,Colombia,Cesar,,,9.3372948,-73.65362089999999
+Colombia-Antioquia,province,Colombia,Antioquia,,,7.1986064,-75.34121789999999
+Colombia-Casanare,province,Colombia,Casanare,,,5.7589269,-71.5723953
+Colombia-Santa_Marta,province,Colombia,Santa Marta,,,11.2403547,-74.2110227
+Colombia-Sucre,province,Colombia,Sucre,,,8.813977,-74.723283
+Colombia-Magdalena,province,Colombia,Magdalena,,,10.4113014,-74.4056612
+Colombia-Bogota,province,Colombia,Bogota,,,4.710988599999999,-74.072092
+Colombia-Caqueta,province,Colombia,Caqueta,,,0.869892,-73.8419063
+Colombia-Cundinamarca,province,Colombia,Cundinamarca,,,5.026002999999999,-74.0300122
+Colombia-Arauca,province,Colombia,Arauca,,,6.547306,-71.0022311
+Colombia-Guajira,province,Colombia,Guajira,,,11.3547743,-72.5204827
+Colombia-Risaralda,province,Colombia,Risaralda,,,5.315847499999999,-75.9927652
+Colombia-Putumayo,province,Colombia,Putumayo,,,0.4359506,-75.52766989999999
+Colombia-Cartagena,province,Colombia,Cartagena,,,10.3910485,-75.4794257
+Colombia-Cauca,province,Colombia,Cauca,,,2.7049813,-76.8259652
+Colombia-Quindio,province,Colombia,Quindio,,,4.4610191,-75.667356
+Colombia-Caldas,province,Colombia,Caldas,,,5.29826,-75.2479061
+Colombia-Amazonas,province,Colombia,Amazonas,,,-1.4429123,-71.5723953
+Colombia-Boyaca,province,Colombia,Boyaca,,,5.454511,-73.362003
+Colombia-San_Andres,province,Colombia,San Andres,,,12.5450153,-81.7075787
+Colombia-Buenaventura,province,Colombia,Buenaventura,,,3.8830471,-77.01972119999999
+Colombia-Narino,province,Colombia,Narino,,,1.289151,-77.35794000000001
+Colombia-Guaviare,province,Colombia,Guaviare,,,2.043924000000001,-72.331113
+Colombia-Vichada,province,Colombia,Vichada,,,4.4234452,-69.2877535
+Colombia-Choco,province,Colombia,Choco,,,5.2528033,-76.8259652
+Colombia-Vaupes,province,Colombia,Vaupes,,,0.8553561,-70.81199529999999
+Colombia-Guainia,province,Colombia,Guainia,,,2.585393,-68.52471489999999
+Colombia-Exterior,province,Colombia,Exterior,,,41.92952,-87.640399
+Colombia-unknown,province,Colombia,unknown,,,4.570868,-74.297333
+Colombia-desconocido,province,Colombia,desconocido,,,4.570868,-74.297333
+Dominican_Republic-Azua-Compostela,city,Dominican Republic,Azua,Compostela,Compostela,18.4531742,-70.73468869999999
+Dominican_Republic-Barahona,province,Dominican Republic,Barahona,,,18.2120807,-71.10240759999999
+Dominican_Republic-Distrito_Nacional,city,Dominican Republic,,,Distrito Nacional,18.4860575,-69.93121169999999
+Dominican_Republic-Independencia,province,Dominican Republic,Independencia,,,18.3785651,-71.5232874
+Dominican_Republic-Jimani_de_Independencia,city,Dominican Republic,,,Jimani de Independencia,18.4885676,-71.85268599999999
+Dominican_Republic-Luperon-Puerto_Plata,city,Dominican Republic,Luperon,Puerto Plata,Puerto Plata,19.7807686,-70.6871091
+Dominican_Republic-Santa_Cruz-Barahona,city,Dominican Republic,Santa Cruz,Barahona,Barahona,18.2120807,-71.10240759999999
+Dominican_Republic-Santiago-Caballeros,city,Dominican Republic,Santiago,Caballeros,Caballeros,19.4791963,-70.6930568
+Dominican_Republic-Santo_Domingo,city,Dominican Republic,,,Santo Domingo,18.4860575,-69.93121169999999
+Dominican_Republic-Santo_Domingo_Norte,city,Dominican Republic,,,Santo Domingo Norte,18.5967399,-69.90738879999999
+Dominican_Republic-Santo_Domingo_Este,city,Dominican Republic,,,Santo Domingo Este,18.505583,-69.8001762
+Dominican_Republic-Santo_Domingo_Oeste,city,Dominican Republic,,,Santo Domingo Oeste,18.4888797,-70.0086306
+Dominican_Republic-Distrito_Nacional,province,Dominican Republic,Distrito Nacional,,,18.4860575,-69.93121169999999
+Dominican_Republic-Azua,province,Dominican Republic,Azua,,,18.4531742,-70.73468869999999
+Dominican_Republic-Baoruco,province,Dominican Republic,Baoruco,,,18.4879898,-71.4182249
+Dominican_Republic-Barahona,province,Dominican Republic,Barahona,,,18.2120807,-71.10240759999999
+Dominican_Republic-Dajabon,province,Dominican Republic,Dajabon,,,19.5499241,-71.7086514
+Dominican_Republic-Duarte,province,Dominican Republic,Duarte,,,19.2090823,-70.02700039999999
+Dominican_Republic-Elias_Pina,province,Dominican Republic,Elias Pina,,,19.0524685,-71.6198686
+Dominican_Republic-El_Seibo,province,Dominican Republic,El Seibo,,,18.7653036,-69.0389048
+Dominican_Republic-Espaillat,province,Dominican Republic,Espaillat,,,19.6277658,-70.2786775
+Dominican_Republic-Independencia,province,Dominican Republic,Independencia,,,18.3785651,-71.5232874
+Dominican_Republic-La_Altagracia,province,Dominican Republic,La Altagracia,,,18.5850236,-68.62010719999999
+Dominican_Republic-La_Romana,province,Dominican Republic,La Romana,,,18.4338645,-68.9658817
+Dominican_Republic-La_Vega,province,Dominican Republic,La Vega,,,19.2152609,-70.5205436
+Dominican_Republic-Maria_Trinidad_Sanchez,province,Dominican Republic,Maria Trinidad Sanchez,,,19.3734597,-69.85144389999999
+Dominican_Republic-Monte_Cristi,province,Dominican Republic,Monte Cristi,,,19.8473452,-71.6406361
+Dominican_Republic-Pedernales,province,Dominican Republic,Pedernales,,,18.0368683,-71.7454674
+Dominican_Republic-Peravia,province,Dominican Republic,Peravia,,,18.2786594,-70.33358869999999
+Dominican_Republic-Puerto_Plata,province,Dominican Republic,Puerto Plata,,,19.7807686,-70.6871091
+Dominican_Republic-Hermanas_Mirabal,province,Dominican Republic,Hermanas Mirabal,,,19.3747559,-70.35132349999999
+Dominican_Republic-Samana,province,Dominican Republic,Samana,,,19.2030757,-69.3387664
+Dominican_Republic-San_Cristobal,province,Dominican Republic,San Cristobal,,,18.4180414,-70.1065849
+Dominican_Republic-San_Juan,province,Dominican Republic,San Juan,,,18.8073919,-71.2293466
+Dominican_Republic-San_Pedro_de_Macoris,province,Dominican Republic,San Pedro de Macoris,,,18.4720698,-69.2996732
+Dominican_Republic-Sanchez_Ramirez,province,Dominican Republic,Sanchez Ramirez,,,19.052706,-70.1492264
+Dominican_Republic-Santiago,province,Dominican Republic,Santiago,,,19.4791963,-70.6930568
+Dominican_Republic-Santiago-Rodriguez,city,Dominican Republic,Santiago,Rodriguez,Rodriguez,19.4786174,-71.3398271
+Dominican_Republic-Valverde,province,Dominican Republic,Valverde,,,19.5881221,-70.98033099999999
+Dominican_Republic-Monsenor_Nouel,province,Dominican Republic,Monsenor Nouel,,,18.9215234,-70.3836815
+Dominican_Republic-Monte_Plata,province,Dominican Republic,Monte Plata,,,18.8069496,-69.7852843
+Dominican_Republic-Hato_Mayor,province,Dominican Republic,Hato Mayor,,,18.7635428,-69.2549736
+Dominican_Republic-San_Jose_de_Ocoa,province,Dominican Republic,San Jose de Ocoa,,,18.543858,-70.5041816
+Dominican_Republic-Santo_Domingo,province,Dominican Republic,Santo Domingo,,,18.4860575,-69.93121169999999
+Dominican_Republic-Extranjera,province,Dominican Republic,Extranjera,,,18.735693,-70.162651
+Dominican_Republic-Other,province,Dominican Republic,Other,,,18.735693,-70.162651
+Ecuador-Azuay-Cuenca,county,Ecuador,Azuay,Cuenca,Cuenca,-2.9001285,-79.00589649999999
+Ecuador-Bolivar,province,Ecuador,Bolivar,,,-1.7095828,-79.0450429
+Ecuador-Chimborazo-Chunchi,county,Ecuador,Chimborazo,Chunchi,Chunchi,-2.2898244,-78.9217522
+Ecuador-Cotopaxi,province,Ecuador,Cotopaxi,,,-0.6837540999999999,-78.4371901
+Ecuador-El_Oro-Huaquillas,county,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4763823,-80.2225448
+Ecuador-El_Oro-Machala,county,Ecuador,El Oro,Machala,Machala,-3.2581112,-79.9553924
+Ecuador-El_Oro-Pasaje,county,Ecuador,El Oro,Pasaje,Pasaje,-3.3259044,-79.8056661
+Ecuador-El_Oro-Santa_Rosa,county,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4593888,-79.9668308
+Ecuador-Esmeraldas-Esmeraldas,county,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9681789,-79.6517202
+Ecuador-Esmeraldas-Atacames,county,Ecuador,Esmeraldas,Atacames,Atacames,0.8680071,-79.84648039999999
+Ecuador-Esmeraldas-Muisne,county,Ecuador,Esmeraldas,Muisne,Muisne,0.6116136999999999,-80.02065499999999
+Ecuador-Esmeraldas-Quininde,county,Ecuador,Esmeraldas,Quininde,Quininde,0.3268809,-79.4647633
+Ecuador-Esmeraldas-San_Lorenzo,county,Ecuador,Esmeraldas,San Lorenzo,San Lorenzo,1.2694769,-78.84392679999999
+Ecuador-Esmeraldas-Rioverde,county,Ecuador,Esmeraldas,Rioverde,Rioverde,1.059707,-79.403313
+Ecuador-Galapagos-Santa_Cruz,county,Ecuador,Galapagos,Santa Cruz,Santa Cruz,-0.6393592,-90.3371889
+Ecuador-Imbabura-Otavalo,county,Ecuador,Imbabura,Otavalo,Otavalo,0.2343005,-78.2610672
+Ecuador-Guayas-Daule,county,Ecuador,Guayas,Daule,Daule,-1.86218,-79.97766899999999
+Ecuador-Guayas-General_Antonio_Elizalde,county,Ecuador,Guayas,General Antonio Elizalde,General Antonio Elizalde,-2.1890274,-79.1830693
+Ecuador-Guayas-Guayaquil,county,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1709979,-79.9223592
+Ecuador-Guayas-Playas,county,Ecuador,Guayas,Playas,Playas,-2.6284683,-80.3895886
+Ecuador-Guayas-Balzar,county,Ecuador,Guayas,Balzar,Balzar,-1.3664276,-79.8996789
+Ecuador-Los_Rios-Buena_Fe,county,Ecuador,Los Rios,Buena Fe,Buena Fe,-0.8857721,-79.4872619
+Ecuador-Los_Rios-Quevedo,county,Ecuador,Los Rios,Quevedo,Quevedo,-1.0225124,-79.4604035
+Ecuador-Los_Rios-Ventanas,county,Ecuador,Los Rios,Ventanas,Ventanas,-1.4441882,-79.4604818
+Ecuador-Los_Rios-Vinces,county,Ecuador,Los Rios,Vinces,Vinces,-1.553873,-79.7624177
+Ecuador-Manabi-Jipijapa,county,Ecuador,Manabi,Jipijapa,Jipijapa,-1.3525694,-80.5827272
+Ecuador-Los_Rios-Jaramijo,county,Ecuador,Los Rios,Jaramijo,Jaramijo,-0.9560250999999999,-80.6384944
+Ecuador-Manabi-Chone,county,Ecuador,Manabi,Chone,Chone,-0.7140021999999999,-80.109357
+Ecuador-Manabi-Manta,county,Ecuador,Manabi,Manta,Manta,-0.9676533,-80.7089101
+Ecuador-Manabi-Pajan,county,Ecuador,Manabi,Pajan,Pajan,-1.552242,-80.4270885
+Ecuador-Manabi-Pedernales,county,Ecuador,Manabi,Pedernales,Pedernales,0.07311809999999999,-80.0513928
+Ecuador-Manabi-Portoviejo,county,Ecuador,Manabi,Portoviejo,Portoviejo,-1.054723,-80.4524903
+Ecuador-Manabi-Puerto_Lopez,county,Ecuador,Manabi,Puerto Lopez,Puerto Lopez,-1.5539322,-80.80455680000001
+Ecuador-Manabi-Rocafuerte,county,Ecuador,Manabi,Rocafuerte,Rocafuerte,-0.9236736000000001,-80.4508492
+Ecuador-Manabi-Santa_Ana,county,Ecuador,Manabi,Santa Ana,Santa Ana,-1.2069,-80.3686488
+Ecuador-Manabi-San_Vicente,county,Ecuador,Manabi,San Vicente,San Vicente,-0.6047266,-80.402048
+Ecuador-Manabi-24_de_Mayo,county,Ecuador,Manabi,24 de Mayo,24 de Mayo,-0.1754459,-78.47128719999999
+Ecuador-Manabi-Tosagua,county,Ecuador,Manabi,Tosagua,Tosagua,-0.7842208,-80.2343302
+Ecuador-Manabi-Sucre,county,Ecuador,Manabi,Sucre,Sucre,-1.2782708,-80.4243066
+Ecuador-Orellana_Joya_de_los_Sachas,county,Ecuador,,Orellana Joya de los Sachas,,-0.3013626,-76.8571063
+Ecuador-Pichincha-Mejia,county,Ecuador,Pichincha,Mejia,Mejia,-0.5117837,-78.5661073
+Ecuador-Pichincha-Quito,county,Ecuador,Pichincha,Quito,Quito,-0.1806532,-78.4678382
+Ecuador-Pichincha-Cayambe,county,Ecuador,Pichincha,Cayambe,Cayambe,0.0425351,-78.1458804
+Ecuador-Santa_Elena,province,Ecuador,Santa Elena,,,-2.2268901,-80.85938449999999
+Ecuador-Santo_Domingo_de_los_Tsachilas-La_Concordia,county,Ecuador,Santo Domingo de los Tsachilas,La Concordia,La Concordia,0.0091672,-79.391605
+Ecuador-Santo_Domingo_de_los_Tsachilas-Santo_Domingo,county,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo,-0.2389045,-79.17742679999999
+Ecuador-Sucumbios-Shushufindi,county,Ecuador,Sucumbios,Shushufindi,Shushufindi,-0.1882903,-76.6421554
+Ecuador-Sucumbios-Lago_Agrio,county,Ecuador,Sucumbios,Lago Agrio,Lago Agrio,0.0851034,-76.8940156
+Ecuador-Azuay,province,Ecuador,Azuay,,,-2.8943068,-78.9968344
+Ecuador-Esmeraldas,province,Ecuador,Esmeraldas,,,0.9681789,-79.6517202
+Ecuador-Chimborazo,province,Ecuador,Chimborazo,,,-1.4693018,-78.8169396
+Ecuador-Galapagos,province,Ecuador,Galapagos,,,-0.383106,-90.4233344
+Ecuador-Orellana,province,Ecuador,Orellana,,,-0.4545163,-76.9950286
+Ecuador-Guayas,province,Ecuador,Guayas,,,-1.9574839,-79.9192702
+Ecuador-Pichincha,province,Ecuador,Pichincha,,,-0.1464847,-78.4751945
+Ecuador-Los_Rios,province,Ecuador,Los Rios,,,-1.0230607,-79.4608897
+Ecuador-Santo_Domingo_de_los_Tsachilas,province,Ecuador,Santo Domingo de los Tsachilas,,,-0.2521882,-79.1879383
+Ecuador-Sucumbios,province,Ecuador,Sucumbios,,,0.08892309999999999,-76.8897557
+Ecuador-El_Oro,province,Ecuador,El Oro,,,-3.2592413,-79.9583541
+Ecuador-Manabi,province,Ecuador,Manabi,,,-1.0543434,-80.45264399999999
+Ecuador-Loja,province,Ecuador,Loja,,,-4.0078909,-79.2112769
+Ecuador-Napo,province,Ecuador,Napo,,,-0.9955963999999998,-77.8129684
+Ecuador-Canar,province,Ecuador,Canar,,,-2.5589315,-78.9388191
+Ecuador-Imbabura,province,Ecuador,Imbabura,,,0.3499768,-78.12601289999999
+Ecuador-Carchi,province,Ecuador,Carchi,,,0.5026912,-77.9042521
+Ecuador-Manabi-Montecristi,county,Ecuador,Manabi,Montecristi,Montecristi,-1.0452255,-80.6588196
+Ecuador-Tungurahua,province,Ecuador,Tungurahua,,,-1.4702027,-78.4448055
+El_Salvador-Ahuachapan,province,El Salvador,Ahuachapan,,,13.9259486,-89.84113819999999
+El_Salvador-Cabanas,province,El Salvador,Cabanas,,,13.8648288,-88.7493998
+El_Salvador-Chalatenango,province,El Salvador,Chalatenango,,,14.1916648,-89.1705998
+El_Salvador-Cuscatlan,province,El Salvador,Cuscatlan,,,13.8661957,-89.0561532
+El_Salvador-La_Libertad,province,El Salvador,La Libertad,,,13.490697,-89.3084607
+El_Salvador-La_Paz,province,El Salvador,La Paz,,,13.495364,-88.9796776
+El_Salvador-La_Union,province,El Salvador,La Union,,,13.3323464,-87.8500644
+El_Salvador-Morazan,province,El Salvador,Morazan,,,13.7682,-88.1291387
+El_Salvador-San_Miguel,province,El Salvador,San Miguel,,,13.4792922,-88.1779182
+El_Salvador-San_Salvador,province,El Salvador,San Salvador,,,13.6929403,-89.2181911
+El_Salvador-San_Vicente,province,El Salvador,San Vicente,,,13.6390979,-88.7830612
+El_Salvador-Santa_Ana,province,El Salvador,Santa Ana,,,13.9778279,-89.56391190000001
+El_Salvador-Sonsonate,province,El Salvador,Sonsonate,,,13.7113876,-89.72390970000001
+El_Salvador-Usulutan,province,El Salvador,Usulutan,,,13.3453114,-88.4428112
+El_Salvador-Guatemala,province,El Salvador,Guatemala,,,33.8031774,-117.9968103
+El_Salvador-Honduras,province,El Salvador,Honduras,,,33.8031774,-117.9968103
+Guatemala-Chiquimula,city,Guatemala,,,Chiquimula,14.7924897,-89.5450458
+Guatemala-Chimaltenango,city,Guatemala,,,Chimaltenango,14.6631591,-90.8246386
+Guatemala-Escuintla,city,Guatemala,,,Escuintla,14.3009252,-90.7881835
+Guatemala-Suchitepequez,city,Guatemala,,,Suchitepequez,14.4215982,-91.4048249
+Guatemala-Zacapa,city,Guatemala,,,Zacapa,14.9676218,-89.5356094
+Guatemala-Jutiapa,city,Guatemala,,,Jutiapa,14.1930802,-89.9253233
+Guatemala-Nor_Oriente,city,Guatemala,,,Nor Oriente,38.9826766,-76.9786416
+Guatemala-Alta_Verapaz,city,Guatemala,,,Alta Verapaz,15.5942883,-90.14949879999999
+Guatemala-Baja_Verapaz,city,Guatemala,,,Baja Verapaz,15.0787498,-90.4125181
+Guatemala-Izabal,city,Guatemala,,,Izabal,15.5918066,-88.94138650000001
+Guatemala-Ixcan,city,Guatemala,,,Ixcan,15.9862537,-90.7675424
+Guatemala-Jalapa,city,Guatemala,,,Jalapa,14.5655154,-89.9253233
+Guatemala-Peten_Norte,city,Guatemala,,,Peten Norte,16.912033,-90.2995785
+Guatemala-Quetzaltenango,city,Guatemala,,,Quetzaltenango,14.8446068,-91.5231866
+Guatemala-San_Marcos,city,Guatemala,,,San Marcos,14.9609782,-91.80745859999999
+Guatemala-Sur,city,Guatemala,,,Sur,34.8689824,-82.43854569999999
+Guatemala-Nor_Occidente,city,Guatemala,,,Nor Occidente,14.6550236,-90.6036767
+Guatemala-Peten_Sur_Oriental,city,Guatemala,,,Peten Sur Oriental,16.3336226,-89.4183224
+Guatemala-El_Progreso,city,Guatemala,,,El Progreso,14.8921637,-90.0373201
+Guatemala-Santa_Rosa,city,Guatemala,,,Santa Rosa,14.1928003,-90.37483540000001
+Guatemala-Retalhuleu,city,Guatemala,,,Retalhuleu,14.5245485,-91.685788
+Guatemala-Sacatepequez,city,Guatemala,,,Sacatepequez,14.6110576,-90.7152749
+Guatemala-Solola,city,Guatemala,,,Solola,14.7666085,-91.17850159999999
+Guatemala-El_Quiche,city,Guatemala,,,El Quiche,15.4983808,-90.9820668
+Guatemala-Peten_Sur_Occidental,city,Guatemala,,,Peten Sur Occidental,16.912033,-90.2995785
+Guatemala-Central,city,Guatemala,,,Central,15.783471,-90.23075899999999
+Guatemala-Ixil,city,Guatemala,,,Ixil,15.4093428,-91.148254
+Guatemala-Huehuetenango,city,Guatemala,,,Huehuetenango,15.320133,-91.4700395
+Guatemala-Totonicapan,city,Guatemala,,,Totonicapan,14.9173402,-91.36139229999999
+Guatemala-Quiche,city,Guatemala,,,Quiche,15.4983808,-90.9820668
+Haiti-Artibonite-Desssalines_Marchand,city,Haiti,Artibonite,Desssalines Marchand,Desssalines Marchand,19.2615558,-72.5190038
+Haiti-Artibonite-Ennery,city,Haiti,Artibonite,Ennery,Ennery,19.4849192,-72.483507
+Haiti-Artibonite-Gonaives,city,Haiti,Artibonite,Gonaives,Gonaives,19.4511496,-72.6801576
+Haiti-Artibonite-Verrettes,city,Haiti,Artibonite,Verrettes,Verrettes,19.0487026,-72.47019449999999
+Haiti-Artibonite,province,Haiti,Artibonite,,,19.362902,-72.4258145
+Haiti-Centre-Hinche,city,Haiti,Centre,Hinche,Hinche,19.1411602,-72.014223
+Haiti-Centre-Maissade,city,Haiti,Centre,Maissade,Maissade,19.1765583,-72.13865129999999
+Haiti-Centre-Mirebalais,city,Haiti,Centre,Mirebalais,Mirebalais,18.8350125,-72.1031057
+Haiti-Centre,province,Haiti,Centre,,,18.9582742,-72.0468164
+Haiti-Grande_Anse-Corail,city,Haiti,Grande Anse,Corail,Corail,18.5680048,-73.88968489999999
+Haiti-Grande_Anse-Dame_Marie,city,Haiti,Grande Anse,Dame Marie,Dame Marie,18.5614891,-74.4195864
+Haiti-Grande_Anse-Roseaux,city,Haiti,Grande Anse,Roseaux,Roseaux,18.5994121,-74.0189955
+Haiti-Grande_Anse,province,Haiti,Grande Anse,,,18.5489259,-74.07701
+Haiti-Nippes-Fond_Des_Negres,city,Haiti,Nippes,Fond Des Negres,Fond Des Negres,18.3675276,-73.226405
+Haiti-Nippes-Miragoane,city,Haiti,Nippes,Miragoane,Miragoane,18.4395252,-73.08627349999999
+Haiti-Nippes,province,Haiti,Nippes,,,18.3990735,-73.4180211
+Haiti-Nord-Cap_Haitien,city,Haiti,Nord,Cap Haitien,Cap Haitien,19.7370362,-72.20676809999999
+Haiti-Nord-Limbe,city,Haiti,Nord,Limbe,Limbe,19.7025729,-72.40510139999999
+Haiti-Nord-Milot,city,Haiti,Nord,Milot,Milot,19.6092712,-72.2134308
+Haiti-Nord-Pignon,city,Haiti,Nord,Pignon,Pignon,19.3362853,-72.11643579999999
+Haiti-Nord-Plaine_du_Nord,city,Haiti,Nord,Plaine du Nord,Plaine du Nord,19.67707,-72.2696
+Haiti-Nord-Plaisance,city,Haiti,Nord,Plaisance,Plaisance,19.5986436,-72.4716737
+Haiti-Nord,province,Haiti,Nord,,,19.5687715,-72.189
+Haiti-Nord_Est-Ouanaminthe,city,Haiti,Nord Est,Ouanaminthe,Ouanaminthe,19.5473723,-71.72962489999999
+Haiti-Nord_Est,province,Haiti,Nord Est,,,19.4889723,-71.8571331
+Haiti-Nord_Ouest-La_Tortue,city,Haiti,Nord Ouest,La Tortue,La Tortue,20.0548685,-72.79246119999999
+Haiti-Nord_Ouest-Saint_Louis_du_Nord,city,Haiti,Nord Ouest,Saint Louis du Nord,Saint Louis du Nord,19.9276075,-72.7141496
+Haiti-Nord_Ouest,province,Haiti,Nord Ouest,,,19.8374009,-73.0405277
+Haiti-Ouest-Carrefour,city,Haiti,Ouest,Carrefour,Carrefour,18.5295981,-72.40806049999999
+Haiti-Ouest-Croix_des_Bouquets,city,Haiti,Ouest,Croix des Bouquets,Croix des Bouquets,18.5761,-72.2269
+Haiti-Ouest-Delmas,city,Haiti,Ouest,Delmas,Delmas,18.5433614,-72.3052124
+Haiti-Ouest-Petion_Ville,city,Haiti,Ouest,Petion Ville,Petion Ville,18.5138139,-72.2881907
+Haiti-Ouest-Petit_Goave,city,Haiti,Ouest,Petit Goave,Petit Goave,18.4311407,-72.8545019
+Haiti-Ouest-Port_au_Prince,city,Haiti,Ouest,Port au Prince,Port au Prince,18.594395,-72.3074326
+Haiti-Ouest,province,Haiti,Ouest,,,18.4957015,-72.4731529
+Haiti-Sud-Aquin,city,Haiti,Sud,Aquin,Aquin,18.2807252,-73.3959201
+Haiti-Sud,province,Haiti,Sud,,,18.3320005,-73.7007088
+Haiti-Sud_Est-Anse_A_Pitres,city,Haiti,Sud Est,Anse A Pitres,Anse A Pitres,18.0454463,-71.75779969999999
+Haiti-Sud_Est-Cotes_de_Fer,city,Haiti,Sud Est,Cotes de Fer,Cotes de Fer,18.18877,-73.00289149999999
+Haiti-Sud_Est-Marigot,city,Haiti,Sud Est,Marigot,Marigot,18.2336579,-72.32075309999999
+Haiti-Sud_Est,province,Haiti,Sud Est,,,18.2783598,-72.35479149999999
+Mexico-Aguascalientes,province,Mexico,Aguascalientes,,,21.8852562,-102.2915677
+Mexico-Baja_California,province,Mexico,Baja California,,,30.8406338,-115.2837585
+Mexico-Baja_California_Sur,province,Mexico,Baja California Sur,,,26.0444446,-111.6660725
+Mexico-Campeche,province,Mexico,Campeche,,,18.931225,-90.2618068
+Mexico-Chiapas,province,Mexico,Chiapas,,,16.7569318,-93.12923529999999
+Mexico-Chihuahua,province,Mexico,Chihuahua,,,28.6329957,-106.0691004
+Mexico-Coahuila_de_Zaragoza,province,Mexico,Coahuila de Zaragoza,,,27.058676,-101.7068294
+Mexico-Colima,province,Mexico,Colima,,,19.1222634,-104.0072348
+Mexico-Distrito_Federal,province,Mexico,Distrito Federal,,,19.4326077,-99.133208
+Mexico-Durango,province,Mexico,Durango,,,24.5592665,-104.6587821
+Mexico-Guanajuato,province,Mexico,Guanajuato,,,21.0190145,-101.2573586
+Mexico-Guerrero,province,Mexico,Guerrero,,,17.4391926,-99.54509739999999
+Mexico-Hidalgo,province,Mexico,Hidalgo,,,20.0910963,-98.7623874
+Mexico-Jalisco,province,Mexico,Jalisco,,,20.6595382,-103.3494376
+Mexico-Mexico,province,Mexico,Mexico,,,23.634501,-102.552784
+Mexico-Michoacan_de_Ocampo,province,Mexico,Michoacan de Ocampo,,,19.5665192,-101.7068294
+Mexico-Morelos,province,Mexico,Morelos,,,18.6813049,-99.1013498
+Mexico-Nayarit,province,Mexico,Nayarit,,,21.7513844,-104.8454619
+Mexico-Nuevo_Leon,province,Mexico,Nuevo Leon,,,25.592172,-99.99619469999999
+Mexico-Oaxaca,province,Mexico,Oaxaca,,,17.0731842,-96.7265889
+Mexico-Puebla,province,Mexico,Puebla,,,19.0414398,-98.2062727
+Mexico-Queretaro_de_Arteaga,province,Mexico,Queretaro de Arteaga,,,20.5888184,-100.3898876
+Mexico-Quintana_Roo,province,Mexico,Quintana Roo,,,19.1817393,-88.4791376
+Mexico-San_Luis_Potosi,province,Mexico,San Luis Potosi,,,22.1564699,-100.9855409
+Mexico-Sinaloa,province,Mexico,Sinaloa,,,25.1721091,-107.4795173
+Mexico-Sonora,province,Mexico,Sonora,,,29.2972247,-110.3308814
+Mexico-Tabasco,province,Mexico,Tabasco,,,17.8409173,-92.6189273
+Mexico-Tamaulipas,province,Mexico,Tamaulipas,,,24.26694,-98.8362755
+Mexico-Tlaxcala,province,Mexico,Tlaxcala,,,19.318154,-98.2374954
+Mexico-Veracruz_de_Ignacio_de_la_Llave,province,Mexico,Veracruz de Ignacio de la Llave,,,19.2601605,-96.57833869999999
+Mexico-Yucatan,province,Mexico,Yucatan,,,18.806656,-89.3985283
+Mexico-Zacatecas,province,Mexico,Zacatecas,,,22.7708555,-102.5832426
+Nicaragua-Chinandega,city,Nicaragua,,,Chinandega,12.6234721,-87.1273253
+Nicaragua-Chinandega-San_Pedro_del_Norte,city,Nicaragua,Chinandega,San Pedro del Norte,San Pedro del Norte,13.2754541,-86.8778567
+Nicaragua-Leon,city,Nicaragua,,,Leon,12.4315534,-86.87221459999999
+Nicaragua-Leon-Quetzalguaque,city,Nicaragua,Leon,Quetzalguaque,Quetzalguaque,12.5077895,-86.9035511
+Nicaragua-Leon-Telica,city,Nicaragua,Leon,Telica,Telica,12.6058333,-86.8422222
+Nicaragua-Managua,city,Nicaragua,,,Managua,12.1149926,-86.2361744
+Nicaragua-Managua-Ciudad_Sandino,city,Nicaragua,Managua,Ciudad Sandino,Ciudad Sandino,12.1564921,-86.3528838
+Nicaragua-Masaya-Masatepe,city,Nicaragua,Masaya,Masatepe,Masatepe,11.9171458,-86.1471939
+Nicaragua-Masaya-Nindiri,city,Nicaragua,Masaya,Nindiri,Nindiri,12.0022437,-86.1217424
+Nicaragua-Masaya-San_Juan_de_Oriente,city,Nicaragua,Masaya,San Juan de Oriente,San Juan de Oriente,11.9033035,-86.0720757
+Nicaragua-Matagalpa,city,Nicaragua,,,Matagalpa,12.9290069,-85.9151211
+Nicaragua-Nueva_Segovia-Ocotal,city,Nicaragua,Nueva Segovia,Ocotal,Ocotal,13.6289038,-86.48449140000001
+Nicaragua-Rivas-Cardenas,city,Nicaragua,Rivas,Cardenas,Cardenas,11.1975463,-85.51101039999999
+Nicaragua-Other,city,Nicaragua,,,Other,12.865416,-85.207229
+Nicaragua-Rivas,city,Nicaragua,,,Rivas,11.4326663,-85.8230251
+Nicaragua-Masaya,city,Nicaragua,,,Masaya,11.9704485,-86.0886366
+Nicaragua-Carazo,city,Nicaragua,,,Carazo,11.7274729,-86.21584969999999
+Nicaragua-Granada,city,Nicaragua,,,Granada,11.9344073,-85.9560005
+Nicaragua-Nueva_Segovia,city,Nicaragua,,,Nueva Segovia,13.7894404,-86.0121573
+Nicaragua-Jinotega,city,Nicaragua,,,Jinotega,13.0883907,-85.9993997
+Panama-Kuna_Yala-Acuatupu,county,Panama,Kuna Yala,Acuatupu,Acuatupu,9.1986445,-77.9870696
+Panama-Kuna_Yala-Mulatupu,county,Panama,Kuna Yala,Mulatupu,Mulatupu,8.537981,-80.782127
+Panama-Kuna_Yala-Ogobsucum,county,Panama,Kuna Yala,Ogobsucum,Ogobsucum,8.537981,-80.782127
+Panama-Kuna_Yala-Ustupu,county,Panama,Kuna Yala,Ustupu,Ustupu,9.1324305,-77.9267437
+Panama-Kuna_Yala-Achutupu,county,Panama,Kuna Yala,Achutupu,Achutupu,9.1986445,-77.9870696
+Panama-Kuna_Yala-Pto_Obaldia,county,Panama,Kuna Yala,Pto Obaldia,Pto Obaldia,8.537981,-80.782127
+Panama-Kuna_Yala-Playon_Chico,county,Panama,Kuna Yala,Playon Chico,Playon Chico,9.300226,-78.23721499999999
+Panama-Kuna_Yala-Nargana,county,Panama,Kuna Yala,Nargana,Nargana,9.4447222,-78.5861111
+Panama-Kuna_Yala-Corazon_de_Jesus,county,Panama,Kuna Yala,Corazon de Jesus,Corazon de Jesus,9.4447222,-78.5861111
+Panama-Kuna_Yala-Rio_Azucar,county,Panama,Kuna Yala,Rio Azucar,Rio Azucar,9.425366,-78.629898
+Panama-Kuna_Yala-Rio_Sidra,county,Panama,Kuna Yala,Rio Sidra,Rio Sidra,9.5028094,-78.8485822
+Panama-Kuna_Yala-Carti_Sugdup,county,Panama,Kuna Yala,Carti Sugdup,Carti Sugdup,8.537981,-80.782127
+Panama-Kuna_Yala-Ailigandi,county,Panama,Kuna Yala,Ailigandi,Ailigandi,8.537981,-80.782127
+Panama-Kuna_Yala-Ailitupu,county,Panama,Kuna Yala,Ailitupu,Ailitupu,8.537981,-80.782127
+Panama-Kuna_Yala-Nalugena,county,Panama,Kuna Yala,Nalugena,Nalugena,8.537981,-80.782127
+Panama-Kuna_Yala-Mamitupu,county,Panama,Kuna Yala,Mamitupu,Mamitupu,9.1791225,-77.98243029999999
+Panama-Kuna_Yala-Wichubhula,county,Panama,Kuna Yala,Wichubhula,Wichubhula,8.537981,-80.782127
+Panama-Kuna_Yala-Soledad_Miria,county,Panama,Kuna Yala,Soledad Miria,Soledad Miria,9.445,-78.89989700000001
+Panama-Kuna_Yala-Soledad_Miriam,county,Panama,Kuna Yala,Soledad Miriam,Soledad Miriam,9.445,-78.89989700000001
+Panama-Kuna_Yala-Naranjo_Chico,county,Panama,Kuna Yala,Naranjo Chico,Naranjo Chico,9.45,-79.0333333
+Panama-Metro-Tocumen,county,Panama,Metro,Tocumen,Tocumen,9.0674846,-79.3690831
+Panama-Metro-SanFrancisco,county,Panama,Metro,SanFrancisco,SanFrancisco,8.9924711,-79.5069436
+Panama-Metro-Man_anitas,county,Panama,Metro,Man anitas,Man anitas,9.1180319,-79.4197497
+Panama-Metro-Calidonia,county,Panama,Metro,Calidonia,Calidonia,8.971488899999999,-79.53505299999999
+Panama-Metro-Juan_Diaz,county,Panama,Metro,Juan Diaz,Juan Diaz,9.0311421,-79.4310052
+Panama-Metro-Parque_Lefevre,county,Panama,Metro,Parque Lefevre,Parque Lefevre,9.0136149,-79.4844499
+Panama-Metro-Santa_Ana,county,Panama,Metro,Santa Ana,Santa Ana,8.9567148,-79.542079
+Panama-Metro-Rio_Abajo,county,Panama,Metro,Rio Abajo,Rio Abajo,9.0195473,-79.5013207
+Panama-Metro-Pueblo_Nuevo,county,Panama,Metro,Pueblo Nuevo,Pueblo Nuevo,9.0144214,-79.5125662
+Panama-Metro-Chorrillo,county,Panama,Metro,Chorrillo,Chorrillo,8.9493285,-79.5455917
+Panama-Metro-Bella_Vista,county,Panama,Metro,Bella Vista,Bella Vista,8.9875064,-79.5238103
+Panama-Metro-Bethania,county,Panama,Metro,Bethania,Bethania,9.009455899999999,-79.5294318
+Panama-Metro-Ancon,county,Panama,Metro,Ancon,Ancon,9.052817000000001,-79.61652099999999
+Panama-Metro-San_Felipe,county,Panama,Metro,San Felipe,San Felipe,8.9531326,-79.5357556
+Panama-Metro-Pedregal,county,Panama,Metro,Pedregal,Pedregal,9.0968746,-79.4422593
+Panama-Metro-24_de_Diciembre,county,Panama,Metro,24 de Diciembre,24 de Diciembre,9.0972163,-79.36063589999999
+Panama-Metro-Clayton,county,Panama,Metro,Clayton,Clayton,9.0039675,-79.57579609999999
+Panama-Metro-Costa_del_Este,county,Panama,Metro,Costa del Este,Costa del Este,9.0131299,-79.467576
+Panama-Metro-Taboga,county,Panama,Metro,Taboga,Taboga,8.787191199999999,-79.55753419999999
+Panama-Metro-Las_Garzas,county,Panama,Metro,Las Garzas,Las Garzas,8.9539301,-79.5344526
+Panama-Metro-Arnulfo_Arias,county,Panama,Metro,Arnulfo Arias,Arnulfo Arias,9.0667073,-79.4830438
+Panama-Metro-Gamboa,county,Panama,Metro,Gamboa,Gamboa,9.1164638,-79.696513
+Panama-Metro-Veracruz,county,Panama,Metro,Veracruz,Veracruz,8.8876607,-79.6421415
+Panama-Panama_Oeste-Gorgona,county,Panama,Panama Oeste,Gorgona,Gorgona,8.5569109,-79.87168369999999
+Panama-Panama_Oeste-Guadalupe,county,Panama,Panama Oeste,Guadalupe,Guadalupe,26.898009,-101.431847
+Panama-Panama_Oeste-Arraija_n,county,Panama,Panama Oeste,Arraija n,Arraija n,8.9417522,-79.6425589
+Panama-Panama_Oeste-La_Chorrera,county,Panama,Panama Oeste,La Chorrera,La Chorrera,8.8828941,-79.77363059999999
+Panama-Panama_Oeste-Playa_Leona,county,Panama,Panama Oeste,Playa Leona,Playa Leona,8.798655199999999,-79.7764337
+Panama-Panama_Oeste-El_Coco,county,Panama,Panama Oeste,El Coco,El Coco,8.8702881,-79.810063
+Panama-Panama_Oeste-La_Mitra,county,Panama,Panama Oeste,La Mitra,La Mitra,8.8423151,-79.7820394
+Panama-Panama_Oeste-Vista_Alegre,county,Panama,Panama Oeste,Vista Alegre,Vista Alegre,8.9300687,-79.69912099999999
+Panama-Panama_Norte-las_cumbres,county,Panama,Panama Norte,las cumbres,las cumbres,9.0945134,-79.54910439999999
+Panama-Panama_Norte-Chilibre,county,Panama,Panama Norte,Chilibre,Chilibre,9.1619401,-79.61652099999999
+Panama-Panama_Norte-Ernesto_Cordoba,county,Panama,Panama Norte,Ernesto Cordoba,Ernesto Cordoba,9.0789636,-79.5088291
+Panama-Colon-Salamanca,county,Panama,Colon,Salamanca,Salamanca,9.3335381,-79.596863
+Panama-Colon-San_Juan,county,Panama,Colon,San Juan,San Juan,9.2248092,-79.6656473
+Panama-San_Miguelito-Villas_del_Golf,county,Panama,San Miguelito,Villas del Golf,Villas del Golf,7.960973200000001,-80.4489929
+Panama-San_Miguelito-San_Jose,county,Panama,San Miguelito,San Jose,San Jose,8.2636939,-79.1153367
+Panama-San_Miguelito-Quintas_de_Montichello,county,Panama,San Miguelito,Quintas de Montichello,Quintas de Montichello,9.0562688,-79.46370859999999
+Panama-San_Miguelito-Mano_de_Piedra,county,Panama,San Miguelito,Mano de Piedra,Mano de Piedra,8.559085,-80.371071
+Panama-San_Miguelito-Samaria,county,Panama,San Miguelito,Samaria,Samaria,9.0551791,-79.4946229
+Panama-San_Miguelito-Altos_de_Panama,county,Panama,San Miguelito,Altos de Panama,Altos de Panama,9.0380232,-79.5280264
+Panama-San_Miguelito-Camino_Real,county,Panama,San Miguelito,Camino Real,Camino Real,9.065486,-79.4408526
+Panama-San_Miguelito-Condado_del_Rey,county,Panama,San Miguelito,Condado del Rey,Condado del Rey,9.0344759,-79.5231075
+Panama-San_Miguelito-Villa_Lucre,county,Panama,San Miguelito,Villa Lucre,Villa Lucre,9.055198899999999,-79.4838248
+Panama-San_Miguelito-Brisas_del_Golf,county,Panama,San Miguelito,Brisas del Golf,Brisas del Golf,9.076070699999999,-79.45899320000001
+Panama-San_Miguelito-Victoriano_Lorenzo,county,Panama,San Miguelito,Victoriano Lorenzo,Victoriano Lorenzo,9.0319282,-79.5055379
+Panama-San_Miguelito-Omar_Torrijos,county,Panama,San Miguelito,Omar Torrijos,Omar Torrijos,9.0555358,-79.5209994
+Panama-San_Miguelito-Ojo_de_Agua,county,Panama,San Miguelito,Ojo de Agua,Ojo de Agua,8.592535,-80.63546649999999
+Panama-San_Miguelito-Villa_Guadalupe,county,Panama,San Miguelito,Villa Guadalupe,Villa Guadalupe,9.032782899999999,-79.49218789999999
+Panama-San_Los_Santos-La_Villa,county,Panama,San Los Santos,La Villa,La Villa,7.9407745,-80.4048306
+Panama-Darien-Rio_Congo,county,Panama,Darien,Rio Congo,Rio Congo,8.404109,-78.369316
+Panama-Herrera-Chitre,county,Panama,Herrera,Chitre,Chitre,7.9523119,-80.4382153
+Panama-Sin_Especificar,county,Panama,,Sin Especificar,,8.537981,-80.782127
+Panama-San_Miguelito,province,Panama,San Miguelito,,,9.0707553,-79.4816378
+Panama-Chiriqui,province,Panama,Chiriqui,,,8.584897999999999,-82.38857829999999
+Panama-Kuna_Yala,province,Panama,Kuna Yala,,,9.234439499999999,-78.19262499999999
+Panama-Metro,province,Panama,Metro,,,8.9727515,-79.5328846
+Panama-P_Oeste,province,Panama,P Oeste,,,8.7586041,-79.87517629999999
+Panama-Costa_del_Este,county,Panama,,Costa del Este,,9.0131299,-79.467576
+Panama-P.Este-Las_Margaritas,county,Panama,P.Este,Las Margaritas,Las Margaritas,8.559663,-80.0651929
+Panama-Veraguas-Santiago,county,Panama,Veraguas,Santiago,Santiago,8.088494299999999,-80.9760556
+Panama-Darien,province,Panama,Darien,,,7.868171299999999,-77.8367282
+Panama-Herrera,province,Panama,Herrera,,,7.7704282,-80.7214417
+Panama-Ngabe_Bugle,province,Panama,Ngabe Bugle,,,8.6595833,-81.77870209999999
+Panama-Veraguas,province,Panama,Veraguas,,,8.1231033,-81.0754657
+Panama-Panama_Norte,province,Panama,Panama Norte,,,9.101307400000001,-79.4928125
+Panama-Importados,province,Panama,Importados,,,8.9927607,-79.5183483
+Panama-Panama_Este,province,Panama,Panama Este,,,8.9823792,-79.51986959999999
+Panama-Bocas_del_Toro,province,Panama,Bocas del Toro,,,9.416552099999999,-82.5207787
+Panama-Panama_Oeste,province,Panama,Panama Oeste,,,8.537981,-80.782127
+Panama-Los_Santos,province,Panama,Los Santos,,,7.5909302,-80.365865
+Panama-Bocas_del_Toro-Bastimento,county,Panama,Bocas del Toro,Bastimento,Bastimento,9.3030589,-82.1496049
+Panama-Bocas_del_Toro-Bocas_del_Toro,county,Panama,Bocas del Toro,Bocas del Toro,Bocas del Toro,9.416552099999999,-82.5207787
+Panama-Cocle,province,Panama,Cocle,,,8.6266068,-80.365865
+Panama-Cocle-Rio_Hato,county,Panama,Cocle,Rio Hato,Rio Hato,8.4140603,-80.109357
+Panama-Colon,province,Panama,Colon,,,9.359302,-79.89986080000001
+Panama-SD,province,Panama,SD,,,8.537981,-80.782127
+United_States-Puerto_Rico,province,United States,Puerto Rico,,,38.933011,-77.34585700000001
+United_States-Alabama,province,United States,Alabama,,,32.3182314,-86.902298
+United_States-Arizona,province,United States,Arizona,,,34.0489281,-111.0937311
+United_States-Arkansas,province,United States,Arkansas,,,35.20105,-91.8318334
+United_States-California,province,United States,California,,,36.778261,-119.4179324
+United_States-Colorado,province,United States,Colorado,,,39.5500507,-105.7820674
+United_States-Connecticut,province,United States,Connecticut,,,41.6032207,-73.087749
+United_States-Delaware,province,United States,Delaware,,,38.9108325,-75.52766989999999
+United_States-District_of_Columbia,province,United States,District of Columbia,,,38.9071923,-77.0368707
+United_States-Florida,province,United States,Florida,,,27.6648274,-81.5157535
+United_States-Georgia,province,United States,Georgia,,,32.1656221,-82.9000751
+United_States-Illinois,province,United States,Illinois,,,40.6331249,-89.3985283
+United_States-Indiana,province,United States,Indiana,,,40.2671941,-86.1349019
+United_States-Iowa,province,United States,Iowa,,,41.8780025,-93.097702
+United_States-Idaho,province,United States,Idaho,,,44.0682019,-114.7420408
+United_States-Kansas,province,United States,Kansas,,,39.011902,-98.4842465
+United_States-Kentucky,province,United States,Kentucky,,,37.8393332,-84.2700179
+United_States-Louisiana,province,United States,Louisiana,,,30.9842977,-91.96233269999999
+United_States-Maine,province,United States,Maine,,,45.253783,-69.4454689
+United_States-Maryland,province,United States,Maryland,,,39.0457549,-76.64127119999999
+United_States-Massachusetts,province,United States,Massachusetts,,,42.4072107,-71.3824374
+United_States-Michigan,province,United States,Michigan,,,44.3148443,-85.60236429999999
+United_States-Minnesota,province,United States,Minnesota,,,46.729553,-94.6858998
+United_States-Mississippi,province,United States,Mississippi,,,32.3546679,-89.3985283
+United_States-Missouri,province,United States,Missouri,,,37.9642529,-91.8318334
+United_States-Montana,province,United States,Montana,,,46.8796822,-110.3625658
+United_States-Nebraska,province,United States,Nebraska,,,41.4925374,-99.9018131
+United_States-Nevada,province,United States,Nevada,,,38.8026097,-116.419389
+United_States-New_Hampshire,province,United States,New Hampshire,,,43.1938516,-71.5723953
+United_States-New_Jersey,province,United States,New Jersey,,,40.0583238,-74.4056612
+United_States-New_Mexico,province,United States,New Mexico,,,34.5199402,-105.8700901
+United_States-New_York,province,United States,New York,,,40.7127753,-74.0059728
+United_States-North_Carolina,province,United States,North Carolina,,,35.7595731,-79.01929969999999
+United_States-North_Dakota,province,United States,North Dakota,,,47.5514926,-101.0020119
+United_States-Ohio,province,United States,Ohio,,,40.4172871,-82.90712300000001
+United_States-Oklahoma,province,United States,Oklahoma,,,35.0077519,-97.092877
+United_States-Oregon,province,United States,Oregon,,,43.8041334,-120.5542012
+United_States-Pennsylvania,province,United States,Pennsylvania,,,41.2033216,-77.1945247
+United_States-Puerto_Rico,province,United States,Puerto Rico,,,38.933011,-77.34585700000001
+United_States-Rhode_Island,province,United States,Rhode Island,,,41.5800945,-71.4774291
+United_States-South_Carolina,province,United States,South Carolina,,,33.836081,-81.1637245
+United_States-South_Dakota,province,United States,South Dakota,,,43.9695148,-99.9018131
+United_States-Tennessee,province,United States,Tennessee,,,35.5174913,-86.5804473
+United_States-Texas,province,United States,Texas,,,31.9685988,-99.9018131
+United_States-US_Virgin_Islands,province,United States,Virgin Islands,,,18.335765,-64.896335
+United_States-Utah,province,United States,Utah,,,39.3209801,-111.0937311
+United_States-Vermont,province,United States,Vermont,,,44.5588028,-72.57784149999999
+United_States-Virginia,province,United States,Virginia,,,37.4315734,-78.6568942
+United_States-Washington,province,United States,Washington,,,47.7510741,-120.7401385
+United_States-West_Virginia,province,United States,West Virginia,,,38.5976262,-80.4549026
+United_States-Wyoming,province,United States,Wyoming,,,43.0759678,-107.2902839
+United_States-Wisconsin,province,United States,Wisconsin,,,43.7844397,-88.7878678
+United_States-Florida-Alachua_County,county,United States,Florida,Alachua,Alachua County,29.6579549,-82.3017728
+United_States-Florida-Baker_County,county,United States,Florida,Baker,Baker County,35.2675155,-116.0739073
+United_States-Florida-Bay_County,county,United States,Florida,Bay,Bay County,30.24,-85.63
+United_States-Florida-Bradford_County,county,United States,Florida,Bradford,Bradford County,41.9564953,-78.649163
+United_States-Florida-Brevard_County,county,United States,Florida,Brevard,Brevard County,35.2334472,-82.7342919
+United_States-Florida-Broward_County,county,United States,Florida,Broward,Broward County,26.190096,-80.365865
+United_States-Florida-Calhoun_County,county,United States,Florida,Calhoun,Calhoun County,34.502587,-84.9510542
+United_States-Florida-Charlotte_County,county,United States,Florida,Charlotte,Charlotte County,35.2270869,-80.8431267
+United_States-Florida-Citrus_County,county,United States,Florida,Citrus,Citrus County,28.8848842,-82.5185837
+United_States-Florida-Clay_County,county,United States,Florida,Clay,Clay County,38.6886589,-88.35421199999999
+United_States-Florida-Collier_County,county,United States,Florida,Collier,Collier County,26.069985,-81.42789839999999
+United_States-Florida-Columbia_County,county,United States,Florida,Columbia,Columbia County,34.0007104,-81.0348144
+United_States-Florida-DeSoto_County,county,United States,Florida,DeSoto,DeSoto County,32.5896998,-96.8570738
+United_States-Florida-Dixie_County,county,United States,Florida,Dixie,Dixie County,30.7857515,-83.664328
+United_States-Florida-Duval_County,county,United States,Florida,Duval,Duval County,30.3500511,-81.6035062
+United_States-Florida-Escambia_County,county,United States,Florida,Escambia,Escambia County,30.6389408,-87.3413599
+United_States-Florida-Flagler_County,county,United States,Florida,Flagler,Flagler County,29.4086072,-81.2518833
+United_States-Florida-Franklin_County,county,United States,Florida,Franklin,Franklin County,35.9250637,-86.8688899
+United_States-Florida-Gadsden_County,county,United States,Florida,Gadsden,Gadsden County,34.014264,-86.0066386
+United_States-Florida-Gilchrist_County,county,United States,Florida,Gilchrist,Gilchrist County,29.5124537,-94.4890794
+United_States-Florida-Glades_County,county,United States,Florida,Glades,Glades County,26.984415,-81.0754657
+United_States-Florida-Gulf_County,county,United States,Florida,Gulf,Gulf County,29.8001623,-85.35496499999999
+United_States-Florida-Hamilton_County,county,United States,Florida,Hamilton,Hamilton County,39.3995008,-84.5613355
+United_States-Florida-Hardee_County,county,United States,Florida,Hardee,Hardee County,27.4501733,-81.8224362
+United_States-Florida-Hendry_County,county,United States,Florida,Hendry,Hendry County,26.6105319,-81.0754657
+United_States-Florida-Hernando_County,county,United States,Florida,Hernando,Hernando County,34.823987,-89.9937018
+United_States-Florida-Highlands_County,county,United States,Florida,Highlands,Highlands County,35.0525909,-83.19681729999999
+United_States-Florida-Hillsborough_County,county,United States,Florida,Hillsborough,Hillsborough County,37.5741032,-122.3794163
+United_States-Florida-Holmes_County,county,United States,Florida,Holmes,Holmes County,40.5540928,-81.909826
+United_States-Florida-IndianRiver_County,county,United States,Florida,IndianRiver,IndianRiver County,28.2321684,-80.6003715
+United_States-Florida-Jackson_County,county,United States,Florida,Jackson,Jackson County,32.2987573,-90.1848103
+United_States-Florida-Jefferson_County,county,United States,Florida,Jefferson,Jefferson County,41.7386662,-80.7698066
+United_States-Florida-Lafayette_County,county,United States,Florida,Lafayette,Lafayette County,30.2240897,-92.0198427
+United_States-Florida-Lake_County,county,United States,Florida,Lake,Lake County,39.09,-122.76
+United_States-Florida-Lee_County,county,United States,Florida,Lee,Lee County,37.09024,-95.712891
+United_States-Florida-Leon_County,county,United States,Florida,Leon,Leon County,30.4906177,-84.1857115
+United_States-Florida-Levy_County,county,United States,Florida,Levy,Levy County,29.3178545,-82.82097399999999
+United_States-Florida-Liberty_County,county,United States,Florida,Liberty,Liberty County,39.2461138,-94.4191177
+United_States-Florida-Madison_County,county,United States,Florida,Madison,Madison County,43.0730517,-89.4012302
+United_States-Florida-Manatee_County,county,United States,Florida,Manatee,Manatee County,27.4799195,-82.34518899999999
+United_States-Florida-Marion_County,county,United States,Florida,Marion,Marion County,40.5583739,-85.6591442
+United_States-Florida-Martin_County,county,United States,Florida,Martin,Martin County,36.3433965,-88.8503379
+United_States-Florida-Miami_Dade_County,county,United States,Florida,Miami Dade,Miami Dade County,25.5516034,-80.6326916
+United_States-Florida-Monroe_County,county,United States,Florida,Monroe,Monroe County,32.5093109,-92.1193012
+United_States-Florida-Nassau_County,county,United States,Florida,Nassau,Nassau County,25.0479835,-77.355413
+United_States-Florida-Okaloosa_County,county,United States,Florida,Okaloosa,Okaloosa County,30.57734009999999,-86.6611083
+United_States-Florida-Okeechobee_County,county,United States,Florida,Okeechobee,Okeechobee County,27.2439349,-80.82978279999999
+United_States-Florida-Orange_County,county,United States,Florida,Orange,Orange County,33.7879139,-117.8531007
+United_States-Florida-Osceola_County,county,United States,Florida,Osceola,Osceola County,45.3205199,-92.7049303
+United_States-Florida-PalmBeach_County,county,United States,Florida,PalmBeach,PalmBeach County,26.7056206,-80.0364297
+United_States-Florida-Pasco_County,county,United States,Florida,Pasco,Pasco County,46.2305049,-119.0922316
+United_States-Florida-Pinellas_County,county,United States,Florida,Pinellas,Pinellas County,27.876394,-82.7778579
+United_States-Florida-Polk_County,county,United States,Florida,Polk,Polk County,27.8617347,-81.6911559
+United_States-Florida-Putnam_County,county,United States,Florida,Putnam,Putnam County,41.90460119999999,-71.8689917
+United_States-Florida-SantaRosa_County,county,United States,Florida,SantaRosa,SantaRosa County,38.440429,-122.7140548
+United_States-Florida-Sarasota_County,county,United States,Florida,Sarasota,Sarasota County,27.3364347,-82.53065269999999
+United_States-Florida-Seminole_County,county,United States,Florida,Seminole,Seminole County,27.8397466,-82.79121339999999
+United_States-Florida-StJohns_County,county,United States,Florida,StJohns,StJohns County,18.3368114,-64.7280952
+United_States-Florida-StLucie_County,county,United States,Florida,StLucie,StLucie County,27.3225563,-80.54384499999999
+United_States-Florida-Sumter_County,county,United States,Florida,Sumter,Sumter County,33.9204354,-80.3414693
+United_States-Florida-Suwannee_County,county,United States,Florida,Suwannee,Suwannee County,30.24850959999999,-82.99316069999999
+United_States-Florida-Taylor_County,county,United States,Florida,Taylor,Taylor County,42.240872,-83.2696509
+United_States-Florida-Union_County,county,United States,Florida,Union,Union County,45.2334122,-118.0410627
+United_States-Florida-Volusia_County,county,United States,Florida,Volusia,Volusia County,29.0279842,-81.0754657
+United_States-Florida-Wakulla_County,county,United States,Florida,Wakulla,Wakulla County,30.1301689,-84.3542049
+United_States-Florida-Walton_County,county,United States,Florida,Walton,Walton County,38.87561940000001,-84.61022129999999
+United_States-Florida-Washington_County,county,United States,Florida,Washington,Washington County,47.7510741,-120.7401385
+United_States_Virgin_Islands,province,United States,Virgin Islands,,,18.335765,-64.896335
+United_States_Virgin_Islands-Saint_Thomas,county,United States,Virgin Islands,Saint Thomas,,18.3380965,-64.8940946
+United_States_Virgin_Islands-Saint_Croix,county,United States,Virgin Islands,Saint Croix,,17.7245968,-64.83479919999999
+United_States_Virgin_Islands-Saint_John,county,United States,Virgin Islands,Saint John,,18.3563426,-64.7001362
